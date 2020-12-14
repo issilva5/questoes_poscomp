@@ -1,0 +1,9 @@
+{
+  "N": "25",
+  "Enun": "Para medir o custo de execução de um algoritmo, é comum definir uma função de\ncomplexidade f, em que f(n) é a medida de tempo necessário para executar um algoritmo para um\nproblema de tamanho n. Considere as afirmações abaixo sobre funções de complexidade:\n  I. Se f(n) é uma medida de quantidade de tempo necessário para executar um algoritmo em um\n      problema de tamanho n, então f é chamada função de complexidade de tempo.\n II. Se f(n) é uma medida de quantidade de memória necessária para executar um algoritmo de\n      tamanho n, então f é chamada função de complexidade de espaço.\nIII. A complexidade de tempo não representa o tempo diretamente, mas é estimada pelo número\n      de vezes que determinada operação relevante é executada.\nQuais estão corretas?",
+  "A": "Apenas I.",
+  "B": "Apenas II.",
+  "C": "Apenas III.",
+  "D": "Apenas I e II.",
+  "E": "I, II e III."
+}

@@ -1,0 +1,9 @@
+{
+  "N": "31",
+  "Enun": "De acordo com a Teoria de Sistema de Tipos, classifique a função a seguir:\nint soma(int x,int y) {\n     return x+y;\n}",
+  "A": "Função   Somadora.",
+  "B": "Função   Polimórfica.",
+  "C": "Função   Monomórfica.",
+  "D": "Função   Sobrecarregada.",
+  "E": "Função   Abstrata."
+}

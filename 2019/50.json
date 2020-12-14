@@ -1,0 +1,9 @@
+{
+  "N": "50",
+  "Enun": "Uma partição de disco rígido é formatada com um sistema de arquivos com base em\nalocação encadeada, usando tabela de alocação. A formatação da partição considerou um tamanho\nde bloco (cluster) de 4096 bytes. Um programa executado nesse computador cria um arquivo nessa\npartição e grava os dados do arquivo de acordo com o trecho de código abaixo. Como resultado, o\narquivo criado contém ____ bytes e ocupa ____ bytes na área de dados do sistema de arquivos.\n...\n05      char dado;\n...\n25      for(i=0;i<1024;i++)\n27           write(fd, &dado, 1);\n28      close(fd);\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+  "A": "1024   – 1024",
+  "B": "1025   – 1025",
+  "C": "1024   – 4096",
+  "D": "1025   – 4096",
+  "E": "4096   – 4096\n                                   TECNOLOGIA DA COMPUTAÇÃO"
+}

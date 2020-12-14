@@ -1,0 +1,9 @@
+{
+  "N": "23",
+  "Enun": "Selecione o menor item do vetor e, a seguir, troque-o com o item que está na\nprimeira posição do vetor. Repita essas duas operações com os n",
+  "A": "Por seleção.",
+  "B": "Por inserção.",
+  "C": "Shellsort.",
+  "D": "Quicksort.",
+  "E": "Heapsort."
+}

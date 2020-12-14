@@ -1,0 +1,9 @@
+{
+  "N": "22",
+  "Enun": "Dado o trecho de código\nAssumindo que a instrução c=c+1 é 𝑂(1), a expressão que melhor define a ordem de complexidade\ndesse trecho é:",
+  "A": "𝑂(𝑛 log 𝑛)",
+  "B": "𝑂(log 𝑛)",
+  "C": "𝑂(𝑛)",
+  "D": "𝑂(𝑛2 )",
+  "E": "𝑂(√𝑛)"
+}

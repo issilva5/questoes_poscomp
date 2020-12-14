@@ -1,0 +1,9 @@
+{
+  "N": "51",
+  "Enun": "Quando um predicado da cláusula WHERE de uma consulta SQL aninhada referencia\nalgum atributo de uma relação presente na consulta externa, tais consultas são ditas\ncorrelacionadas (ou correlatas). Seja Q uma consulta definida por SELECT DISTINCT SALARIO FROM\nEMPRESA WHERE SALARIO > ALL (SELECT Salario FROM EMPRESA) OR SALARIO < ANY (SELECT\nSalario FROM EMPRESA).\nA expressão SQL que utiliza consultas correlacionadas e cujo resultado é o mesmo resultado de Q é:",
+  "A": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario = E.Salario)",
+  "B": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario >= E.Salario)",
+  "C": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario <= E.Salario)",
+  "D": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario > E.Salario)",
+  "E": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I    WHERE I.Salario < E.Salario)"
+}

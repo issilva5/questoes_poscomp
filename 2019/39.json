@@ -1,0 +1,9 @@
+{
+  "N": "39",
+  "Enun": "Seja M uma máquina de Turing sobre alfabeto Σ. Denotamos por ACEITA(M) o\nconjunto de palavras aceitas por M. Uma linguagem L ⊆ Σ* é denominada Turing-reconhecível quando\nexiste uma Máquina de Turing M tal que L = ACEITA(M). Usaremos TR(L) para denotar que a\nlinguagem L é Turing-reconhecível. Nesse sentido, analise as seguintes afirmações sobre duas\nlinguagens L1 e L2 sobre o alfabeto Σ:\n  I. Se TR(L1) e TR(L2), então TR(L1 ∪ L2).\n II. Se TR(L1), então TR(Σ* \\ L1).\nIII. Se TR(L1) e TR(L2), então TR(L1 ∩ L2).\nQuais estão corretas?",
+  "A": "Apenas I.",
+  "B": "Apenas II.",
+  "C": "Apenas I e III.",
+  "D": "Apenas II e III.",
+  "E": "I, II e III."
+}

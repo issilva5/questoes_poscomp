@@ -1,0 +1,9 @@
+{
+  "N": "65",
+  "Enun": "Em relação às características do protocolo TCP, analise assertivas abaixo:\n  I. Confirma as mensagens que já foram entregues.\n II. É opcional que ele faça controle de congestionamento.\nIII. Entrega as mensagens em ordem.\nIV.  É half-duplex.\nQuais estão corretas?",
+  "A": "Apenas I e III.",
+  "B": "Apenas II e IV.",
+  "C": "Apenas I, II e III.",
+  "D": "Apenas II, III e IV.",
+  "E": "I, II, III e IV."
+}

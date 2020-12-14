@@ -1,0 +1,9 @@
+{
+  "N": "45",
+  "Enun": "Considere o programa abaixo escrito em linguagem C. No instante da execução da\nlinha 5, ter-se-á uma hierarquia composta de quantos processos e threads, respectivamente?\n1        main(){\n2        int i;\n3        for(i=0;i<3;i++)\n4                 fork();\n5        while(1);\n6        }",
+  "A": "1  e 0.",
+  "B": "3  e 0.",
+  "C": "4  e 1.",
+  "D": "7  e 7.",
+  "E": "8  e  8."
+}

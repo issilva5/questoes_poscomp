@@ -1,0 +1,9 @@
+{
+  "N": "38",
+  "Enun": "O programa deve ser feito de forma descendente, com a decomposição do problema\ninicial em módulos, de modo a dividir as ações complexas em uma sequência de ações mais simples.\nEssa técnica de programação é chamada de programação:",
+  "A": "Abstrata.",
+  "B": "Interna.",
+  "C": "Declarativa.",
+  "D": "Sequencial.",
+  "E": "Modular."
+}

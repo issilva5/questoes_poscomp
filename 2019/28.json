@@ -1,0 +1,9 @@
+{
+  "N": "28",
+  "Enun": "De acordo com o diagrama de classes UML a seguir, assinale a alternativa correta.",
+  "A": "A classe \"Monitor\" tem uma relação de polimorfismo com a classe \"SmartTV\".",
+  "B": "A classe \"Mouse\" tem uma relação de composição com a classe \"Computador\".",
+  "C": "A classe \"Teclado\" é herdada da classe \"Computador\".",
+  "D": "O Computador pode ser um computador all in one.",
+  "E": "A SmartTV é o Monitor do Computador."
+}

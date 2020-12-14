@@ -1,0 +1,9 @@
+{
+  "N": "35",
+  "Enun": "As árvores B+ são estruturas usadas para indexar campos de pesquisa e tornar\neficiente o acesso a registros armazenados com base nos valores destes campos. Analise as\nafirmações abaixo sobre árvores B+, assinalando V, se verdadeiras, ou F, se falsas.\n( ) Os nodos folha são geralmente ligados entre si para proporcionar acesso ordenado aos registros\n     a partir do campo de pesquisa.\n( ) Todos os nodos da árvore possuem valores relativos ao campo indexado, bem como ponteiros\n     para o registro correspondente (ou para o bloco que contém o registro).\n( ) Alguns valores do campo indexado que aparecem em nós folhas são repetidos em nós não folha\n     da árvore.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "A": "V – F – F.",
+  "B": "V – V – F.",
+  "C": "F – V – V.",
+  "D": "F – F – F.",
+  "E": "V – F – V."
+}

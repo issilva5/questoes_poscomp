@@ -1,0 +1,9 @@
+{
+  "N": "24",
+  "Enun": "Um procedimento recursivo é aquele que contém em sua descrição:",
+  "A": "Uma prova de indução matemática.",
+  "B": "Duas ou mais chamadas a procedimentos externos.",
+  "C": "Uma ou mais chamadas a si mesmo.",
+  "D": "Somente chamadas externas.",
+  "E": "Uma ou mais chamadas a procedimentos internos."
+}

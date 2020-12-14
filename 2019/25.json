@@ -1,0 +1,9 @@
+{
+  "N": "25",
+  "Enun": "Considere a seguinte função em C:\nvoid funcao(int n){\n  int i,j;\n  for (i=1; i<=n; i++)\n     for(j=1; j<log(i); j++)\n       printf(“%d”,i+j)\n}\nA complexidade dessa função é:",
+  "A": "𝛩(𝑛)",
+  "B": "𝛩(𝑛 𝑙𝑜𝑔 𝑛)",
+  "C": "𝛩(𝑙𝑜𝑔 𝑛)",
+  "D": "𝛩(𝑛2 )",
+  "E": "𝛩(𝑛2 𝑙𝑜𝑔 𝑛)"
+}

@@ -1,0 +1,9 @@
+{
+  "N": "14",
+  "Enun": "Seja um código de Hamming sistemático com a seguinte matriz de comprovação tal\nque 𝐻 = (−𝑃𝑇 |𝐼𝑟 ):\n                                             1   1  0 ∗ ∗   ∗ ∗\n                                       𝐻 = (0    1  1 ∗ ∗   ∗ ∗)\n                                             1   0  1 ∗ ∗   ∗ ∗\nTransmite-se a palavra código Y=0000000 e, durante a transmissão, se produzem erros nas\nposições 2, 3, 4 e 5. Que mensagem de usuário descodificaríamos?",
+  "A": "X  = 0100",
+  "B": "X  = 0111",
+  "C": "X  = 0011",
+  "D": "X  = 0010",
+  "E": "X  = 1001"
+}

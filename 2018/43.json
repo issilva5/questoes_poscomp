@@ -1,0 +1,9 @@
+{
+  "N": "43",
+  "Enun": "Com base na figura abaixo, analise as assertivas que seguem:\n  I. A saída da função F está no valor lógico 1 quando as entradas a, b, c estão, respectivamente,\n     nos valores lógicos 0,1,0 ou 0,0,1.\n II. Basta a entrada estar no valor lógico 0 para que a saída da função F atinja o valor lógico 0\n     também.\nIII. A função booleana da função F pode ser representada por:\nIV. Se os transistores NMOS controlados pelas entradas b e c estão conduzindo, então a saída da\n     função F está no valor lógico 0.\n V. Usando o teorema De Morgan, podemos afirmar que a função booleana F é equivalente a:\nQuais estão corretas?",
+  "A": "Apenas    II e III.",
+  "B": "Apenas    II e IV.",
+  "C": "Apenas    I, III e IV.",
+  "D": "Apenas    I, III e V.",
+  "E": "Apenas    I, III, IV e V."
+}

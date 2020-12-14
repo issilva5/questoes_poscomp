@@ -1,0 +1,9 @@
+{
+  "N": "01",
+  "Enun": "Para quais valores de a, b, c, d, e, f a matriz 𝐽 = (              1  0) é diagonalizável?\n                                                                         𝑏   0\n                                                                         𝑐   0  𝑓  0",
+  "A": "Não pode ser diagonalizável.",
+  "B": "Apenas para números inteiros.",
+  "C": "Somente para números positivos.",
+  "D": "Para quaisquer valores.",
+  "E": "Somente para valores nulos."
+}

@@ -1,0 +1,9 @@
+{
+  "N": "46",
+  "Enun": "No sistema operacional, existem três métodos fundamentais de realizar entrada e\nsaída (E/S). O método mais simples é chamado de E/S _________, em que se tem a CPU realizando\ntodo o trabalho. Na E/S _________, a CPU não fica tão dedicada à rotina de E/S como no método\nanterior, podendo realizar outras atividades enquanto a operação de E/S está em andamento. Já a\nE/S _________ tem o menor consumo de CPU dentre os três métodos, porém, em geral, tem o\nmenor desempenho.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+  "A": "usando interrupção – programada – usando DMA",
+  "B": "programada – usando interrupção – usando DMA",
+  "C": "usando interrupção – usando DMA – programada",
+  "D": "usando DMA – programada – usando interrupção",
+  "E": "programada – usando DMA – usando interrupção"
+}

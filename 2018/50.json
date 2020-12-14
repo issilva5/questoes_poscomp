@@ -1,0 +1,9 @@
+{
+  "N": "50",
+  "Enun": "Qual o número total de processos criados com a execução do programa a seguir?\nConsidere que todas as operações executadas serão realizadas com sucesso.\n                                 int main (void){\n                                     unsigned long int i;\n                                     for(i=0; i<6;i++)\n                                         if ( fork() >= 0 )\n                                             continue;\n                                         else break;\n                                 }",
+  "A": "Sete.",
+  "B": "Oito.",
+  "C": "Trinta e dois.",
+  "D": "Trinta e três.",
+  "E": "Sessenta e quatro.\n                                   TECNOLOGIA DA COMPUTAÇÃO"
+}

@@ -1,0 +1,9 @@
+{
+  "N": "65",
+  "Enun": "Qual protocolo que converte nome em string ASCII em endereço de rede?",
+  "A": "Stringle.",
+  "B": "DNS.",
+  "C": "ARP.",
+  "D": "IP.",
+  "E": "TCP."
+}

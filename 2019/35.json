@@ -1,0 +1,9 @@
+{
+  "N": "35",
+  "Enun": "Uma técnica de compressão de dados converte um bitstream de entrada (mensagem\nde entrada) em outro bitstream comprimido (mensagem comprimida). Algumas técnicas de\ncompressão dependem de uma tabela de símbolos, definida nesse contexto como uma estrutura de\ndados que associa caracteres (ou sequência de caracteres) a códigos utilizados para representar a\nmensagem comprimida. Analise as seguintes assertivas sobre uso de uma tabela de símbolos na\ntécnica de compressão LZW (Lempel, Ziv e Welch) e assinale V, se verdadeiras, ou F, se falsas.\n( ) A tabela de símbolos associa caracteres individuais com códigos de tamanho variável (bitstreams),\n     cujo tamanho está relacionado à frequência de um caractere. Quanto mais frequente for um\n     caractere na mensagem original, menos bits são usados para representá-lo.\n( ) A tabela de símbolos é incluída no início da mensagem comprimida. Para descomprimir a\n     mensagem, o primeiro passo é extrair essa tabela de símbolos, para então usá-la na decodificação\n     da mensagem original.\n( ) Uma estrutura de dados adequada para implementação da tabela de símbolos na técnica LWZ é\n     uma árvore trie, devido às operações que essa técnica precisa realizar sobre a tabela de símbolos\n     para efetuar a compressão.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "A": "F – V – V.",
+  "B": "V – V – F.",
+  "C": "F – F – F.",
+  "D": "F – F – V.",
+  "E": "V – F – V."
+}

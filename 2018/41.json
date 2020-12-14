@@ -1,0 +1,9 @@
+{
+  "N": "41",
+  "Enun": "Abaixo são apresentadas duas linguagens formais sobre o alfabeto {a,b,c}:\nL1 = { anbn | n>1 }\nL2 = { bnapcq | n≥0, p≥0, q≥0 }\nConsidere as seguintes afirmações:\n  I. L1 é uma linguagem regular.\n II. L2 é uma linguagem regular.\nIII. L2 é uma linguagem livre de contexto.\nQuais estão corretas?",
+  "A": "Apenas I.",
+  "B": "Apenas II.",
+  "C": "Apenas I e III.",
+  "D": "Apenas II e III.",
+  "E": "I, II e III."
+}

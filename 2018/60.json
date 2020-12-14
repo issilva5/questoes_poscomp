@@ -1,0 +1,9 @@
+{
+  "N": "60",
+  "Enun": "No modelo de referência ISO/OSI, qual camada torna possível a comunicação entre\ncomputadores com diferentes representações de dados?",
+  "A": "Sessão.",
+  "B": "Apresentação.",
+  "C": "Aplicação.",
+  "D": "Transporte.",
+  "E": "Representação."
+}

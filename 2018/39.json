@@ -1,0 +1,9 @@
+{
+  "N": "39",
+  "Enun": "Considere os seguintes formalismos:\n  I. Autômatos finitos.\n II. Autômatos finitos com uma pilha.\nIII. Autômatos finitos com duas pilhas.\nQuais contêm SOMENTE os formalismos nos quais a variante não determinística reconhece o mesmo\nconjunto de linguagens que a respectiva versão determinística?",
+  "A": "Apenas I.",
+  "B": "Apenas II.",
+  "C": "Apenas I e III.",
+  "D": "Apenas II e III.",
+  "E": "I, II e III."
+}
