@@ -1,0 +1,9 @@
+{
+  "N": "56",
+  "Enun": "A UML é um conjunto de notações que servem para modelagem de diferentes\naspectos de um sistema de software. Essas notações permitem criar diferentes tipos de diagramas,\ndentre eles:\n Um Diagrama de ________________ permite modelar a arquitetura do sistema em tempo de\n   execução, mostrando a configuração dos elementos de hardware (nós) e como os componentes de\n   software são mapeados nestes nós.\n Um Diagrama de _____________ permite modelar a organização estrutural da\n   arquitetura/implementação em termos de componentes de software e suas dependências.\n Um Diagrama de _____________ permite modelar a troca de mensagens entre objetos,\n   enfatizando seu sequenciamento no tempo.\n Um Diagrama de _____________ permite modelar a arquitetura através de agrupamentos lógicos,\n   e de dependências entre estes.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+  "A": "Implantação – Classes – Sequência – Componentes",
+  "B": "Componentes – Classes – Interação – Pacotes",
+  "C": "Implantação – Componentes – Sequência – Pacotes",
+  "D": "Componentes – Pacotes – Sequência – classes",
+  "E": "Implantação – Componentes – Comunicação – Pacotes"
+}

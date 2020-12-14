@@ -1,0 +1,9 @@
+{
+  "N": "62",
+  "Enun": "Qual é o estilo de comunicação indireta no qual publicadores divulgam eventos\nestruturados para um serviço de eventos e assinantes expressam interesse em eventos específicos\npor meio de assinaturas?",
+  "A": "Comunicação em grupo.",
+  "B": "Sistema publicar-assinar.",
+  "C": "Filas de mensagens.",
+  "D": "Memória compartilhada distribuída.",
+  "E": "Espaços de tuplas."
+}

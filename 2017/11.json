@@ -1,0 +1,9 @@
+{
+  "N": "11",
+  "Enun": "Considere as seguintes premissas sobre os alunos de uma universidade:\n  I. Algum aluno que é estagiário não recebe bolsa.\n II. Todos aqueles alunos que estão no último período recebem bolsa.\nPortanto,",
+  "A": "algum aluno do último período é estagiário.",
+  "B": "todos os alunos do último período não são estagiários.",
+  "C": "algum aluno que é estagiário não está no último período.",
+  "D": "algum aluno do último período não é estagiário.",
+  "E": "todos os alunos que são estagiários não estão no último período."
+}

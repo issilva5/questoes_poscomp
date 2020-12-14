@@ -1,0 +1,9 @@
+{
+  "N": "46",
+  "Enun": "Uma partição de disco rígido é formatada com um sistema de arquivos que utiliza\nalocação encadeada baseada em tabela de alocação de arquivos (FAT). Após a formatação, a partição\npossui setores de 512 bytes e tamanho de bloco (cluster) de 2048 bytes. Ao criar um arquivo nessa\npartição, gravar 1 byte e fechá-lo, qual espaço esse arquivo ocupa na área de dados da partição?",
+  "A": "1 byte",
+  "B": "2 bytes",
+  "C": "512 bytes",
+  "D": "2048 bytes",
+  "E": "1 setor"
+}

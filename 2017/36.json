@@ -1,0 +1,9 @@
+{
+  "N": "36",
+  "Enun": "Sobre percurso em grafos, é correto afirmar que um percurso:",
+  "A": "É uma família de ligações sucessivas incidentes, cada uma tendo uma extremidade incidente à\n   anterior e à outra subsequente.",
+  "B": "É fechado, se a última ligação da sucessão for adjacente à primeira.",
+  "C": "Aberto não pode conter subpercursos fechados.",
+  "D": "É elementar, se não repetir ligações.",
+  "E": "É simples, se não repetir vértices."
+}

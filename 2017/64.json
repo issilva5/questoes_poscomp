@@ -1,0 +1,9 @@
+{
+  "N": "64",
+  "Enun": "Em sistemas de arquivos distribuídos, o requisito no qual os programas clientes não\ndevem conhecer a distribuição de arquivos, sendo que um único conjunto de operações é fornecido\npara acesso a arquivos locais e remotos, é denominado transparência de",
+  "A": "acesso.",
+  "B": "desempenho.",
+  "C": "escala.",
+  "D": "localização.",
+  "E": "mobilidade."
+}

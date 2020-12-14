@@ -1,0 +1,9 @@
+{
+  "N": "30",
+  "Enun": "Um dos erros mais comuns que pode ocorrer durante a avaliação de uma expressão\naritmética em um programa é quando o resultado de uma operação não pode ser representado na\ncélula de memória para o qual ele foi alocado. Esse erro é chamado de transbordamento\n(_____________) e transbordamento negativo (_____________), dependendo se o resultado é muito\ngrande ou muito pequeno.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+  "A": "big error – small error",
+  "B": "coerção – sobrecarga",
+  "C": "encapsulamento – abstração",
+  "D": "overflow – underflow",
+  "E": "transparência – efeito colateral"
+}

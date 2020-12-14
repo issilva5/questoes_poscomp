@@ -1,0 +1,9 @@
+{
+  "N": "40",
+  "Enun": "Assinale a alternativa INCORRETA.",
+  "A": "A união de duas linguagens recursivas é uma linguagem recursiva.",
+  "B": "Segundo a Tese de Church, a capacidade de computação representada pela máquina de Turing é o\n   limite máximo que pode ser atingido por qualquer modelo de computação.",
+  "C": "Seja L uma linguagem enumerável recursivamente, se o complemento de L for enumerável\n   recursivamente, então L é uma linguagem recursiva.",
+  "D": "Um problema X é NP-completo quando X pertence à classe NP e, adicionalmente, X é redutível em\n   tempo polinomial para qualquer outro problema Y na classe NP.",
+  "E": "Todo problema que está na classe P também está na classe NP."
+}

@@ -1,0 +1,9 @@
+{
+  "N": "38",
+  "Enun": "Analise as seguintes afirmações sobre subprogramas em linguagens de programação:\n  I.  Cada subprograma tem um único ponto de entrada.\n II.  O controle sempre retorna para o chamador quando a execução do subprograma termina.\nIII.  A unidade chamadora é suspensa durante a execução do subprograma chamado.\nIV.   Uma chamada a um subprograma é a requisição explícita para que ele seja executado.\nQuais estão corretas?",
+  "A": "Apenas I e IV.",
+  "B": "Apenas II e III.",
+  "C": "Apenas I, II e III.",
+  "D": "Apenas II, III e IV.",
+  "E": "I, II, III e IV."
+}

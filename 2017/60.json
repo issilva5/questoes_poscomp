@@ -1,0 +1,9 @@
+{
+  "N": "60",
+  "Enun": "Qual protocolo faz o mapeamento de endereço IP em endereço Ethernet?",
+  "A": "IEEE 802.11",
+  "B": "DNS",
+  "C": "TCP",
+  "D": "IP",
+  "E": "ARP"
+}

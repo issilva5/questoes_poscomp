@@ -1,0 +1,9 @@
+{
+  "N": "52",
+  "Enun": "Considere as descrições de dois mecanismos de segurança de banco de dados: (i)\nduas ou mais tuplas em diferentes níveis de classificação são gravadas, ambas com o mesmo valor de\nchave aparente; e (ii) uma única tupla é gravada pertinente ao nível de classificação mais elevado, e\nocorre a produção de tuplas correspondentes a níveis inferiores. Tais mecanismos de segurança são\ndenominados, respectivamente,",
+  "A": "acesso discricionário e poli-instanciação.",
+  "B": "filtragem e poli-instanciação.",
+  "C": "poli-instanciação e filtragem.",
+  "D": "filtragem e acesso discricionário.",
+  "E": "poli-instanciação e acesso discricionário."
+}

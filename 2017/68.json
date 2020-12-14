@@ -1,0 +1,9 @@
+{
+  "N": "68",
+  "Enun": "A tarefa principal de um analisador léxico consiste em ler os caracteres da entrada\ndo programa-fonte, agrupá-los em lexemas e gerar uma sequência de tokens que será enviada ao\nanalisador sintático. Sobre o analisador léxico, analise as assertivas abaixo:\n  I. Além da identificação de lexemas, outras tarefas podem ser realizadas por esse analisador, tais\n     como: remoção de comentários e espaços em branco e a associação de mensagens de erros às\n     linhas do programa-fonte.\n II. Token é a unidade básica do texto-fonte. Pode ser representado por três informações: a classe do\n     token, que representa o tipo do token reconhecido, o valor do token, que é o texto do lexema\n     reconhecido e a posição que indica o local do texto-fonte (linha e coluna) onde ocorreu o token.\nIII. Expressões regulares e geradores de analisadores léxicos são notações utilizadas para especificar\n     os padrões de lexemas.\nIV. Na análise léxica, uma representação intermediária do tipo árvore é criada. Esta apresenta a\n     estrutura gramatical da sequência de tokens.\nQuais estão corretas?",
+  "A": "Apenas    I.",
+  "B": "Apenas    II.",
+  "C": "Apenas    IV.",
+  "D": "Apenas    I e II.",
+  "E": "Apenas    III e IV."
+}

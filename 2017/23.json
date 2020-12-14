@@ -1,0 +1,9 @@
+{
+  "N": "23",
+  "Enun": "Considere o problema de somar os n elementos de um mesmo arranjo A de inteiros.\nO problema é resolvido da seguinte forma: (i) somam-se recursivamente os elementos da primeira\nmetade de A; (ii) somam-se recursivamente os elementos da segunda metade de A; e (iii) soma-se\nesses dois valores juntos. Que tipo de recursão foi utilizada para a solução do problema?",
+  "A": "Linear.",
+  "B": "Binária.",
+  "C": "Ternária.",
+  "D": "Final.",
+  "E": "Múltipla."
+}
