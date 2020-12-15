@@ -5,5 +5,7 @@
   "B": "Não preempção de recursos; todas estas condições presentes ao mesmo tempo.",
   "C": "Preempção de recursos; ao menos três destas condições presentes ao mesmo tempo.",
   "D": "Preempção de recursos; todas estas condições presentes ao mesmo tempo.",
-  "E": "Combinação de preempção e não preempção de recursos; todas estas condições presentes ao\n   mesmo tempo."
+  "E": "Combinação de preempção e não preempção de recursos; todas estas condições presentes ao\n   mesmo tempo.",
+  "Resposta": "B",
+  "Componente": "Fundamentos de Computação"
 }

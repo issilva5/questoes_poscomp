@@ -5,5 +5,7 @@
   "B": "É paradigma de linguagens não tipadas.",
   "C": "É paradigma de linguagens orientadas a objeto.",
   "D": "É baseado na arquitetura de Harvard.",
-  "E": "Descreve uma sequência de passos que mudam o estado de um programa."
+  "E": "Descreve uma sequência de passos que mudam o estado de um programa.",
+  "Resposta": "E",
+  "Componente": "Fundamentos de Computação"
 }

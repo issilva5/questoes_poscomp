@@ -1,0 +1,11 @@
+{
+  "N": "51",
+  "Enun": "Quanto à recuperação após falhas, é importante caracterizar os tipos de\n escalonamentos para determinar se a recuperação é possível e, em caso positivo, a complexidade do\n processo de recuperação. Nesse sentido, analise as assertivas abaixo sobre os tipos de\n escalonamento:\n  I. Escalonamentos estritos são necessariamente escalonamentos seriais.\n II. Escalonamentos sem aborto em cascata são necessariamente escalonamentos estritos.\nIII. Escalonamentos não seriais são necessariamente escalonamentos com aborto em cascata.\n IV. Escalonamentos seriais são necessariamente escalonamentos recuperáveis.\n Quais estão corretos?\n A) Apenas  I.\n B) Apenas  IV.\n C) Apenas  I e IV.\n D) Apenas  II e III.\n E) Apenas  II e IV.\n ",
+  "A": null,
+  "B": null,
+  "C": null,
+  "D": null,
+  "E": null,
+  "Resposta": "B",
+  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+}

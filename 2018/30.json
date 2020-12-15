@@ -5,5 +5,7 @@
   "B": "if",
   "C": "while",
   "D": "switch",
-  "E": "else"
+  "E": "else",
+  "Resposta": "C",
+  "Componente": "Fundamentos de Computação"
 }

@@ -5,5 +5,7 @@
   "B": "Sim.",
   "C": "Não pode ser calculado.",
   "D": "Sim, se fosse um espaço de ℝ2 .",
-  "E": "Seriam independentes se o 1º vetor fosse (1, 5, 7)."
+  "E": "Seriam independentes se o 1º vetor fosse (1, 5, 7).",
+  "Resposta": "B",
+  "Componente": "Álgebra Linear"
 }

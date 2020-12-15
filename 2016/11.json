@@ -1,0 +1,11 @@
+{
+  "N": "11",
+  "Enun": "Considere a seguinte proposição Z: p->(q->r)\nA negação da proposição Z é logicamente equivalente à proposição:",
+  "A": "(p ∧ q) ∧ (~r)",
+  "B": "(p ∨ q) ∧ (~r)",
+  "C": "(~p) ∧ (~q) ∧ r",
+  "D": "(~p) ∧ ((~q) ∨ r)",
+  "E": "(~p) ∨ ((~q) ∨ r)",
+  "Resposta": "A",
+  "Componente": "MATEMáTICA"
+}

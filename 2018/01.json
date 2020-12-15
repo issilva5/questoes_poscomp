@@ -5,5 +5,7 @@
   "B": "Apenas para números inteiros.",
   "C": "Somente para números positivos.",
   "D": "Para quaisquer valores.",
-  "E": "Somente para valores nulos."
+  "E": "Somente para valores nulos.",
+  "Resposta": "D",
+  "Componente": "Matemática"
 }

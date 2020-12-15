@@ -1,0 +1,11 @@
+{
+  "N": "63",
+  "Enun": "Sobre a técnica de tradução dirigida por sintaxe, é correto afirmar que:",
+  "A": "Uma definição dirigida por sintaxe é uma gramática livre de contexto acrescida de atributos e\n   regras. Os atributos são associados às produções, e as regras aos símbolos terminais e não\n   terminais da gramática.",
+  "B": "Uma definição dirigida por sintaxe é denominada definição S-atribuída quando nessa estão\n   envolvidos apenas atributos herdados.",
+  "C": "As regras semânticas só são aplicadas após a construção total da árvore sintática pelo parser do\n   compilador.",
+  "D": "Grafos de dependência são utilizados para determinar uma ordem de avaliação para as instâncias\n   dos atributos de uma árvore de derivação.",
+  "E": "Sendo “S” um símbolo da gramática presente em uma árvore de derivação, um atributo sintetizado   é computado através dos valores dos atributos dos nós irmãos ou do nó pai de “S”.",
+  "Resposta": "D",
+  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+}

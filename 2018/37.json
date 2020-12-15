@@ -5,5 +5,7 @@
   "B": "A ordenação topológica de um grafo pode ser vista como uma ordenação de suas arestas ao\n    longo de uma linha horizontal, de tal forma que todos os vértices estão classificados em ordem\n    crescente.",
   "C": "A ordenação topológica de um grafo direcionado acíclico G=(V,A) é uma ordenação linear de\n    todos os seus vértices tal que G contém uma aresta (u, v), então u aparece antes de v.",
   "D": "A busca binária é utilizada para obter a ordenação topológica de um grafo cíclico não direcionado.",
-  "E": "O algoritmo para obter a ordenação topológica de um grafo direcionado usa o transposto do grafo\n    que consiste de todas as arestas com as suas direções invertidas."
+  "E": "O algoritmo para obter a ordenação topológica de um grafo direcionado usa o transposto do grafo\n    que consiste de todas as arestas com as suas direções invertidas.",
+  "Resposta": "C",
+  "Componente": "Fundamentos de Computação"
 }

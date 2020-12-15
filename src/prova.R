@@ -1,0 +1,1 @@
+splitProva <- function(page) { lapply(strsplit(page, 'QUESTÃO '), grep, pattern = '^[0-9]+ – ', value = TRUE) }

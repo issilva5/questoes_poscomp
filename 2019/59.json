@@ -5,5 +5,7 @@
   "B": "Uma transformação de domínio de cores.",
   "C": "A maior compressibilidade da informação.",
   "D": "A menor discriminabilidade dos objetos.",
-  "E": "A máxima variância do histograma."
+  "E": "A máxima variância do histograma.",
+  "Resposta": "E",
+  "Componente": "Processamento de Imagens"
 }

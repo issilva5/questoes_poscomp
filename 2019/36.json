@@ -5,5 +5,7 @@
   "B": "Caminho    gerador mínimo de origem única.",
   "C": "Caminho    mais curto com origem única.",
   "D": "Caminho    mais curto entre todos os pares de vértices.",
-  "E": "Caminho    gerador mínimo de origem múltipla."
+  "E": "Caminho    gerador mínimo de origem múltipla.",
+  "Resposta": "C",
+  "Componente": "Teoria dos Grafos"
 }

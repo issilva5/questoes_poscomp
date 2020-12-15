@@ -1,0 +1,11 @@
+{
+  "N": "50",
+  "Enun": "Um VSNT (Veículo Submarino Não Tripulado) é usado para monitoramento de\nplataformas de petróleo marítimas. O VSNT tira uma foto a cada 1 minuto. O tamanho de cada arquivo\nde foto é padronizado em 5 kB. As fotos são armazenadas em uma partição do disco rígido do VSNT,\na qual é formatada com sistema de arquivos FAT32 e tamanho de bloco (cluster) de 4 kB. O tempo\nde missão do VSNT é de uma hora. Após o término de cada missão, as fotos são copiadas do VSNT\npara um computador, que utiliza uma partição FAT32 formatada com clusters de 8 kB. Com base\nnesse cenário, o espaço necessário no computador para armazenar todos os arquivos do VSNT em\numa missão é de:\n  kB: kilobyte\n  1 kB = 1024 bytes",
+  "A": "240   kB.",
+  "B": "300   kB.",
+  "C": "360   kB.",
+  "D": "480   kB.",
+  "E": "600   kB.",
+  "Resposta": "D",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

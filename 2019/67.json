@@ -5,5 +5,7 @@
   "B": "Peer-to-peer estruturada.",
   "C": "Descentralizada.",
   "D": "Peer-to-peer não estruturada.",
-  "E": "Centralizada."
+  "E": "Centralizada.",
+  "Resposta": "E",
+  "Componente": "Sistemas Distribuídos"
 }

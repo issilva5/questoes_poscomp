@@ -5,5 +5,7 @@
   "B": "L(G) não é regular e L(A) é subconjunto próprio de L(G).",
   "C": "L(A) = L(G).",
   "D": "L(G) é regular e L(G) é subconjunto próprio de L(A).",
-  "E": "L(G) não é regular e L(G) é subconjunto próprio de L(A)."
+  "E": "L(G) não é regular e L(G) é subconjunto próprio de L(A).",
+  "Resposta": "D",
+  "Componente": "Fundamentos de Computação"
 }

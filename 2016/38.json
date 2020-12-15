@@ -1,0 +1,11 @@
+{
+  "N": "38",
+  "Enun": "Assinale a alternativa correta a respeito do algoritmo em Java a seguir.",
+  "A": "Os números impressos no console variam de 0 até 100 sem repetição.",
+  "B": "Os números impressos no console variam de 0 até 101 com repetição.",
+  "C": "A classe TreeSet garante que os números não se repitam.",
+  "D": "A classe Set gera números aleatórios.",
+  "E": "Vinte e um números serão sorteados.",
+  "Resposta": "*",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

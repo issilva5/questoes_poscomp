@@ -5,5 +5,7 @@
   "B": "Hoje não é sábado e Heide foi à praia.",
   "C": "Hoje não é sábado e Marcos não foi trabalhar.",
   "D": "Heide foi à praia ou Marcos foi trabalhar.",
-  "E": "Hoje é sábado e Marcos foi trabalhar."
+  "E": "Hoje é sábado e Marcos foi trabalhar.",
+  "Resposta": "C",
+  "Componente": "Matemática"
 }

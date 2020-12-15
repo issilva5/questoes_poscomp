@@ -5,5 +5,7 @@
   "B": "Refere-se a uma regra lógico-indutiva.",
   "C": "Utiliza a probabilidade de um evento a partir do conhecimento a priori.",
   "D": "Associa-se à probabilidade de que não deve estar relacionada ao evento.",
-  "E": "Descreve a precisão de eventos medindo a proporção dos resultados."
+  "E": "Descreve a precisão de eventos medindo a proporção dos resultados.",
+  "Resposta": "C",
+  "Componente": "Inteligência Artificial"
 }

@@ -1,0 +1,11 @@
+{
+  "N": "31",
+  "Enun": "De acordo com o diagrama de classes UML, assinale a alternativa que se relaciona\ndiretamente com o conceito de Polimorfismo da Programação Orientada a Objetos.",
+  "A": "A relação entre as classes “Veículo” e “Roda”.",
+  "B": "O método “solicita_compra()” das classes “Peça” e “Veículo”.",
+  "C": "Os atributos “aro: Integer” e “cor: String” da classe “Roda”.",
+  "D": "O atributo “nome: String” da classe “Peça”.",
+  "E": "O atributo “ano: Integer” da classe “Veículo”.",
+  "Resposta": "B",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

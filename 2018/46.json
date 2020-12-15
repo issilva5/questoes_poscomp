@@ -5,5 +5,7 @@
   "B": "programada – usando interrupção – usando DMA",
   "C": "usando interrupção – usando DMA – programada",
   "D": "usando DMA – programada – usando interrupção",
-  "E": "programada – usando DMA – usando interrupção"
+  "E": "programada – usando DMA – usando interrupção",
+  "Resposta": "B",
+  "Componente": "Fundamentos de Computação"
 }

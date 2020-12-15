@@ -1,0 +1,11 @@
+{
+  "N": "33",
+  "Enun": "Assinale a alternativa correta em relação ao padrão de projeto Singleton.",
+  "A": "Possui apenas 2 classes.",
+  "B": "É instanciado através da chamada de um método público e estático.",
+  "C": "Possui um membro privado não estático da própria classe.",
+  "D": "Tem que ter o construtor público para funcionar.",
+  "E": "Não é um padrão de criação.",
+  "Resposta": "B",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

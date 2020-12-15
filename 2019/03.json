@@ -5,5 +5,7 @@
   "B": "r: x+y+4=0",
   "C": "r: 2x + y = 0",
   "D": "r: x–y+1=0",
-  "E": "r: x – 3y + 2 = 0"
+  "E": "r: x – 3y + 2 = 0",
+  "Resposta": "D",
+  "Componente": "Geometria Analítica"
 }

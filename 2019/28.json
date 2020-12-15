@@ -5,5 +5,7 @@
   "B": "A classe \"Mouse\" tem uma relação de composição com a classe \"Computador\".",
   "C": "A classe \"Teclado\" é herdada da classe \"Computador\".",
   "D": "O Computador pode ser um computador all in one.",
-  "E": "A SmartTV é o Monitor do Computador."
+  "E": "A SmartTV é o Monitor do Computador.",
+  "Resposta": "*",
+  "Componente": "Linguagens de Programação"
 }

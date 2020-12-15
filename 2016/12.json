@@ -1,0 +1,11 @@
+{
+  "N": "12",
+  "Enun": "Se Daniel fala dinamarquês, então eu falo inglês ou alemão. Se eu não falo alemão\ne nem inglês, então:",
+  "A": "Eu falo dinamarquês.",
+  "B": "Eu não falo dinamarquês.",
+  "C": "Daniel fala inglês.",
+  "D": "Daniel não fala inglês.",
+  "E": "Daniel não fala dinamarquês.",
+  "Resposta": "E",
+  "Componente": "MATEMáTICA"
+}

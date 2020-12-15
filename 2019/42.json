@@ -5,5 +5,7 @@
   "B": "S = A B C",
   "C": "S = A B C",
   "D": "S = A B C",
-  "E": "S = A B C"
+  "E": "S = A B C",
+  "Resposta": "A",
+  "Componente": "Circuitos Digitais"
 }

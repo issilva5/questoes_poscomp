@@ -1,0 +1,11 @@
+{
+  "N": "47",
+  "Enun": "Dada a função F(A,B,C,D) composta dos termos mínimos (minterm)={0, 2, 6, 8, 9,\n11, 12, 13} e dos termos não essenciais (don’t care)={5, 13}. Simplifique essa função como soma\nde produtos. O símbolo ’ representa o complemento:",
+  "A": "AC’+AD+A’CD’+B’C’D’",
+  "B": "AC’D’+AB’C’+ACD+A’CD’+A’B’D’",
+  "C": "AC’+AD+A’CD’+A’B’D’+BC’D",
+  "D": "ACD’+A’D+A’BC’",
+  "E": "AC’+AD’+ A’CD+ B’C’D’",
+  "Resposta": "*",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

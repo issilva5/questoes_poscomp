@@ -5,5 +5,7 @@
   "B": "O ancestral de um nodo pode ser tanto seu ancestral direto como um ancestral do pai do nodo.",
   "C": "Uma árvore é balanceada se existe uma ordem linear definida para cada nodo, isto é, podemos\n   identificar o filho de um nodo como sendo o primeiro, segundo e assim por diante.",
   "D": "Uma árvore binária é dita própria se todo nodo interno tiver um ou zero filhos.",
-  "E": "Se o nodo v é pai do nodo u, então dizemos que v é filho de u."
+  "E": "Se o nodo v é pai do nodo u, então dizemos que v é filho de u.",
+  "Resposta": "B",
+  "Componente": "Algoritmos E Estrutura de Dados"
 }

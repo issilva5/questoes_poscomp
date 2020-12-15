@@ -5,5 +5,7 @@
   "B": "Isolamento.",
   "C": "Transação isolada.",
   "D": "Transação atômica.",
-  "E": "Durabilidade."
+  "E": "Durabilidade.",
+  "Resposta": "A",
+  "Componente": "Sistemas Distribuídos"
 }

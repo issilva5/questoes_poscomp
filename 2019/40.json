@@ -5,5 +5,7 @@
   "B": "Apenas III.",
   "C": "Apenas I e II.",
   "D": "Apenas II e III.",
-  "E": "I, II e III."
+  "E": "I, II e III.",
+  "Resposta": "E",
+  "Componente": "Linguagens Formais, Autômatos E Computabilidade"
 }

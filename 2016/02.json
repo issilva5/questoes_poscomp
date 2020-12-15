@@ -1,0 +1,11 @@
+{
+  "N": "02",
+  "Enun": "Seja a transformação linear 𝑻: ℝ𝟐 → ℝ𝟐 descrita por                      𝑻(x1 , x2 ) = [       × x\n                                                                                                     −3 0.5     2\na alternativa que apresenta corretamente a lei da transformação linear e a imagem de 𝑣 = (−3,4) é:",
+  "A": "𝑻(x1 , x2 ) = (x1 + 3x2 , −3x1 + 0.5x2 ) assim, 𝑻(𝒗) = (9,11)",
+  "B": "𝑻(x1 , x2 ) = (x1 − 3x2 , 3x1 + 0.5x2 ) assim, 𝑻(𝒗) = (21, −1)",
+  "C": "𝑻(x1 , x2 ) = (x1 + 3x2 , 3x1 + 0.5x2 ) assim, 𝑻(𝒗) = (9, −7)",
+  "D": "𝑻(x1 , x2 ) = (x1 + 0.5x2 , −3x1 + 3x2 ) assim, 𝑻(𝒗) = (−1,21)",
+  "E": "𝑻(x1 , x2 ) = (−x1 + 3x2 , −3x1 − 0.5x2 ) assim, 𝑻(𝒗) = (21,11)",
+  "Resposta": "A",
+  "Componente": "MATEMáTICA"
+}

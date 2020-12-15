@@ -5,5 +5,7 @@
   "B": "Busca em profundidade.",
   "C": "Componentes fortemente conectados.",
   "D": "Árvore geradora mínima.",
-  "E": "Busca em largura."
+  "E": "Busca em largura.",
+  "Resposta": "B",
+  "Componente": "Fundamentos de Computação"
 }

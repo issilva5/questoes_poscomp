@@ -1,0 +1,11 @@
+{
+  "N": "68",
+  "Enun": "Durante a análise sintática, erros podem ser detectados na sintaxe do programa\n fonte. Nesse caso, alguns compiladores podem reportar o erro e interromper a análise. Outros\n reportam o erro, mas, também, realizam uma recuperação do erro e tentam continuar a fase de\n análise, entretanto, a fase de síntese é desativada. Nesse sentido, analise as assertivas abaixo:\n   I. Um recuperador de erros para um analisador sintático deve informar a presença de erros de forma\n      clara e recuperar-se de maneira que consiga continuar a fase de análise sem se preocupar com o\n      custo de processamento para tal atividade.\n  II. O modo pânico é uma forma de recuperação de erro na qual o analisador despreza símbolos da\n      entrada até que um token sincronizante seja encontrado.\nIII. Erros sintáticos incluem divergências de tipo entre operadores e operandos.\nIV. Na recuperação em nível de frase ou local, há a alteração sobre um símbolo que pode ser feita:\n      pela substituição, inserção ou exclusão de token de entrada.\n Quais estão corretas?\n A) Apenas I.\n B) Apenas I e III.\n C) Apenas II e IV.\n D) Apenas I, II e III.\n E) I, II, III e IV.\n ",
+  "A": null,
+  "B": null,
+  "C": null,
+  "D": null,
+  "E": null,
+  "Resposta": "C",
+  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+}

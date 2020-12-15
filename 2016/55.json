@@ -1,0 +1,11 @@
+{
+  "N": "55",
+  "Enun": "O emprego do protocolo de bloqueio de duas fases (2PL) garante a serialização de\nescalonamentos não seriais. A variação desse protocolo que garante escalonamentos livres de impasse\n(deadlock) é denominada:",
+  "A": "2PL  Básico.",
+  "B": "2PL  Restrito.",
+  "C": "2PL  Conservador.",
+  "D": "2PL  Estrito.",
+  "E": "2PL  Rigoroso.",
+  "Resposta": "C",
+  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+}

@@ -5,5 +5,7 @@
   "B": "Duas ou mais chamadas a procedimentos externos.",
   "C": "Uma ou mais chamadas a si mesmo.",
   "D": "Somente chamadas externas.",
-  "E": "Uma ou mais chamadas a procedimentos internos."
+  "E": "Uma ou mais chamadas a procedimentos internos.",
+  "Resposta": "C",
+  "Componente": "Algoritmos E Estrutura de Dados"
 }

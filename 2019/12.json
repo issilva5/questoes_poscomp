@@ -5,5 +5,7 @@
   "B": "Há, pelo menos, um curso de Computação no qual não há disciplina de Lógica.",
   "C": "Em cada um dos cursos de Computação, não há disciplina de Lógica.",
   "D": "Não há curso de Computação no qual tenha disciplina de Lógica.",
-  "E": "Há um curso de Computação no qual há, no máximo, uma disciplina de Lógica."
+  "E": "Há um curso de Computação no qual há, no máximo, uma disciplina de Lógica.",
+  "Resposta": "B",
+  "Componente": "Lógica Matemática"
 }

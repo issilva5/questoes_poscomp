@@ -5,5 +5,7 @@
   "B": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario >= E.Salario)",
   "C": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario <= E.Salario)",
   "D": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario > E.Salario)",
-  "E": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I    WHERE I.Salario < E.Salario)"
+  "E": "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I    WHERE I.Salario < E.Salario)",
+  "Resposta": "D",
+  "Componente": "Tecnologia da Computação"
 }

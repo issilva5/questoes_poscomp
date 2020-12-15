@@ -1,0 +1,11 @@
+{
+  "N": "24",
+  "Enun": "A operação de destruição de uma árvore requer um tipo de percurso em que a\nliberação de um nó é realizada apenas após todos os seus descendentes terem sido também liberados.\nSegundo essa descrição, a operação de destruição de uma árvore deve ser implementada utilizando\no percurso",
+  "A": "em ordem.",
+  "B": "pré-ordem.",
+  "C": "central.",
+  "D": "simétrico.",
+  "E": "pós-ordem.",
+  "Resposta": "E",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

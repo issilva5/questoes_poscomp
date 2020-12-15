@@ -1,0 +1,11 @@
+{
+  "N": "65",
+  "Enun": "Uma rede conectada a Internet possui a máscara de sub-rede 255.255.255.0. Qual\no número máximo de computadores que a rede suporta?",
+  "A": "224.",
+  "B": "128.",
+  "C": "65534.",
+  "D": "256.",
+  "E": "254.",
+  "Resposta": "E",
+  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+}

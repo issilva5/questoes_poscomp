@@ -1,0 +1,11 @@
+{
+  "N": "21",
+  "Enun": "Um algoritmo tem complexidade O(3m3 + 2mn2 + n2 + 10m + m2). Uma maneira\nsimplificada de representar a complexidade desse algoritmo é:",
+  "A": "O(m3 + mn2).",
+  "B": "O(m3).",
+  "C": "O(m2).",
+  "D": "O(mn2).",
+  "E": "O(m3+ n2).",
+  "Resposta": "A",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

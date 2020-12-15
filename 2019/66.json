@@ -5,5 +5,7 @@
   "B": "Quantização e Part-of-Speech.",
   "C": "Extração de entidades e tokenização.",
   "D": "Bigramas e memórias recorrentes.",
-  "E": "Espectrogramas e realce."
+  "E": "Espectrogramas e realce.",
+  "Resposta": "C",
+  "Componente": "Inteligência Artificial"
 }

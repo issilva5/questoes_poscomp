@@ -5,5 +5,7 @@
   "B": "𝑂(log 𝑛)",
   "C": "𝑂(𝑛)",
   "D": "𝑂(𝑛2 )",
-  "E": "𝑂(√𝑛)"
+  "E": "𝑂(√𝑛)",
+  "Resposta": "A",
+  "Componente": "Fundamentos de Computação"
 }

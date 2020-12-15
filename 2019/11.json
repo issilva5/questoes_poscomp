@@ -5,5 +5,7 @@
   "B": "Hoje não é domingo e Daenerys comeu churrasco.",
   "C": "Hoje não é domingo e João não andou a cavalo.",
   "D": "Daenerys comeu churrasco ou João andou a cavalo.",
-  "E": "Hoje é domingo e João andou a cavalo."
+  "E": "Hoje é domingo e João andou a cavalo.",
+  "Resposta": "C",
+  "Componente": "Lógica Matemática"
 }

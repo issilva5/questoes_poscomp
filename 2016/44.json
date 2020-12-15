@@ -1,0 +1,11 @@
+{
+  "N": "44",
+  "Enun": "A representação em complemento de dois é uma representação binária de números\ncom sinal a qual utiliza o bit mais significativo como bit de sinal, o que facilita o teste se um número\ninteiro é positivo ou negativo.\nDe acordo com a regra da representação em complemento de dois, a conversão do número -32658\ncorresponde ao número:",
+  "A": "1000000001010001.",
+  "B": "1001001001001001.",
+  "C": "1111111100100010.",
+  "D": "1011111100010001.",
+  "E": "1000000001101110.",
+  "Resposta": "E",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

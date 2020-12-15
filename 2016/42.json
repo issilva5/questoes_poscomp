@@ -1,0 +1,11 @@
+{
+  "N": "42",
+  "Enun": "Determine o tipo de máquina de estados finitos da figura abaixo:",
+  "A": "Mealy síncrona.",
+  "B": "Mealy assíncrona.",
+  "C": "Moore.",
+  "D": "Turing que sempre para.",
+  "E": "Turing.",
+  "Resposta": "B",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

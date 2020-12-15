@@ -5,5 +5,7 @@
   "B": "Na   produção 4, T1.val é herdado.",
   "C": "Na   produção 5, T.val e F.val são herdados.",
   "D": "Na   produção 2, E.val é sintetizado e T.val é herdado.",
-  "E": "Na   produção 2, E1.val é sintetizado e T.val é herdado."
+  "E": "Na   produção 2, E1.val é sintetizado e T.val é herdado.",
+  "Resposta": "A",
+  "Componente": "Compiladores"
 }

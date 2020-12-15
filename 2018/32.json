@@ -5,5 +5,7 @@
   "B": "Um grafo ponderado é um grafo não direcionado no qual todos os pares de vértices são\n    adjacentes entre si.",
   "C": "Uma floresta é um grafo não direcionado acíclico e conectado.",
   "D": "Uma árvore livre é um grafo não direcionado acíclico, podendo ou não ser conectado.",
-  "E": "Um grafo direcionado é fortemente conectado se cada dois vértices quaisquer forem alcançáveis a    partir um do outro."
+  "E": "Um grafo direcionado é fortemente conectado se cada dois vértices quaisquer forem alcançáveis a    partir um do outro.",
+  "Resposta": "E",
+  "Componente": "Fundamentos de Computação"
 }

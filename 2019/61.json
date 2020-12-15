@@ -5,5 +5,7 @@
   "B": "Capta-se cenas a partir de dois referenciais diferentes para se obter um mapa de disparidade.",
   "C": "Avalia-se o deslocamento entre objetos para se calcular a dispersão.",
   "D": "Tem por objetivo final subdividir as imagens.",
-  "E": "Um dos seus subproblemas consiste em desconstruir as imagens em apenas uma."
+  "E": "Um dos seus subproblemas consiste em desconstruir as imagens em apenas uma.",
+  "Resposta": "B",
+  "Componente": "Processamento de Imagens"
 }

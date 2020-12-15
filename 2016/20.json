@@ -1,0 +1,11 @@
+{
+  "N": "20",
+  "Enun": "Uma empresa de desenvolvimento de aplicativos para celular pretende quantificar a\nrelação entre a idade de usuários e o número de downloads de aplicativos durante 30 dias. Assim,\nescolheu 10 clientes de sua empresa e obteve os seguintes dados:\n           Amostra          Idade (x)     Nº de downloads (y)         x.y      x2      y2\n                   1               18                      35        630      324   1225\n                   2               20                      20        400      400    400\n                   3               25                      12        300      625    144\n                   4               30                      15        450      900    225\n                   5               35                      27        945    1225     729\n                   6               40                       4        160    1600      16\n                   7               45                      12        540    2025     144\n                   8               50                      17        850    2500     289\n                   9               55                      23       1265    3025     529\n                 10                60                      10        600    3600     100\n          Total (Σ)              378                     175       6140    16224    3801\nQual alternativa representa a equação da Reta de Regressão, y=ax+b, para os dados coletados, onde\n                                                     xy  n x y\nxe y     são as médias dos valores de x e y, e   a                  e b  y  ax ?\n                                                     x 2  n(x ) 2",
+  "A": "𝑦 = 26.7762𝑥 − 0.2454",
+  "B": "𝑦 = −0.2454𝑥 + 26.7762",
+  "C": "𝑦 = −2.454𝑥 + 26.7762",
+  "D": "𝑦 = −24.54𝑥 + 26.7762",
+  "E": "𝑦 = 24.54𝑥 + 267.762",
+  "Resposta": "B",
+  "Componente": "MATEMáTICA"
+}

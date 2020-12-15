@@ -5,5 +5,7 @@
   "B": "Transparência de migração é a situação na qual recursos podem ser relocados enquanto estão\n   sendo acessados, sem que o usuário ou a aplicação percebam.",
   "C": "Transparência de replicação oculta o fato de que existem várias cópias do recurso.",
   "D": "Na transparência de relocação, recursos podem ser movimentados sem afetar o modo como podem\n   ser acessados.",
-  "E": "Transparência de acesso refere-se ao fato de que os usuários não podem dizer qual é a localização\n   física de um recurso no sistema."
+  "E": "Transparência de acesso refere-se ao fato de que os usuários não podem dizer qual é a localização\n   física de um recurso no sistema.",
+  "Resposta": "C",
+  "Componente": "Sistemas Distribuídos"
 }

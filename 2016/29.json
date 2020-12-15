@@ -1,0 +1,11 @@
+{
+  "N": "29",
+  "Enun": "A organização de arquivo Sorted File mantém registros",
+  "A": "armazenados em regiões indexados por uma função, enquanto a Heap file mantém registros\n   armazenados em ordem da chave de busca.",
+  "B": "armazenados em ordem da chave de busca, enquanto a Hashed file mantém registros distribuídos\n   aleatoriamente nas páginas.",
+  "C": "distribuídos aleatoriamente nas páginas, enquanto a Hashed file mantém registros armazenados\n   em regiões, indexados por uma função.",
+  "D": "armazenados em ordem da chave de busca, enquanto a Heap file mantém registros distribuídos\n   aleatoriamente nas páginas.",
+  "E": "distribuídos aleatoriamente nas páginas, enquanto a Heap file mantém registros armazenados em\n   ordem da chave de busca.",
+  "Resposta": "D",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

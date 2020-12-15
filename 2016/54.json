@@ -1,0 +1,11 @@
+{
+  "N": "54",
+  "Enun": "Qual o tempo de propagação de um pacote de comprimento L, através de um enlace\nde distância d, velocidade de propagação s e taxa de transmissão de R bps?",
+  "A": "L*d/(R*s).",
+  "B": "L/R.",
+  "C": "d/(s*R).",
+  "D": "s/d.",
+  "E": "d/s.",
+  "Resposta": "E",
+  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+}

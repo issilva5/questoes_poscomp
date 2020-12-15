@@ -1,0 +1,11 @@
+{
+  "N": "15",
+  "Enun": "Considere a seguinte proposição: Todas as métricas de avaliação foram positivas.\nA negação da proposição acima é logicamente equivalente à afirmação:",
+  "A": "Alguma métrica de avaliação foi negativa.",
+  "B": "Nenhuma métrica de avaliação foi positiva.",
+  "C": "Todas as métricas de avaliação foram negativas.",
+  "D": "Alguma métrica de avaliação foi negativa ou zero.",
+  "E": "Todas as métricas de avaliação foram negativas ou zero.",
+  "Resposta": "D",
+  "Componente": "MATEMáTICA"
+}

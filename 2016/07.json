@@ -1,0 +1,11 @@
+{
+  "N": "07",
+  "Enun": "A equação que representa a forma da cônica na imagem abaixo é:",
+  "A": "𝑥 2 = 4𝑦 + 4\n   𝑥2     𝑦2",
+  "B": "    + 16 = 1\n   25\n   𝑥2     𝑦2",
+  "C": "    − 16 = 1\n   25\n   𝑥2     𝑦2",
+  "D": "    + 25 = 1\n   16\n   𝑥2     𝑦2",
+  "E": "    − 25 = 1\n   16",
+  "Resposta": "C",
+  "Componente": "MATEMáTICA"
+}

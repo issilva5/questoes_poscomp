@@ -1,0 +1,11 @@
+{
+  "N": "22",
+  "Enun": "O tempo de execução T(n) de um algoritmo, em que n é o tamanho da entrada, é\ndado pela equação de recorrência T(n) = 8T(n/2)+q*n se n > 1. Dado que T(1) = p, e que p e q são\nconstantes arbitrárias, a complexidade do algoritmo é:",
+  "A": "O(n).",
+  "B": "O(n log n).",
+  "C": "O(n2).",
+  "D": "O(n3).",
+  "E": "O(nn).",
+  "Resposta": "D",
+  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+}

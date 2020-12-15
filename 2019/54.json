@@ -5,5 +5,7 @@
   "B": "Controle de enlace lógico e controle de acesso ao meio.",
   "C": "Multiplexação e enlace.",
   "D": "Física e Rede.",
-  "E": "Transporte e apresentação."
+  "E": "Transporte e apresentação.",
+  "Resposta": "B",
+  "Componente": "Redes de Computadores"
 }

@@ -5,5 +5,7 @@
   "B": "(r_ts(x) > ts(T)) and (w_ts(x) > ts(T))",
   "C": "(not (r_ts(x) > ts(T))) or (w_ts(x) > ts(T))",
   "D": "(not (r_ts(x) > ts(T))) or (not (w_ts(x) > ts(T)))",
-  "E": "(not (r_ts(x) > ts(T))) and not ((w_ts(x) > ts(T)))"
+  "E": "(not (r_ts(x) > ts(T))) and not ((w_ts(x) > ts(T)))",
+  "Resposta": "E",
+  "Componente": "Banco de Dados"
 }
