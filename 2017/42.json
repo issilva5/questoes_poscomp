@@ -5,5 +5,7 @@
   "B": "programável somente uma vez – não volátil – reprogramável – não volátil",
   "C": "reprogramável – volátil – reprogramável – volátil",
   "D": "reprogramável – volátil – reprogramável – não volátil",
-  "E": "reprogramável – volátil – programável somente uma vez – não volátil"
+  "E": "reprogramável – volátil – programável somente uma vez – não volátil",
+  "Resposta": "D",
+  "Componente": "Fundamentos da Computação"
 }

@@ -5,5 +5,7 @@
   "B": "coerção – sobrecarga",
   "C": "encapsulamento – abstração",
   "D": "overflow – underflow",
-  "E": "transparência – efeito colateral"
+  "E": "transparência – efeito colateral",
+  "Resposta": "D",
+  "Componente": "Fundamentos da Computação"
 }

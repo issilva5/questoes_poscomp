@@ -5,5 +5,7 @@
   "B": "Binária.",
   "C": "Ternária.",
   "D": "Final.",
-  "E": "Múltipla."
+  "E": "Múltipla.",
+  "Resposta": "B",
+  "Componente": "Fundamentos da Computação"
 }

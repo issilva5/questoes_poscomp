@@ -5,5 +5,7 @@
   "B": "do  caso médio.",
   "C": "do  pior caso.",
   "D": "da  ordem de crescimento.",
-  "E": "do  tamanho da entrada."
+  "E": "do  tamanho da entrada.",
+  "Resposta": "C",
+  "Componente": "Fundamentos da Computação"
 }

@@ -5,5 +5,7 @@
   "B": "Os atributos “número: int” e “númeroDePágs: int” da classe “Capítulo”.",
   "C": "O método “ImprimeNome” das classes “Artefato” e “Livro”.",
   "D": "O atributo “autor: String” da classe “Livro”.",
-  "E": "A relação entre as classes “Capítulo” e “Página”."
+  "E": "A relação entre as classes “Capítulo” e “Página”.",
+  "Resposta": "C",
+  "Componente": "Fundamentos da Computação"
 }

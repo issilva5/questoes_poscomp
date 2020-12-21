@@ -1,14 +1,11 @@
 # Script para converter as questões do PDF para JSON
 
 library(pdftools)
-library(jsonlite)
-library(stringi)
-library(tabulizer)
-library(tidyverse)
+library(here)
 
-source('gabarito.R')
-source('questao.R')
-source('prova.R')
+source(here('src/gabarito.R'))
+source(here('src/questao.R'))
+source(here('src/prova.R'))
 
 args <- commandArgs(trailingOnly=TRUE)
 prova_path <- args[1]

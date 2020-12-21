@@ -5,5 +5,7 @@
   "B": "Não se pode afirmar nada sobre a decidibilidade de PC, porém PD é decidível.",
   "C": "PC é indecidível e PD é decidível.",
   "D": "PC e PD são ambos indecidíveis.",
-  "E": "PC é indecidível, contudo não se pode afirmar nada sobre a decidibilidade de PD."
+  "E": "PC é indecidível, contudo não se pode afirmar nada sobre a decidibilidade de PD.",
+  "Resposta": "C",
+  "Componente": "Fundamentos da Computação"
 }

@@ -5,5 +5,7 @@
   "B": "É  uma técnica que permite o processamento da imagem em multirresolução.",
   "C": "É  uma técnica capaz de extrair frequências da imagem sem a localização temporal das mesmas.",
   "D": "É  uma técnica que permite a geração de imagens de maior resolução.",
-  "E": "É  um algoritmo capaz de compreender informações granulares em imagens digitais."
+  "E": "É  um algoritmo capaz de compreender informações granulares em imagens digitais.",
+  "Resposta": "B",
+  "Componente": "Tecnologia da Computação"
 }

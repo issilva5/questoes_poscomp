@@ -5,5 +5,7 @@
   "B": "todos os alunos do último período não são estagiários.",
   "C": "algum aluno que é estagiário não está no último período.",
   "D": "algum aluno do último período não é estagiário.",
-  "E": "todos os alunos que são estagiários não estão no último período."
+  "E": "todos os alunos que são estagiários não estão no último período.",
+  "Resposta": "C",
+  "Componente": "Matemática"
 }

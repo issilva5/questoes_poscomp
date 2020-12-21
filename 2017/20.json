@@ -5,5 +5,7 @@
   "B": "Pesando  10 recipientes de 100g, realizando a média e escolhendo um recipiente aleatório.",
   "C": "Pesando  5 porções de 20g e depois juntando-as.",
   "D": "Pesando  10 porções de 10g e depois juntando-as.",
-  "E": "Pesando  2 porções de 50g e depois juntando-as."
+  "E": "Pesando  2 porções de 50g e depois juntando-as.",
+  "Resposta": "D",
+  "Componente": "Matemática"
 }

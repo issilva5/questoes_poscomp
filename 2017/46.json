@@ -5,5 +5,7 @@
   "B": "2 bytes",
   "C": "512 bytes",
   "D": "2048 bytes",
-  "E": "1 setor"
+  "E": "1 setor",
+  "Resposta": "D",
+  "Componente": "Fundamentos da Computação"
 }

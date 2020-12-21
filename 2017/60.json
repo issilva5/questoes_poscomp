@@ -5,5 +5,7 @@
   "B": "DNS",
   "C": "TCP",
   "D": "IP",
-  "E": "ARP"
+  "E": "ARP",
+  "Resposta": "E",
+  "Componente": "Tecnologia da Computação"
 }

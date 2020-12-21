@@ -5,5 +5,7 @@
   "B": "A ⊆ B",
   "C": "B ⊄ D",
   "D": "𝜙 ⊆ D",
-  "E": "𝜙 = B"
+  "E": "𝜙 = B",
+  "Resposta": "*",
+  "Componente": "Matemática"
 }

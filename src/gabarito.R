@@ -1,3 +1,6 @@
+library(tabulizer)
+library(tidyverse)
+
 leGabarito <- function(path, ano) {
   
   leGabarito2019 <- function(path) {
@@ -27,8 +30,19 @@ leGabarito <- function(path, ano) {
     
   }
   
+  leGabarito2017 <- function(path) {
+    
+    out <- extract_tables(path)
+    p1 <- out[[1]] %>% as_tibble()
+    p1 <- p1 %>% select(-V4) %>% rename(Questão = V1, Respostas = V2, Componente = V3) %>% tail(-4)
+    p2 <- out[[2]] %>% as_tibble() %>% rename(Questão = V1, Respostas = V2, Componente = V3)
+    bind_rows(p1, p2)
+    
+  }
+  
   if (ano == 2018) leGabarito2018(path)
   else if (ano %in% c(2016, 2019)) leGabarito2019(path)
-  else stop("Impossível utilizar esse gabarito...")
+  else if (ano == 2017) leGabarito2017(path)
+  else stop(paste("O ano de", ano, "ainda não é suportado!"))
   
 }

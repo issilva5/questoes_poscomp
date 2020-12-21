@@ -5,5 +5,7 @@
   "B": "T(n)  = 4*T(n/2) + 2*O(n)",
   "C": "T(n)  = T(n/4) + 4*O(n)",
   "D": "T(n)  = 4*T(n/4) + 4*O(n)",
-  "E": "T(n)  = T(n/4) + O(n)"
+  "E": "T(n)  = T(n/4) + O(n)",
+  "Resposta": "*",
+  "Componente": "Fundamentos da Computação"
 }

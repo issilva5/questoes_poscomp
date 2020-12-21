@@ -5,5 +5,7 @@
   "B": "Árvores de sintaxe e códigos de três endereços são algumas das possibilidades de representação\n   intermediária.",
   "C": "Linguagens de alto nível, como, por exemplo, a linguagem C, podem ser utilizadas como uma forma\n   de representação intermediária.",
   "D": "Na geração de código intermediário, são realizadas tarefas como seleção de instruções, alocação e\n   atribuição de registrador e escalonamento de instruções que dependem do conhecimento da\n   máquina-alvo para a qual será gerado o código objeto.",
-  "E": "Uma das vantagens da aplicação da fase de geração de código intermediário é a possibilidade de\n   realização de otimização e a tradução do código para diversas máquinas."
+  "E": "Uma das vantagens da aplicação da fase de geração de código intermediário é a possibilidade de\n   realização de otimização e a tradução do código para diversas máquinas.",
+  "Resposta": "D",
+  "Componente": "Tecnologia da Computação"
 }

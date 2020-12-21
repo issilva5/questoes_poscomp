@@ -1,3 +1,7 @@
+library(tidyverse)
+library(jsonlite)
+library(stringi)
+
 splitQuestao <- function(questao, gabarito, outdir) {
   
   partes <- unlist(strsplit(questao, '\n[A-Z]) '))

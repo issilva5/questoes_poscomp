@@ -5,5 +5,7 @@
   "B": "RAID    2, RAID  4  e RAID 6.",
   "C": "RAID    0, RAID  3  e RAID 5.",
   "D": "RAID    1, RAID  3  e RAID 5.",
-  "E": "RAID    1, RAID  4  e RAID 6."
+  "E": "RAID    1, RAID  4  e RAID 6.",
+  "Resposta": "D",
+  "Componente": "Fundamentos da Computação"
 }

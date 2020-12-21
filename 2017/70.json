@@ -5,5 +5,7 @@
   "B": "Eficiência – Padrões – Portabilidade",
   "C": "Implementação – Interoperabilidade – Portabilidade",
   "D": "Implementação – Portabilidade – Interoperabilidade",
-  "E": "Eficiência – Padrões – Interoperabilidade"
+  "E": "Eficiência – Padrões – Interoperabilidade",
+  "Resposta": "D",
+  "Componente": "Tecnologia da Computação"
 }

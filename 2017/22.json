@@ -5,5 +5,7 @@
   "B": "O(n4)",
   "C": "O(4*n)",
   "D": "O(n log n)",
-  "E": "O(n)"
+  "E": "O(n)",
+  "Resposta": "*",
+  "Componente": "Fundamentos da Computação"
 }

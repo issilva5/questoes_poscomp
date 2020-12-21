@@ -5,5 +5,7 @@
   "B": "É fechado, se a última ligação da sucessão for adjacente à primeira.",
   "C": "Aberto não pode conter subpercursos fechados.",
   "D": "É elementar, se não repetir ligações.",
-  "E": "É simples, se não repetir vértices."
+  "E": "É simples, se não repetir vértices.",
+  "Resposta": "B",
+  "Componente": "Fundamentos da Computação"
 }

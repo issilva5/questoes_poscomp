@@ -5,5 +5,7 @@
   "B": "o caminhamento entre todas as atividades, usando o algoritmo de busca em largura.",
   "C": "a árvore geradora mínima que representa todas as possibilidades de conexão entre as atividades,\n     usando o menor fluxo possível entre elas.",
   "D": "o caminhamento entre todas as atividades, usando o algoritmo de busca em profundidade.",
-  "E": "a ordenação topológica que mostra a ordem em que as atividades devem ser processadas."
+  "E": "a ordenação topológica que mostra a ordem em que as atividades devem ser processadas.",
+  "Resposta": "E",
+  "Componente": "Fundamentos da Computação"
 }

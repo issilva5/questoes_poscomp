@@ -5,5 +5,7 @@
   "B": "matriz  de adjacências e lista de adjacências.",
   "C": "matriz  de conexões e lista de arestas.",
   "D": "matriz  de incidências e lista de vértices.",
-  "E": "matriz  de vértices e lista de conexões."
+  "E": "matriz  de vértices e lista de conexões.",
+  "Resposta": "B",
+  "Componente": "Fundamentos da Computação"
 }

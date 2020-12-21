@@ -5,5 +5,7 @@
   "B": "O máximo é 1 e não possui mínimo.",
   "C": "O máximo é 1 e o mínimo é 0.",
   "D": "É um conjunto vazio.",
-  "E": "O máximo é 1 e o mínimo é -2."
+  "E": "O máximo é 1 e o mínimo é -2.",
+  "Resposta": "*",
+  "Componente": "Matemática"
 }

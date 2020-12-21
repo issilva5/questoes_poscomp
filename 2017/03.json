@@ -5,5 +5,7 @@
   "B": "Não são ortogonais e são contidas em um plano.",
   "C": "Não têm pontos em comum.",
   "D": "São paralelas.",
-  "E": "Não são retas."
+  "E": "Não são retas.",
+  "Resposta": "B",
+  "Componente": "Matemática"
 }
