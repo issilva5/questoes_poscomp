@@ -6,6 +6,7 @@ library(here)
 source(here('src/gabarito.R'))
 source(here('src/questao.R'))
 source(here('src/prova.R'))
+source(here('src/imagens.R'))
 
 args <- commandArgs(trailingOnly=TRUE)
 prova_path <- args[1]
@@ -19,3 +20,4 @@ prova <- pdf_text(prova_path)
 gabarito <- leGabarito(gabarito_path, ano)
 prova <- unlist(lapply(prova, splitProva))
 prova <- lapply(prova, splitQuestao, gabarito = gabarito, outdir = ano)
+extrairImagens(prova_path, ano)
