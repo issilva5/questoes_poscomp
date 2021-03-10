@@ -1,11 +1,14 @@
 {
-  "N": "38",
-  "Enun": "Assinale a alternativa correta a respeito do algoritmo em Java a seguir.",
+  "Ano": "2016",
+  "Número": "38",
+  "Enunciado": "Assinale a alternativa correta a respeito do algoritmo em Java a seguir.",
   "A": "Os números impressos no console variam de 0 até 100 sem repetição.",
   "B": "Os números impressos no console variam de 0 até 101 com repetição.",
   "C": "A classe TreeSet garante que os números não se repitam.",
   "D": "A classe Set gera números aleatórios.",
-  "E": "Vinte e um números serão sorteados.",
+  "E": "Vinte e um números serão sorteados.\n",
+  "Imagens": {},
   "Resposta": "*",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

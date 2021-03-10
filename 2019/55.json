@@ -1,11 +1,14 @@
 {
-  "N": "55",
-  "Enun": "Em relação ao algoritmo ARIES para a recuperação após falha em sistemas de banco\nde dados, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.\n( ) A aplicação da operação REDO é restrita a transações confirmadas.\n( ) Uma abordagem steal/no-force é usada para as regras que governam quando uma página do\n     cache do banco de dados pode ser gravada no disco.\n( ) As operações UNDO são registradas no log, para evitar a repetição das operações UNDO\n     completadas, se ocorrer uma falha durante o processo de recuperação.\n( ) A Tabela de Transações contém uma entrada para cada página suja no cache, que inclui o\n     identificador da página e o número de sequência de log da atualização mais antiga dessa página.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2019",
+  "Número": "55",
+  "Enunciado": "Em relação ao algoritmo ARIES para a recuperação após falha em sistemas de banco\nde dados, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.\n( ) A aplicação da operação REDO é restrita a transações confirmadas.\n( ) Uma abordagem steal/no-force é usada para as regras que governam quando uma página do\n     cache do banco de dados pode ser gravada no disco.\n( ) As operações UNDO são registradas no log, para evitar a repetição das operações UNDO\n     completadas, se ocorrer uma falha durante o processo de recuperação.\n( ) A Tabela de Transações contém uma entrada para cada página suja no cache, que inclui o\n     identificador da página e o número de sequência de log da atualização mais antiga dessa página.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "F – V –  V – F.",
   "B": "V – F –  F – V.",
   "C": "F – V –  F – V.",
   "D": "V – F –  V – F.",
   "E": "V – F –  V – V.",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "Banco de Dados"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Banco de Dados"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "22",
-  "Enun": "A complexidade de tempo da questão 21 é:",
+  "Ano": "2017",
+  "Número": "22",
+  "Enunciado": "A complexidade de tempo da questão 21 é:",
   "A": "O(n2)",
   "B": "O(n4)",
   "C": "O(4*n)",
   "D": "O(n log n)",
-  "E": "O(n)",
+  "E": "O(n)\n",
+  "Imagens": {},
   "Resposta": "*",
-  "Componente": "Fundamentos da Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "44",
-  "Enun": "Utilizando o seu conhecimento sobre a arquitetura RISC, analise as sentenças abaixo:\n01. Arquitetura RISC suporta alinhamento arbitrário de dados para operações de leitura/escrita.\n02. Nenhum endereçamento indireto que requer um acesso à memória para obter o endereço de um\n     operando na memória é considerado típico de um RISC clássico.\n04. Na arquitetura RISC, o número de bits para especificadores registradores inteiros é igual a quatro\n     ou mais. Isso significa que ao menos 16 registradores inteiros podem ser explicitamente\n     referenciados em um momento.\n08. Um número menor de modos de endereçamento, normalmente menos de cinco. Este parâmetro\n     é difícil de ser determinado na arquitetura RISC.\n16. Arquitetura RISC suporta operação que combina leitura/escrita com aritmética (por exemplo,\n     adicionar da memória, adicionar para memória).\n32. Não mais do que um operando endereçado em memória por instrução é específico da arquitetura\n     RISC.\n64. Na arquitetura RISC, o tamanho é normalmente de 4 bytes.\nO resultado da somatória dos números correspondentes às alternativas corretas é:",
+  "Ano": "2019",
+  "Número": "44",
+  "Enunciado": "Utilizando o seu conhecimento sobre a arquitetura RISC, analise as sentenças abaixo:\n01. Arquitetura RISC suporta alinhamento arbitrário de dados para operações de leitura/escrita.\n02. Nenhum endereçamento indireto que requer um acesso à memória para obter o endereço de um\n     operando na memória é considerado típico de um RISC clássico.\n04. Na arquitetura RISC, o número de bits para especificadores registradores inteiros é igual a quatro\n     ou mais. Isso significa que ao menos 16 registradores inteiros podem ser explicitamente\n     referenciados em um momento.\n08. Um número menor de modos de endereçamento, normalmente menos de cinco. Este parâmetro\n     é difícil de ser determinado na arquitetura RISC.\n16. Arquitetura RISC suporta operação que combina leitura/escrita com aritmética (por exemplo,\n     adicionar da memória, adicionar para memória).\n32. Não mais do que um operando endereçado em memória por instrução é específico da arquitetura\n     RISC.\n64. Na arquitetura RISC, o tamanho é normalmente de 4 bytes.\nO resultado da somatória dos números correspondentes às alternativas corretas é:",
   "A": "117.",
   "B": "110.",
   "C": "106.",
   "D": "102.",
-  "E": "95.",
+  "E": "95.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Arquitetura E Organização de Computadores"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Arquitetura E Organização de Computadores"
 }

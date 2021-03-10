@@ -1,11 +1,14 @@
 {
-  "N": "21",
-  "Enun": "Dadas as seguintes relações de recorrência:\n                     𝑛\n  I.    𝑇(𝑛) = 2𝑇 ( ) + 𝑂(𝑛)\n                     2\n                     𝑛\n II.    𝑇(𝑛) = 8𝑇 ( ) + 𝑂(𝑛2 )\n                     2\n                   𝑛\nIII.    𝑇(𝑛) = 𝑇 ( ) + 𝑂(1)\n                   2\nAs relações de recorrência I, II, e III pertencem, nessa ordem, às classes de complexidade:",
+  "Ano": "2018",
+  "Número": "21",
+  "Enunciado": "Dadas as seguintes relações de recorrência:\n                     𝑛\n  I.    𝑇(𝑛) = 2𝑇 ( ) + 𝑂(𝑛)\n                     2\n                     𝑛\n II.    𝑇(𝑛) = 8𝑇 ( ) + 𝑂(𝑛2 )\n                     2\n                   𝑛\nIII.    𝑇(𝑛) = 𝑇 ( ) + 𝑂(1)\n                   2\nAs relações de recorrência I, II, e III pertencem, nessa ordem, às classes de complexidade:",
   "A": "𝛩(𝑛2 ), 𝛩(𝑛3 ), e 𝛩(𝑛)",
   "B": "𝛩(𝑛), 𝛩(𝑛2 ), e 𝛩(𝑛3 )",
   "C": "𝛩(𝑛 log 𝑛 ), 𝛩(𝑛3 ), e 𝛩(log 𝑛)",
   "D": "𝛩(log 𝑛), 𝛩(𝑛 log 𝑛), e 𝛩(𝑛3 )",
-  "E": "𝛩(𝑛2 ), 𝛩(𝑛2 ), e 𝛩(𝑛2 )",
+  "E": "𝛩(𝑛2 ), 𝛩(𝑛2 ), e 𝛩(𝑛2 )\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Fundamentos de Computação"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Fundamentos de Computação"
 }

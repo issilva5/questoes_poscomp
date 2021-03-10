@@ -1,11 +1,14 @@
 {
-  "N": "59",
-  "Enun": "A equalização de histograma de cores em uma imagem digital tem como objetivo:",
+  "Ano": "2018",
+  "Número": "59",
+  "Enunciado": "A equalização de histograma de cores em uma imagem digital tem como objetivo:",
   "A": "Destacar um determinado canal.",
   "B": "Realçar diferenças de tonalidade.",
   "C": "Delimitar bordas.",
   "D": "Eliminar informações estranhas.",
-  "E": "Converter para um novo modelo de cores.",
+  "E": "Converter para um novo modelo de cores.\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "47",
-  "Enun": "Seja um circuito lógico com três entradas, A, B, C, e uma saída S. Considerando que\no valor da saída S é igual ao valor da entrada A quando as entradas B e C estão no mesmo nível\nlógico, e que o valor da saída S é igual ao inverso do valor da entrada A quando as entradas B e C\nestão em níveis lógicos opostos, assinale a alternativa que apresenta a expressão lógica\ncorrespondente ao circuito.",
+  "Ano": "2019",
+  "Número": "47",
+  "Enunciado": "Seja um circuito lógico com três entradas, A, B, C, e uma saída S. Considerando que\no valor da saída S é igual ao valor da entrada A quando as entradas B e C estão no mesmo nível\nlógico, e que o valor da saída S é igual ao inverso do valor da entrada A quando as entradas B e C\nestão em níveis lógicos opostos, assinale a alternativa que apresenta a expressão lógica\ncorrespondente ao circuito.",
   "A": "𝑆 = 𝐴 ∙ 𝐵⊕C",
   "B": "𝑆 = 𝐴⊕B⊕C",
   "C": "𝑆 = 𝐴⊕B⊕C",
   "D": "𝑆 = 𝐴⊕𝐵⊕C",
-  "E": "𝑆 = 𝐴⊕B⊕C",
+  "E": "𝑆 = 𝐴⊕B⊕C\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Circuitos Digitais"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Circuitos Digitais"
 }

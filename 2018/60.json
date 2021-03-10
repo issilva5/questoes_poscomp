@@ -1,11 +1,14 @@
 {
-  "N": "60",
-  "Enun": "No modelo de referência ISO/OSI, qual camada torna possível a comunicação entre\ncomputadores com diferentes representações de dados?",
+  "Ano": "2018",
+  "Número": "60",
+  "Enunciado": "No modelo de referência ISO/OSI, qual camada torna possível a comunicação entre\ncomputadores com diferentes representações de dados?",
   "A": "Sessão.",
   "B": "Apresentação.",
   "C": "Aplicação.",
   "D": "Transporte.",
-  "E": "Representação.",
+  "E": "Representação.\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "54",
-  "Enun": "Qual o tempo de propagação de um pacote de comprimento L, através de um enlace\nde distância d, velocidade de propagação s e taxa de transmissão de R bps?",
+  "Ano": "2016",
+  "Número": "54",
+  "Enunciado": "Qual o tempo de propagação de um pacote de comprimento L, através de um enlace\nde distância d, velocidade de propagação s e taxa de transmissão de R bps?",
   "A": "L*d/(R*s).",
   "B": "L/R.",
   "C": "d/(s*R).",
   "D": "s/d.",
-  "E": "d/s.",
+  "E": "d/s.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }

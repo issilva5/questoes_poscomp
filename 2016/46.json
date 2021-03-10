@@ -1,11 +1,14 @@
 {
-  "N": "46",
-  "Enun": "Em um sistema computacional multiprocessado, onde o sistema operacional realiza\nescalonamento de tarefas do tipo preemptivo, três processos (P1, P2 e P3) compartilham recursos\n(R1, R2 e R3). Os processos P1 e P2 concorrem entre si ao acesso do recurso R1, enquanto P2 e P3\nconcorrem entre si ao acesso dos recursos R2 e R3. Os recursos R1 e R3 são preemptíveis, ou seja,\npodem sofrer preempção; R2 é um recurso não preemptível. Todos os três processos usam o mesmo\nmecanismo de exclusão mútua para garantir acesso exclusivo em suas seções críticas. Com base\nnesse cenário, é correto afirmar que:",
+  "Ano": "2016",
+  "Número": "46",
+  "Enunciado": "Em um sistema computacional multiprocessado, onde o sistema operacional realiza\nescalonamento de tarefas do tipo preemptivo, três processos (P1, P2 e P3) compartilham recursos\n(R1, R2 e R3). Os processos P1 e P2 concorrem entre si ao acesso do recurso R1, enquanto P2 e P3\nconcorrem entre si ao acesso dos recursos R2 e R3. Os recursos R1 e R3 são preemptíveis, ou seja,\npodem sofrer preempção; R2 é um recurso não preemptível. Todos os três processos usam o mesmo\nmecanismo de exclusão mútua para garantir acesso exclusivo em suas seções críticas. Com base\nnesse cenário, é correto afirmar que:",
   "A": "Não é possível ocorrer deadlock entre os três processos.",
   "B": "É possível ocorrer deadlock entre P1 e P2.",
   "C": "É possível ocorrer deadlock entre P2 e P3.",
   "D": "É possível ocorrer deadlock entre P1 e P3.",
-  "E": "É possível ocorrer deadlock com uma espera circular entre P1, P2 e P3.",
+  "E": "É possível ocorrer deadlock com uma espera circular entre P1, P2 e P3.\n",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

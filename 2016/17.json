@@ -1,11 +1,14 @@
 {
-  "N": "17",
-  "Enun": "De quantas maneiras possíveis podemos distribuir 8 controles remotos idênticos em\n5 caixas distintas?",
+  "Ano": "2016",
+  "Número": "17",
+  "Enunciado": "De quantas maneiras possíveis podemos distribuir 8 controles remotos idênticos em\n5 caixas distintas?",
   "A": "17.820.",
   "B": "6.720.",
   "C": "2.475.",
   "D": "1.188.",
-  "E": "495.",
+  "E": "495.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "MATEMáTICA"
+  "Componente": "Matemática",
+  "Subarea": "MATEMáTICA"
 }

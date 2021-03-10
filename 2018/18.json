@@ -1,11 +1,14 @@
 {
-  "N": "18",
-  "Enun": "O tempo, t, de um determinado processo, segue uma distribuição exponencial, tal\nque 𝑓(𝑡) = 0,25𝑒 −0,25𝑡 para 𝑡 > 0. Qual a probabilidade de a duração desse processo ser menor do\nque 10 segundos?",
+  "Ano": "2018",
+  "Número": "18",
+  "Enunciado": "O tempo, t, de um determinado processo, segue uma distribuição exponencial, tal\nque 𝑓(𝑡) = 0,25𝑒 −0,25𝑡 para 𝑡 > 0. Qual a probabilidade de a duração desse processo ser menor do\nque 10 segundos?",
   "A": "15,8%.",
   "B": "22,1%.",
   "C": "25,0%.",
   "D": "68,5%.",
-  "E": "91,8%.",
+  "E": "91,8%.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

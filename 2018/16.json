@@ -1,11 +1,14 @@
 {
-  "N": "16",
-  "Enun": "Uma enquete foi realizada com 50 pessoas sobre as preferências de leitura de duas\nrevistas, A e B. Observou-se que os que leem as duas revistas são o dobro do que os que leem\napenas a A, o triplo do que os que leem apenas a B e o quádruplo do que os que não leem nenhuma\ndas duas revistas. Quantas pessoas leem a revista A?",
+  "Ano": "2018",
+  "Número": "16",
+  "Enunciado": "Uma enquete foi realizada com 50 pessoas sobre as preferências de leitura de duas\nrevistas, A e B. Observou-se que os que leem as duas revistas são o dobro do que os que leem\napenas a A, o triplo do que os que leem apenas a B e o quádruplo do que os que não leem nenhuma\ndas duas revistas. Quantas pessoas leem a revista A?",
   "A": "24",
   "B": "30",
   "C": "32",
   "D": "36",
   "E": "40",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

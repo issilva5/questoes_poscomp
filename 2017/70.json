@@ -1,11 +1,14 @@
 {
-  "N": "70",
-  "Enun": "Requisitos não funcionais de software são aqueles que não dizem respeito às funções\nespecíficas de software, mas, sim, a propriedades que o sistema deve possuir, ou restrições que deve\natender. Existem diferentes tipos de requisitos funcionais. Abaixo estão listados exemplos para\ndiferentes tipos de requisitos não funcionais:\n ________________: o software deve ser desenvolvido utilizando a linguagem de programação\n   Java versão 7.4.\n ________________: deve ser possível acessar o sistema a partir dos browsers Chrome, Internet\n   Explorer e Safari.\n ________________: o sistema deve extrair os tweets da plataforma Tweeter utilizando a API REST\n   disponível para este fim (detalhes de acesso à API em www.tweeter.com/API).\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+  "Ano": "2017",
+  "Número": "70",
+  "Enunciado": "Requisitos não funcionais de software são aqueles que não dizem respeito às funções\nespecíficas de software, mas, sim, a propriedades que o sistema deve possuir, ou restrições que deve\natender. Existem diferentes tipos de requisitos funcionais. Abaixo estão listados exemplos para\ndiferentes tipos de requisitos não funcionais:\n ________________: o software deve ser desenvolvido utilizando a linguagem de programação\n   Java versão 7.4.\n ________________: deve ser possível acessar o sistema a partir dos browsers Chrome, Internet\n   Explorer e Safari.\n ________________: o sistema deve extrair os tweets da plataforma Tweeter utilizando a API REST\n   disponível para este fim (detalhes de acesso à API em www.tweeter.com/API).\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
   "A": "Desempenho – Portabilidade – Padrões",
   "B": "Eficiência – Padrões – Portabilidade",
   "C": "Implementação – Interoperabilidade – Portabilidade",
   "D": "Implementação – Portabilidade – Interoperabilidade",
   "E": "Eficiência – Padrões – Interoperabilidade",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

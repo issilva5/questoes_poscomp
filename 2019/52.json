@@ -1,11 +1,14 @@
 {
-  "N": "52",
-  "Enun": "Dentre os algoritmos para mineração de dados, um exemplo de algoritmo para o\nparticionamento de dados pelo aprendizado não supervisionado, que não usa uma amostra de\ntreinamento pré-classificada, é denominado algoritmo de:",
+  "Ano": "2019",
+  "Número": "52",
+  "Enunciado": "Dentre os algoritmos para mineração de dados, um exemplo de algoritmo para o\nparticionamento de dados pelo aprendizado não supervisionado, que não usa uma amostra de\ntreinamento pré-classificada, é denominado algoritmo de:",
   "A": "Crescimento padrão frequente.",
   "B": "Agrupamento k-means.",
   "C": "Amostragem.",
   "D": "Associação negativa.",
   "E": "Árvore padrão frequente.",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Banco de Dados"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Banco de Dados"
 }

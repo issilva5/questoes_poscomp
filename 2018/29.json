@@ -1,11 +1,14 @@
 {
-  "N": "29",
-  "Enun": "Um algoritmo de compressão toma como entrada uma sequência de bits\n(bitstream), e a converte em outro bitstream, representando a entrada comprimida. Analise as\nassertivas abaixo sobre a técnica de compressão de Huffman:\n  I. É mais eficiente, para compressão de arquivos texto, do que a técnica de codificação corrida (do\n      inglês RLE",
+  "Ano": "2018",
+  "Número": "29",
+  "Enunciado": "Um algoritmo de compressão toma como entrada uma sequência de bits\n(bitstream), e a converte em outro bitstream, representando a entrada comprimida. Analise as\nassertivas abaixo sobre a técnica de compressão de Huffman:\n  I. É mais eficiente, para compressão de arquivos texto, do que a técnica de codificação corrida (do\n      inglês RLE",
   "A": "Apenas    I.",
   "B": "Apenas    II.",
   "C": "Apenas    III.",
   "D": "Apenas    I e II.",
-  "E": "Apenas    I e III.",
+  "E": "Apenas    I e III.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Fundamentos de Computação"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Fundamentos de Computação"
 }

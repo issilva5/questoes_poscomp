@@ -1,11 +1,14 @@
 {
-  "N": "29",
-  "Enun": "Analise as assertivas a seguir sobre compressão de dados:\n  I. A técnica de codificação corrida (do inglês RLE",
+  "Ano": "2017",
+  "Número": "29",
+  "Enunciado": "Analise as assertivas a seguir sobre compressão de dados:\n  I. A técnica de codificação corrida (do inglês RLE",
   "A": "Apenas    I.",
   "B": "Apenas    II.",
   "C": "Apenas    III.",
   "D": "Apenas    II e IV.",
-  "E": "Apenas    III e IV.",
+  "E": "Apenas    III e IV.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Fundamentos da Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

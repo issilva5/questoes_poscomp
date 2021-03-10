@@ -1,11 +1,14 @@
 {
-  "N": "08",
-  "Enun": "Dadas as retas 𝑟 ≡ 3𝑥 + 𝑦 − 1 = 0 e 𝑠 ≡ 2𝑥 + 𝑚𝑦 − 8 = 0, qual dos seguintes é um\nvalor de m que faz com que as retas r e s formem um ângulo de 45°?",
+  "Ano": "2017",
+  "Número": "08",
+  "Enunciado": "Dadas as retas 𝑟 ≡ 3𝑥 + 𝑦 − 1 = 0 e 𝑠 ≡ 2𝑥 + 𝑚𝑦 − 8 = 0, qual dos seguintes é um\nvalor de m que faz com que as retas r e s formem um ângulo de 45°?",
   "A": "1",
   "B": "√2",
   "C": "0",
   "D": "-1",
-  "E": "2",
+  "E": "2\n",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

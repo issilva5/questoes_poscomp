@@ -1,11 +1,14 @@
 {
-  "N": "41",
-  "Enun": "Considere L1 e L2 duas linguagens formais sobre o alfabeto Σ = {0,1}, descritas\ncomo segue:\nL1 = { ww | w ∈ Σ* }\nL2 = { 0a1b | a>0, b>0, b ímpar }\nNa descrição acima, justaposição significa concatenação de palavras e Σ* denota o conjunto de todas\nas palavras sobre o alfabeto Σ.\nSeja A1 o autômato finito sobre alfabeto Σ = {0,1} descrito pelo seguinte diagrama de transição de\nestados:\nDenotemos por ACEITA(A1) o conjunto de palavras aceitas por A1.\nNesse sentido, considere as seguintes afirmações:\n  I. L1 é uma linguagem regular.\n II. L2 é uma linguagem livre de contexto.\nIII. ACEITA(A1) = { w | w ∈ Σ* e w possui um número ímpar de zeros }.\nQuais estão corretas?",
+  "Ano": "2019",
+  "Número": "41",
+  "Enunciado": "Considere L1 e L2 duas linguagens formais sobre o alfabeto Σ = {0,1}, descritas\ncomo segue:\nL1 = { ww | w ∈ Σ* }\nL2 = { 0a1b | a>0, b>0, b ímpar }\nNa descrição acima, justaposição significa concatenação de palavras e Σ* denota o conjunto de todas\nas palavras sobre o alfabeto Σ.\nSeja A1 o autômato finito sobre alfabeto Σ = {0,1} descrito pelo seguinte diagrama de transição de\nestados:\nDenotemos por ACEITA(A1) o conjunto de palavras aceitas por A1.\nNesse sentido, considere as seguintes afirmações:\n  I. L1 é uma linguagem regular.\n II. L2 é uma linguagem livre de contexto.\nIII. ACEITA(A1) = { w | w ∈ Σ* e w possui um número ímpar de zeros }.\nQuais estão corretas?",
   "A": "Apenas I.",
   "B": "Apenas II.",
   "C": "Apenas I e III.",
   "D": "Apenas II e III.",
-  "E": "I, II e III.",
+  "E": "I, II e III.\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Linguagens Formais, Autômatos E Computabilidade"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Linguagens Formais, Autômatos E Computabilidade"
 }

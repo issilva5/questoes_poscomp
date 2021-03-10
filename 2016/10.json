@@ -1,11 +1,14 @@
 {
-  "N": "10",
-  "Enun": "A área da região limitada pelo gráfico da função 𝑓(𝑥) = −2𝑥 3 e 𝑔(𝑥) = −8𝑥, conforme\ndescrito na imagem abaixo, é:",
+  "Ano": "2016",
+  "Número": "10",
+  "Enunciado": "A área da região limitada pelo gráfico da função 𝑓(𝑥) = −2𝑥 3 e 𝑔(𝑥) = −8𝑥, conforme\ndescrito na imagem abaixo, é:",
   "A": "32.",
   "B": "24.",
   "C": "16.",
   "D": "8.",
-  "E": "4.",
+  "E": "4.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "MATEMáTICA"
+  "Componente": "Matemática",
+  "Subarea": "MATEMáTICA"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "34",
-  "Enun": "Quanto aos métodos de alocação de espaço em disco para arquivos, analise as\nafirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.\n( ) Na alocação contígua, a alocação de espaço em disco para novos arquivos pode ser dificultada\n     pelo problema de fragmentação externa.\n( ) A alocação interligada provê acesso eficiente tanto a arquivos de acesso sequencial quanto de\n     acesso direto.\n( ) Na alocação indexada, cada arquivo possui um bloco de índice. Para arquivos grandes, são\n     necessários mecanismos que vinculem diferentes blocos de índices, como índices multinível, por\n     exemplo.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2018",
+  "Número": "34",
+  "Enunciado": "Quanto aos métodos de alocação de espaço em disco para arquivos, analise as\nafirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.\n( ) Na alocação contígua, a alocação de espaço em disco para novos arquivos pode ser dificultada\n     pelo problema de fragmentação externa.\n( ) A alocação interligada provê acesso eficiente tanto a arquivos de acesso sequencial quanto de\n     acesso direto.\n( ) Na alocação indexada, cada arquivo possui um bloco de índice. Para arquivos grandes, são\n     necessários mecanismos que vinculem diferentes blocos de índices, como índices multinível, por\n     exemplo.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "V – V – F.",
   "B": "F – V – V.",
   "C": "V – F – F.",
   "D": "F – F – V.",
-  "E": "V – F – V.",
+  "E": "V – F – V.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Fundamentos de Computação"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Fundamentos de Computação"
 }

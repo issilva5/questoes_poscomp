@@ -1,11 +1,14 @@
 {
-  "N": "70",
-  "Enun": "Na figura abaixo, você encontra 3 diagramas desenvolvidos em UML (Unified Modeling\nLanguage) utilizados em um projeto de software: o diagrama de caso de uso, o diagrama de\nsequência, representando o fluxo normal da realização do caso de uso, e, por fim, o diagrama de\nclasses.\n                        Figura",
+  "Ano": "2016",
+  "Número": "70",
+  "Enunciado": "Na figura abaixo, você encontra 3 diagramas desenvolvidos em UML (Unified Modeling\nLanguage) utilizados em um projeto de software: o diagrama de caso de uso, o diagrama de\nsequência, representando o fluxo normal da realização do caso de uso, e, por fim, o diagrama de\nclasses.\n                        Figura",
   "A": "Existe uma inconsistência entre os diagramas de classe e sequência.",
   "B": "O objeto: Interface não poderia estar presente no diagrama de sequência, pois ele não possui uma\n   classe correspondente.",
   "C": "Os diagramas estão consistentes.",
   "D": "As trocas de mensagens, apontadas no diagrama de sequência, possuem os métodos\n   correspondentes no diagrama de classes.",
   "E": "O objeto candidato não pode ser “estereotipado” como ator.",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }

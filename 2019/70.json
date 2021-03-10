@@ -1,11 +1,14 @@
 {
-  "N": "70",
-  "Enun": "Considerando a gerência de projetos de software, analise as assertivas abaixo e\nassinale V, se verdadeiras, ou F, se falsas.\n( ) A gerência efetiva de projetos de software deve abranger três aspectos, a saber, produto,\n    processo e projeto.\n( ) A análise de risco de um projeto visa a analisar a viabilidade de produzir software dentro do custo\n    e esforço estimados.\n( ) O desenvolvimento de cronogramas de projetos pode ser desenvolvido com o auxílio de modelos\n    como PERT (Program evaluation and review technique) ou CPM (Critical Path Method).\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2019",
+  "Número": "70",
+  "Enunciado": "Considerando a gerência de projetos de software, analise as assertivas abaixo e\nassinale V, se verdadeiras, ou F, se falsas.\n( ) A gerência efetiva de projetos de software deve abranger três aspectos, a saber, produto,\n    processo e projeto.\n( ) A análise de risco de um projeto visa a analisar a viabilidade de produzir software dentro do custo\n    e esforço estimados.\n( ) O desenvolvimento de cronogramas de projetos pode ser desenvolvido com o auxílio de modelos\n    como PERT (Program evaluation and review technique) ou CPM (Critical Path Method).\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "V – V – V.",
   "B": "V – F – V.",
   "C": "F – F – F.",
   "D": "F – F – V.",
   "E": "V – V – F.",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Engenharia de Software"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Engenharia de Software"
 }

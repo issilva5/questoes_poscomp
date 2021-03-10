@@ -1,11 +1,14 @@
 {
-  "N": "04",
-  "Enun": "Encontre         as   coordenadas    do centro (C)    da   circunferência  de  equação\nt: x² + y² –3x + 5y –14 = 0.\n       1 1",
+  "Ano": "2019",
+  "Número": "04",
+  "Enunciado": "Encontre         as   coordenadas    do centro (C)    da   circunferência  de  equação\nt: x² + y² –3x + 5y –14 = 0.\n       1 1",
   "A": "𝐶 (   , )\n       2 2\n       −1 3",
   "B": "𝐶 (     , 2)\n        2\n       3 1",
   "C": "𝐶 (   , )\n       2 2\n       5 5",
   "D": "𝐶 (   , )\n       2 2\n       3 −5",
-  "E": "𝐶 (2 ,     )\n            2\n                                 𝑥³−8",
+  "E": "𝐶 (2 ,     )\n            2\n                                 𝑥³−8\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Geometria Analítica"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Geometria Analítica"
 }
