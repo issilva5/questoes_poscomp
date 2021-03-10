@@ -43,6 +43,5 @@ leGabarito <- function(path, ano) {
   if (ano == 2018) leGabarito2018(path)
   else if (ano %in% c(2016, 2019)) leGabarito2019(path)
   else if (ano == 2017) leGabarito2017(path)
-  else stop(paste("O ano de", ano, "ainda não é suportado!"))
   
 }

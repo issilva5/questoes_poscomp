@@ -13,6 +13,9 @@ prova_path <- args[1]
 gabarito_path <- args[2]
 ano <- args[3]
 
+if (as.integer(ano) < 2016)
+  stop(paste("O ano de", ano, "ainda não é suportado!"))
+
 if (!dir.exists(ano))
   dir.create(ano)
 
