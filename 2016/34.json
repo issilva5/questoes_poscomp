@@ -1,11 +1,14 @@
 {
-  "N": "34",
-  "Enun": "O VFS (Virtual File System) é o mecanismo que permite que chamadas de sistemas\ngenéricas possam ser executadas independentemente do sistema de arquivos usado ou do meio físico.\nEm relação aos objetos primários do VFS, analise as afirmações abaixo e assinale V, se verdadeiras,\nou F, se falsas.\n( ) Superbloco é utilizado para armazenar informações sobre um sistema de arquivos específico.\n( ) Inode representa um arquivo específico. Cada arquivo é representado por um inode no Sistema\n     de Arquivos.\n( ) Dentry representa uma entrada de diretório. O objeto Dentry não corresponde a qualquer\n     estrutura de dados armazenada em disco.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2016",
+  "Número": "34",
+  "Enunciado": "O VFS (Virtual File System) é o mecanismo que permite que chamadas de sistemas\ngenéricas possam ser executadas independentemente do sistema de arquivos usado ou do meio físico.\nEm relação aos objetos primários do VFS, analise as afirmações abaixo e assinale V, se verdadeiras,\nou F, se falsas.\n( ) Superbloco é utilizado para armazenar informações sobre um sistema de arquivos específico.\n( ) Inode representa um arquivo específico. Cada arquivo é representado por um inode no Sistema\n     de Arquivos.\n( ) Dentry representa uma entrada de diretório. O objeto Dentry não corresponde a qualquer\n     estrutura de dados armazenada em disco.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "F – F – F.",
   "B": "F – F – V.",
   "C": "F – V – V.",
   "D": "V – V – V.",
-  "E": "V – V – F.",
+  "E": "V – V – F.\n",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

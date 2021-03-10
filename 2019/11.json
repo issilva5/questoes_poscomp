@@ -1,11 +1,14 @@
 {
-  "N": "11",
-  "Enun": "Considere as premissas a seguir verdadeiras:\nPremissa    1: Se Daenerys come churrasco ou João anda a cavalo, então Cersei assiste a um filme.\nPremissa    2: Hoje, Cersei não assistiu a um filme.\nPremissa    3: Se hoje é domingo, então Daenerys come churrasco e Jaime treina esgrima.\nPremissa    4: Hoje, Jaime foi treinar esgrima.\nÉ correto concluir que:",
+  "Ano": "2019",
+  "Número": "11",
+  "Enunciado": "Considere as premissas a seguir verdadeiras:\nPremissa    1: Se Daenerys come churrasco ou João anda a cavalo, então Cersei assiste a um filme.\nPremissa    2: Hoje, Cersei não assistiu a um filme.\nPremissa    3: Se hoje é domingo, então Daenerys come churrasco e Jaime treina esgrima.\nPremissa    4: Hoje, Jaime foi treinar esgrima.\nÉ correto concluir que:",
   "A": "Hoje é domingo e Daenerys comeu churrasco.",
   "B": "Hoje não é domingo e Daenerys comeu churrasco.",
   "C": "Hoje não é domingo e João não andou a cavalo.",
   "D": "Daenerys comeu churrasco ou João andou a cavalo.",
-  "E": "Hoje é domingo e João andou a cavalo.",
+  "E": "Hoje é domingo e João andou a cavalo.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Lógica Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Lógica Matemática"
 }

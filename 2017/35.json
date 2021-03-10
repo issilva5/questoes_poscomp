@@ -1,11 +1,14 @@
 {
-  "N": "35",
-  "Enun": "Analise as seguintes assertivas sobre organização primária de arquivos, assinalando\nV, se verdadeiras, ou F, se falsas.\n( ) Em arquivos desordenados (heap), as operações de inserção são bastante eficientes, porque novos\n     registros são acrescentados ao final do arquivo.\n( ) Em arquivos ordenados, a busca por registros baseados na chave de ordenação é bastante\n     eficiente, desde que seja comparação por igualdade de valor.\n( ) Uma técnica para tornar o desempenho de operações de inserção mais eficientes em arquivos\n     ordenados é utilizar um arquivo desordenado temporário, sendo que o arquivo ordenado passa a\n     ser chamado arquivo principal (ou mestre).\n( ) O desempenho da pesquisa baseada em um campo de arquivos desordenados pode ser melhorado\n     através de pesquisa binária.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é",
+  "Ano": "2017",
+  "Número": "35",
+  "Enunciado": "Analise as seguintes assertivas sobre organização primária de arquivos, assinalando\nV, se verdadeiras, ou F, se falsas.\n( ) Em arquivos desordenados (heap), as operações de inserção são bastante eficientes, porque novos\n     registros são acrescentados ao final do arquivo.\n( ) Em arquivos ordenados, a busca por registros baseados na chave de ordenação é bastante\n     eficiente, desde que seja comparação por igualdade de valor.\n( ) Uma técnica para tornar o desempenho de operações de inserção mais eficientes em arquivos\n     ordenados é utilizar um arquivo desordenado temporário, sendo que o arquivo ordenado passa a\n     ser chamado arquivo principal (ou mestre).\n( ) O desempenho da pesquisa baseada em um campo de arquivos desordenados pode ser melhorado\n     através de pesquisa binária.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é",
   "A": "V – V – F – V.",
   "B": "V – F – F – F.",
   "C": "F – F – V – F.",
   "D": "F – V – F – V.",
-  "E": "V – F – V – F.",
+  "E": "V – F – V – F.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Fundamentos da Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

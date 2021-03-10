@@ -1,11 +1,14 @@
 {
-  "N": "36",
-  "Enun": "A Figura (a) abaixo mostra o exemplo de um grafo não direcionado G com os pesos\nmostrados ao lado de cada aresta. Sobre a árvore T representada na Figura (b), é correto afirmar\nque:",
+  "Ano": "2016",
+  "Número": "36",
+  "Enunciado": "A Figura (a) abaixo mostra o exemplo de um grafo não direcionado G com os pesos\nmostrados ao lado de cada aresta. Sobre a árvore T representada na Figura (b), é correto afirmar\nque:",
   "A": "T representa a árvore geradora mínima do grafo da Figura (a) cujo peso total é 12. T não é única,\n   pois a substituição da aresta (3,5) pela aresta (2,5) produz outra árvore geradora de custo 12.",
   "B": "T representa a árvore de caminhos mais curtos entre todos os pares de vértices do grafo da Figura\n   (a). T não é única, pois a substituição da aresta (3,5) pela aresta (2,5) produz caminhos mais\n   curtos entre os mesmos pares de vértices do grafo.",
   "C": "T representa a árvore geradora mínima do grafo da Figura (a) cujo peso total é 12. A substituição\n   da aresta (3,5) pela aresta (2,4) produz uma árvore geradora máxima cujo peso total é 14.",
   "D": "T representa a ordenação topológica do grafo da Figura (a). O peso da aresta (0,2) indica que ela\n   deve ser executada antes da aresta (2,3) e o peso da aresta (2,3) indica que ela deve ser executada\n   antes da aresta (4,5) e assim sucessivamente.",
-  "E": "T representa a árvore de caminhos mais curtos do grafo da Figura (a) com origem única no vértice\n   2. T não é única, pois a substituição da aresta (3,5) pela aresta (2,4) produz caminhos mais curtos\n   entre todos os pares de vértices do grafo.",
+  "E": "T representa a árvore de caminhos mais curtos do grafo da Figura (a) com origem única no vértice\n   2. T não é única, pois a substituição da aresta (3,5) pela aresta (2,4) produz caminhos mais curtos\n   entre todos os pares de vértices do grafo.\n",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "67",
-  "Enun": "Qual é a classe de algoritmos de sincronização que assegura que, em um conjunto\nde processos distribuídos, pelo menos, um processo por vez tem acesso a um recurso\ncompartilhado?",
+  "Ano": "2018",
+  "Número": "67",
+  "Enunciado": "Qual é a classe de algoritmos de sincronização que assegura que, em um conjunto\nde processos distribuídos, pelo menos, um processo por vez tem acesso a um recurso\ncompartilhado?",
   "A": "Relógios vetoriais.",
   "B": "Eleição.",
   "C": "Exclusão mútua distribuída.",
   "D": "Relógios lógicos.",
-  "E": "Posicionamento global.",
+  "E": "Posicionamento global.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

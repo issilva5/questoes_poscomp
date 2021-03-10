@@ -1,11 +1,14 @@
 {
-  "N": "32",
-  "Enun": "Sobre grafos, assinale a alternativa correta.",
+  "Ano": "2019",
+  "Número": "32",
+  "Enunciado": "Sobre grafos, assinale a alternativa correta.",
   "A": "Um grafo ponderado é um grafo não direcionado em que todos os pares de vértices são adjacentes,\n   isto é, há arestas ligando todos os vértices entre si.",
   "B": "Todo grafo completo tem pesos associados às suas arestas.",
   "C": "Um caminho em um grafo é complexo se todos os vértices do caminho são distintos.",
   "D": "O grau de um vértice em um grafo não direcionado é o número de arestas que incidem nele.",
-  "E": "Se existir um caminho c de x a y, então x é alcançável a partir de c via y.",
+  "E": "Se existir um caminho c de x a y, então x é alcançável a partir de c via y.\n",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Teoria dos Grafos"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Teoria dos Grafos"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "15",
-  "Enun": "A expressão lógica     ~𝑞 → ~𝑝 é equivalente a:",
+  "Ano": "2019",
+  "Número": "15",
+  "Enunciado": "A expressão lógica     ~𝑞 → ~𝑝 é equivalente a:",
   "A": "~ 𝑝 ∧ ~𝑞",
   "B": "~𝑝 ∨ 𝑞",
   "C": "~𝑝 → 𝑞",
   "D": "𝑝 → ~ 𝑞",
-  "E": "𝑞 → 𝑝",
+  "E": "𝑞 → 𝑝\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Lógica Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Lógica Matemática"
 }

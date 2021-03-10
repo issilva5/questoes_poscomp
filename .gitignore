@@ -1,2 +1,4 @@
 *.Rmd
 .Rhistory
+*Rproj*
+POSCOMP

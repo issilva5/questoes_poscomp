@@ -1,11 +1,14 @@
 {
-  "N": "40",
-  "Enun": "A linguagem                               , para n  0 e m  0 , é:",
+  "Ano": "2016",
+  "Número": "40",
+  "Enunciado": "A linguagem                               , para n  0 e m  0 , é:",
   "A": "Regular e gerada pela gramática S  aA, A  baA |  .",
   "B": "Sensível ao contexto e gerada pela gramática S  aSBC , S  aBC , CB  BC , aB  ab, bB  bb,\n   bC  bc, cC  cc .",
   "C": "Recursivamente enumerável e gerada por uma gramática sem restrições nas regras de produção.",
   "D": "Estrutura de frase e gerada por uma gramática sem restrições nas regras de produção.",
   "E": "Livre de contexto e gerada pela gramática S  aaaA, A  aAb | B, B  Bb |  .",
+  "Imagens": {},
   "Resposta": [],
-  "Componente": []
+  "Componente": [],
+  "Subarea": []
 }

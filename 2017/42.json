@@ -1,11 +1,14 @@
 {
-  "N": "42",
-  "Enun": "Um PLD que armazena sua configuração em memórias do tipo SRAM é, segundo sua\ncapacidade de configuração, ________ e, segundo sua capacidade de armazenamento, _______.\nUm PLD que armazena sua configuração em memórias do tipo EEPROM ou FLASH é, segundo sua\ncapacidade de configuração, ________ e, segundo sua capacidade de armazenamento, ________.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
+  "Ano": "2017",
+  "Número": "42",
+  "Enunciado": "Um PLD que armazena sua configuração em memórias do tipo SRAM é, segundo sua\ncapacidade de configuração, ________ e, segundo sua capacidade de armazenamento, _______.\nUm PLD que armazena sua configuração em memórias do tipo EEPROM ou FLASH é, segundo sua\ncapacidade de configuração, ________ e, segundo sua capacidade de armazenamento, ________.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
   "A": "reprogramável – não volátil – reprogramável – volátil",
   "B": "programável somente uma vez – não volátil – reprogramável – não volátil",
   "C": "reprogramável – volátil – reprogramável – volátil",
   "D": "reprogramável – volátil – reprogramável – não volátil",
   "E": "reprogramável – volátil – programável somente uma vez – não volátil",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Fundamentos da Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

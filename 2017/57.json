@@ -1,11 +1,14 @@
 {
-  "N": "57",
-  "Enun": "Considerando as transformações entre sistemas de coordenadas 2D e o processo de\nrecorte, analise as assertivas abaixo:\n  I. Denomina-se window a área do universo que será mapeada para a tela, e viewport a área de tela\n     que será utilizada nesse processo.\n II. Se as razões entre a largura e altura da window e a largura e a altura da viewport não forem as\n     mesmas, ocorrerá uma mudança não uniforme de escala.\nIII. O recorte de linhas (clipping) pode ser feito tanto no sistema de coordenadas do universo como\n     no da tela.\nQuais estão corretas?",
+  "Ano": "2017",
+  "Número": "57",
+  "Enunciado": "Considerando as transformações entre sistemas de coordenadas 2D e o processo de\nrecorte, analise as assertivas abaixo:\n  I. Denomina-se window a área do universo que será mapeada para a tela, e viewport a área de tela\n     que será utilizada nesse processo.\n II. Se as razões entre a largura e altura da window e a largura e a altura da viewport não forem as\n     mesmas, ocorrerá uma mudança não uniforme de escala.\nIII. O recorte de linhas (clipping) pode ser feito tanto no sistema de coordenadas do universo como\n     no da tela.\nQuais estão corretas?",
   "A": "Apenas I.",
   "B": "Apenas II.",
   "C": "Apenas III.",
   "D": "Apenas I e III.",
-  "E": "I, II e III.",
+  "E": "I, II e III.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

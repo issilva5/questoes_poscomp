@@ -1,11 +1,14 @@
 {
-  "N": "58",
-  "Enun": "Assinale a alternativa que descreve corretamente uma característica de\n transformações de projeção.\n A) A projeção perspectiva preserva ângulos e medidas de objetos.\n B) Projeções isométricas não são paralelas.\n C) Em uma projeção paralela, considera-se que o centro de projeção está a uma distância determinada\n     do plano de projeção.\n D) O tamanho da projeção perspectiva de um objeto varia de forma diretamente proporcional a\n     distância desse objeto ao centro de projeção.\n E) Uma projeção perspectiva pode ser representada por uma matriz 4x4.\n ",
-  "A": null,
-  "B": null,
-  "C": null,
-  "D": null,
-  "E": null,
+  "Ano": "2016",
+  "Número": "58",
+  "Enunciado": "Assinale a alternativa que descreve corretamente uma característica de\n transformações de projeção.",
+  "A": "A projeção perspectiva preserva ângulos e medidas de objetos.",
+  "B": "Projeções isométricas não são paralelas.",
+  "C": "Em uma projeção paralela, considera-se que o centro de projeção está a uma distância determinada\n     do plano de projeção.",
+  "D": "O tamanho da projeção perspectiva de um objeto varia de forma diretamente proporcional a\n     distância desse objeto ao centro de projeção.",
+  "E": "Uma projeção perspectiva pode ser representada por uma matriz 4x4.\n ",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "58",
-  "Enun": "No processo de visualização tridimensional, a região do universo que será recortada\ne projetada sobre o plano de projeção é denominada:",
+  "Ano": "2017",
+  "Número": "58",
+  "Enunciado": "No processo de visualização tridimensional, a região do universo que será recortada\ne projetada sobre o plano de projeção é denominada:",
   "A": "Projeção perspectiva.",
   "B": "Volume de visão.",
   "C": "Sistema de referência da câmera.",
   "D": "Observador.",
-  "E": "Plano de recorte frontal.",
+  "E": "Plano de recorte frontal.\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

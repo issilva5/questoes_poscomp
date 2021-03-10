@@ -1,11 +1,14 @@
 {
-  "N": "15",
-  "Enun": "Considere as premissas a seguir verdadeiras:\nPremissa  1: Se hoje é sábado, então Heide vai à praia e Luiz vai assistir ao jogo de futebol.\nPremissa  2: Se Heide vai à praia ou Marcos vai trabalhar, então Alessandra faz o churrasco.\nPremissa  3: Hoje, Luiz foi assistir ao jogo de futebol.\nPremissa  4: Hoje, Alessandra não fez o churrasco.\nÉ correto concluir:",
+  "Ano": "2018",
+  "Número": "15",
+  "Enunciado": "Considere as premissas a seguir verdadeiras:\nPremissa  1: Se hoje é sábado, então Heide vai à praia e Luiz vai assistir ao jogo de futebol.\nPremissa  2: Se Heide vai à praia ou Marcos vai trabalhar, então Alessandra faz o churrasco.\nPremissa  3: Hoje, Luiz foi assistir ao jogo de futebol.\nPremissa  4: Hoje, Alessandra não fez o churrasco.\nÉ correto concluir:",
   "A": "Hoje é sábado e Heide foi à praia.",
   "B": "Hoje não é sábado e Heide foi à praia.",
   "C": "Hoje não é sábado e Marcos não foi trabalhar.",
   "D": "Heide foi à praia ou Marcos foi trabalhar.",
-  "E": "Hoje é sábado e Marcos foi trabalhar.",
+  "E": "Hoje é sábado e Marcos foi trabalhar.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

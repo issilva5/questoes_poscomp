@@ -1,11 +1,14 @@
 {
-  "N": "43",
-  "Enun": "Analise as assertivas a seguir sobre a figura abaixo:\n  I. A figura representa o símbolo lógico de um multiplexador 4:1.\n II. Um multiplexador 8:1 pode ser composto por 2 multiplexadores 4:1 e um multiplexador 2:1.\nIII. A saída Y do multiplexador representado na figura recebe A0 quando S0=0 e S1=1.\nIV.  O multiplexador representado pela figura pode ser implementado com 4 portas lógicas AND\n     NEGADA (NAND) de 3 entradas, 1 porta lógica AND NEGADA (NAND) de 4 entradas e 2 inversores.\n V. O multiplexador representado pela figura pode implementar qualquer função booleana de 2\n     entradas: S0 e S1.\nQuais estão corretas?",
+  "Ano": "2017",
+  "Número": "43",
+  "Enunciado": "Analise as assertivas a seguir sobre a figura abaixo:\n  I. A figura representa o símbolo lógico de um multiplexador 4:1.\n II. Um multiplexador 8:1 pode ser composto por 2 multiplexadores 4:1 e um multiplexador 2:1.\nIII. A saída Y do multiplexador representado na figura recebe A0 quando S0=0 e S1=1.\nIV.  O multiplexador representado pela figura pode ser implementado com 4 portas lógicas AND\n     NEGADA (NAND) de 3 entradas, 1 porta lógica AND NEGADA (NAND) de 4 entradas e 2 inversores.\n V. O multiplexador representado pela figura pode implementar qualquer função booleana de 2\n     entradas: S0 e S1.\nQuais estão corretas?",
   "A": "Apenas   I e II.",
   "B": "Apenas   I e III.",
   "C": "Apenas   III e IV.",
   "D": "Apenas   II, IV e V.",
-  "E": "Apenas   I, II, IV e V.",
+  "E": "Apenas   I, II, IV e V.\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Fundamentos da Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

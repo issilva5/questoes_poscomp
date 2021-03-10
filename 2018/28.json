@@ -1,11 +1,14 @@
 {
-  "N": "28",
-  "Enun": "De acordo com o diagrama de classes UML a seguir, assinale a alternativa correta.",
+  "Ano": "2018",
+  "Número": "28",
+  "Enunciado": "De acordo com o diagrama de classes UML a seguir, assinale a alternativa correta.",
   "A": "O relacionamento   entre “Veículo” e “Roda” se relaciona diretamente com polimorfismo.",
   "B": "O relacionamento   entre “Roda” e “Pneu” se relaciona diretamente com polimorfismo.",
   "C": "O relacionamento   entre “Veículo” e “Pneu” se relaciona diretamente com polimorfismo.",
   "D": "O relacionamento   entre “Artefato” e “Veículo” se relaciona diretamente com polimorfismo.",
   "E": "O relacionamento   entre “Veículo” e “Aerofólio” se relaciona diretamente com polimorfismo.",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Fundamentos de Computação"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Fundamentos de Computação"
 }

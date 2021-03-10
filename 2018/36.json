@@ -1,11 +1,14 @@
 {
-  "N": "36",
-  "Enun": "As arestas são exploradas a partir do vértice v mais recentemente descoberto que\nainda possui arestas não exploradas saindo dele. Quando todas as arestas adjacentes a v tiverem\nsido exploradas, a busca anda para trás para explorar vértices que saem do vértice do qual v foi\ndescoberto. O processo continua até que sejam descobertos todos os vértices alcançáveis a partir do\nvértice original. Qual algoritmo de grafos possui a estratégia descrita acima?",
+  "Ano": "2018",
+  "Número": "36",
+  "Enunciado": "As arestas são exploradas a partir do vértice v mais recentemente descoberto que\nainda possui arestas não exploradas saindo dele. Quando todas as arestas adjacentes a v tiverem\nsido exploradas, a busca anda para trás para explorar vértices que saem do vértice do qual v foi\ndescoberto. O processo continua até que sejam descobertos todos os vértices alcançáveis a partir do\nvértice original. Qual algoritmo de grafos possui a estratégia descrita acima?",
   "A": "Ordenação topológica.",
   "B": "Busca em profundidade.",
   "C": "Componentes fortemente conectados.",
   "D": "Árvore geradora mínima.",
-  "E": "Busca em largura.",
+  "E": "Busca em largura.\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Fundamentos de Computação"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Fundamentos de Computação"
 }

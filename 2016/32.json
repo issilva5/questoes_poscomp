@@ -1,11 +1,14 @@
 {
-  "N": "32",
-  "Enun": "A matriz de um grafo G = (V,A) contendo n vértices é uma matriz n x n de bits, em\nque A[i,j] é 1 (ou verdadeiro, no caso de booleanos) se e somente se existir um arco do vértice i para\no vértice j. Essa definição é uma:",
+  "Ano": "2016",
+  "Número": "32",
+  "Enunciado": "A matriz de um grafo G = (V,A) contendo n vértices é uma matriz n x n de bits, em\nque A[i,j] é 1 (ou verdadeiro, no caso de booleanos) se e somente se existir um arco do vértice i para\no vértice j. Essa definição é uma:",
   "A": "Matriz de  adjacência para grafos não ponderados.",
   "B": "Matriz de  recorrência para grafos não ponderados.",
   "C": "Matriz de  incidência para grafos não ponderados.",
   "D": "Matriz de  adjacência para grafos ponderados.",
-  "E": "Matriz de  incidência para grafos ponderados.",
+  "E": "Matriz de  incidência para grafos ponderados.\n",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

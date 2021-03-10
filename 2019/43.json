@@ -1,11 +1,14 @@
 {
-  "N": "43",
-  "Enun": "Considerando que determinado microcontrolador utiliza os endereços hexadecimais\nde 002016 (inclusive) até 00FF16 (inclusive) para acesso a registradores de E/S (Entrada/Saída), a\nquantidade total de endereços utilizados para acesso aos registradores de E/S é de:",
+  "Ano": "2019",
+  "Número": "43",
+  "Enunciado": "Considerando que determinado microcontrolador utiliza os endereços hexadecimais\nde 002016 (inclusive) até 00FF16 (inclusive) para acesso a registradores de E/S (Entrada/Saída), a\nquantidade total de endereços utilizados para acesso aos registradores de E/S é de:",
   "A": "80.",
   "B": "128.",
   "C": "160.",
   "D": "224.",
-  "E": "236.",
+  "E": "236.\n",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Circuitos Digitais"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Circuitos Digitais"
 }

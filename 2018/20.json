@@ -1,11 +1,14 @@
 {
-  "N": "20",
-  "Enun": "Calcule a média, a mediana e a moda da seguinte série de números: 5, 3, 6, 5, 4,\n5, 2, 8, 6, 5, 4, 8, 3, 4, 5, 4, 8, 2, 5, 4.",
+  "Ano": "2018",
+  "Número": "20",
+  "Enunciado": "Calcule a média, a mediana e a moda da seguinte série de números: 5, 3, 6, 5, 4,\n5, 2, 8, 6, 5, 4, 8, 3, 4, 5, 4, 8, 2, 5, 4.",
   "A": "4,8;  5; 5",
   "B": "4,8;  10; 20",
   "C": "5,0;  10; 10",
   "D": "4,8;  20; 10",
   "E": "4,8;  5; 10",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

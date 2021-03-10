@@ -1,11 +1,14 @@
 {
-  "N": "13",
-  "Enun": "De um grupo composto por 12 estudantes, apenas 6 estão habilitados para dirigir.\nQuantas equipes com 7 estudantes são possíveis formar considerando que em cada equipe deve haver\nao menos um que seja habilitado?",
+  "Ano": "2017",
+  "Número": "13",
+  "Enunciado": "De um grupo composto por 12 estudantes, apenas 6 estão habilitados para dirigir.\nQuantas equipes com 7 estudantes são possíveis formar considerando que em cada equipe deve haver\nao menos um que seja habilitado?",
   "A": "722",
   "B": "792",
   "C": "836",
   "D": "894",
-  "E": "908",
+  "E": "908\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

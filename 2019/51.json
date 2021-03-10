@@ -1,11 +1,14 @@
 {
-  "N": "51",
-  "Enun": "Sobre o controle de concorrência baseado na ordenação de timestamp (rótulo de\ntempo), considere r_ts(x) e w_ts(x) os timestamps da última transação a ler e a gravar o item de\ndados x, respectivamente. Considere que a transação T, cujo timestamp é ts(T), precisa gravar o item\nde dados x, ou seja, T emite a operação write(x). Conforme o algoritmo de ordenação baseada em\ntimestamp básica, para que as transações sejam serializáveis em conflito sem que haja o aborto e o\nreinício de T, o seguinte predicado precisa ser verdadeiro:",
+  "Ano": "2019",
+  "Número": "51",
+  "Enunciado": "Sobre o controle de concorrência baseado na ordenação de timestamp (rótulo de\ntempo), considere r_ts(x) e w_ts(x) os timestamps da última transação a ler e a gravar o item de\ndados x, respectivamente. Considere que a transação T, cujo timestamp é ts(T), precisa gravar o item\nde dados x, ou seja, T emite a operação write(x). Conforme o algoritmo de ordenação baseada em\ntimestamp básica, para que as transações sejam serializáveis em conflito sem que haja o aborto e o\nreinício de T, o seguinte predicado precisa ser verdadeiro:",
   "A": "(r_ts(x) > ts(T)) or (w_ts(x) > ts(T))",
   "B": "(r_ts(x) > ts(T)) and (w_ts(x) > ts(T))",
   "C": "(not (r_ts(x) > ts(T))) or (w_ts(x) > ts(T))",
   "D": "(not (r_ts(x) > ts(T))) or (not (w_ts(x) > ts(T)))",
-  "E": "(not (r_ts(x) > ts(T))) and not ((w_ts(x) > ts(T)))",
+  "E": "(not (r_ts(x) > ts(T))) and not ((w_ts(x) > ts(T)))\n",
+  "Imagens": {},
   "Resposta": "E",
-  "Componente": "Banco de Dados"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Banco de Dados"
 }

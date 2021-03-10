@@ -1,11 +1,14 @@
 {
-  "N": "47",
-  "Enun": "Sobre a Máquina de Estados Finita com 5 estados (P,C,F,W,M) síncrona ao pulso de\nsubida do relógio, representada a seguir, analise as assertivas abaixo:\n  I. A máquina representada nesta questão é do tipo Moore, pois os valores das saídas x e y só\n     dependem do estado em que a máquina se encontra.\n II. Para a saída y atingir o valor 1 lógico após o reset da máquina, é necessário, pelo menos, 2\n     pulsos de subida do relógio.\nIII. Após o reset da máquina, se o valor de entrada ficar em 0 por 3 subidas do relógio\n     consecutivas, a máquina atingirá o estado W.\nIV. Quando a máquina se encontra no estado F, o próximo estado da máquina, ao vir a subida do\n     relógio, é C se a=1 ou M se a = 0.\n V. As saídas x e y só valem zero durante o reset da máquina.\nQuais estão corretas?",
+  "Ano": "2018",
+  "Número": "47",
+  "Enunciado": "Sobre a Máquina de Estados Finita com 5 estados (P,C,F,W,M) síncrona ao pulso de\nsubida do relógio, representada a seguir, analise as assertivas abaixo:\n  I. A máquina representada nesta questão é do tipo Moore, pois os valores das saídas x e y só\n     dependem do estado em que a máquina se encontra.\n II. Para a saída y atingir o valor 1 lógico após o reset da máquina, é necessário, pelo menos, 2\n     pulsos de subida do relógio.\nIII. Após o reset da máquina, se o valor de entrada ficar em 0 por 3 subidas do relógio\n     consecutivas, a máquina atingirá o estado W.\nIV. Quando a máquina se encontra no estado F, o próximo estado da máquina, ao vir a subida do\n     relógio, é C se a=1 ou M se a = 0.\n V. As saídas x e y só valem zero durante o reset da máquina.\nQuais estão corretas?",
   "A": "Apenas   I e III.",
   "B": "Apenas   I e V.",
   "C": "Apenas   II e III.",
   "D": "Apenas   II, III e IV.",
-  "E": "Apenas   II, III e V.",
+  "E": "Apenas   II, III e V.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Fundamentos de Computação"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "Fundamentos de Computação"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "31",
-  "Enun": "Quando uma expressão contém duas ocorrências adjacentes de operadores com o\nmesmo nível de precedência, a questão sobre qual deles é avaliado primeiro responde-se pelas regras\nde:",
+  "Ano": "2017",
+  "Número": "31",
+  "Enunciado": "Quando uma expressão contém duas ocorrências adjacentes de operadores com o\nmesmo nível de precedência, a questão sobre qual deles é avaliado primeiro responde-se pelas regras\nde:",
   "A": "Associatividade.",
   "B": "Expressões condicionais.",
   "C": "Polimorfismo.",
   "D": "Condutividade.",
-  "E": "Coerção.",
+  "E": "Coerção.\n",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "Fundamentos da Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

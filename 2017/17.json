@@ -1,11 +1,14 @@
 {
-  "N": "17",
-  "Enun": "Em uma farmácia, trabalham 6 farmacêuticos e 9 atendentes. De quantas maneiras\ndistintas é possível organizar um plantão de fim de semana composto por 2 farmacêuticos e 5\natendentes?",
+  "Ano": "2017",
+  "Número": "17",
+  "Enunciado": "Em uma farmácia, trabalham 6 farmacêuticos e 9 atendentes. De quantas maneiras\ndistintas é possível organizar um plantão de fim de semana composto por 2 farmacêuticos e 5\natendentes?",
   "A": "1.260",
   "B": "1.620",
   "C": "1.890",
   "D": "1.960",
-  "E": "2.040",
+  "E": "2.040\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

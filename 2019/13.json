@@ -1,11 +1,14 @@
 {
-  "N": "13",
-  "Enun": "Dez pessoas estão participando de um campeonato de xadrez. Na primeira rodada\ndo campeonato, haverá cinco partidas. De quantas maneiras distintas é possível organizar a primeira\nrodada do campeonato, considerando que não há distinção entre a partida “competidor A versus\ncompetidor B” e a partida “competidor B versus competidor A”?",
+  "Ano": "2019",
+  "Número": "13",
+  "Enunciado": "Dez pessoas estão participando de um campeonato de xadrez. Na primeira rodada\ndo campeonato, haverá cinco partidas. De quantas maneiras distintas é possível organizar a primeira\nrodada do campeonato, considerando que não há distinção entre a partida “competidor A versus\ncompetidor B” e a partida “competidor B versus competidor A”?",
   "A": "45.",
   "B": "252.",
   "C": "945.",
   "D": "3.840.",
   "E": "113.400.",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Análise Combinatória"
+  "Componente": "Matemática",
+  "Subarea": "Análise Combinatória"
 }

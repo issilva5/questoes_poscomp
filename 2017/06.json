@@ -1,11 +1,14 @@
 {
-  "N": "06",
-  "Enun": "O limite de       √         quando 𝑛 → ∞ é:\n                                 𝑛7 −2",
+  "Ano": "2017",
+  "Número": "06",
+  "Enunciado": "O limite de       √         quando 𝑛 → ∞ é:\n                                 𝑛7 −2",
   "A": "1",
   "B": "0",
   "C": "∞",
   "D": "2/7",
-  "E": "1/2\n                                                                           3𝑥1 + 2𝑥2 + 5𝑥3   =1\n                                                                           4𝑥1 + 3𝑥2 + 6𝑥3   =2",
+  "E": "1/2\n                                                                           3𝑥1 + 2𝑥2 + 5𝑥3   =1\n                                                                           4𝑥1 + 3𝑥2 + 6𝑥3   =2\n",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

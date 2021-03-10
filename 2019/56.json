@@ -1,11 +1,14 @@
 {
-  "N": "56",
-  "Enun": "Analise as seguintes assertivas sobre padrões arquiteturais de software e assinale V,\nse verdadeiras, ou F, se falsas.\n( ) Mesmo que um dado padrão arquitetural ofereça uma solução para o problema sendo resolvido,\n    nem sempre ele é adequado. Fatores como contexto e o sistema de forças que afeta a solução\n    fazem também parte do processo de avaliação e da escolha de padrões adequados.\n( ) Padrão MVC é uma adaptação do padrão arquitetural Camadas. A Camada Visão lida com a\n    apresentação e a manipulação da interface, a Camada Modelo organiza os objetos específicos da\n    aplicação, e a Camada Controle posiciona-se entre estas duas com as regras do negócio.\n( ) O padrão Broker é voltado a problemas de ambientes distribuídos. Sugere uma arquitetura na\n    qual um componente (broker) estabelece uma mediação que permite um desacoplamento entre\n    clientes e servidores.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2019",
+  "Número": "56",
+  "Enunciado": "Analise as seguintes assertivas sobre padrões arquiteturais de software e assinale V,\nse verdadeiras, ou F, se falsas.\n( ) Mesmo que um dado padrão arquitetural ofereça uma solução para o problema sendo resolvido,\n    nem sempre ele é adequado. Fatores como contexto e o sistema de forças que afeta a solução\n    fazem também parte do processo de avaliação e da escolha de padrões adequados.\n( ) Padrão MVC é uma adaptação do padrão arquitetural Camadas. A Camada Visão lida com a\n    apresentação e a manipulação da interface, a Camada Modelo organiza os objetos específicos da\n    aplicação, e a Camada Controle posiciona-se entre estas duas com as regras do negócio.\n( ) O padrão Broker é voltado a problemas de ambientes distribuídos. Sugere uma arquitetura na\n    qual um componente (broker) estabelece uma mediação que permite um desacoplamento entre\n    clientes e servidores.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "V – V – V.",
   "B": "F – F – V.",
   "C": "V – V – F.",
   "D": "V – F – V.",
-  "E": "F – V – F.",
+  "E": "F – V – F.\n",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Engenharia de Software"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Engenharia de Software"
 }

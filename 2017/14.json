@@ -1,11 +1,14 @@
 {
-  "N": "14",
-  "Enun": "Assinale a alternativa que apresenta a simplificação, pelo Mapa de Karnaugh, da\nfunção cuja expressão em termos canônicos é 𝑓(𝑥, 𝑦, 𝑧) = ∑3 𝑚(3,5,6).",
+  "Ano": "2017",
+  "Número": "14",
+  "Enunciado": "Assinale a alternativa que apresenta a simplificação, pelo Mapa de Karnaugh, da\nfunção cuja expressão em termos canônicos é 𝑓(𝑥, 𝑦, 𝑧) = ∑3 𝑚(3,5,6).",
   "A": "𝑓(𝑥, 𝑦, 𝑧) = 𝑥𝑦𝑧 + 𝑥𝑦̅𝑧 + 𝑥̅ 𝑦̅𝑧",
   "B": "𝑓(𝑥, 𝑦, 𝑧) = 𝑥𝑦̅𝑧 + 𝑥̅ 𝑦𝑧 + 𝑥𝑦𝑧̅",
   "C": "𝑓(𝑥, 𝑦, 𝑧) = 𝑥𝑦̅𝑧̅ + 𝑥𝑦𝑧 + 𝑥̅ 𝑦̅𝑧",
   "D": "𝑓(𝑥, 𝑦, 𝑧) = 𝑥𝑦𝑧 + 𝑥𝑦𝑧̅ + 𝑥̅ 𝑦𝑧",
-  "E": "𝑓(𝑥, 𝑦, 𝑧) = 𝑥𝑦𝑧\n                ̅̅̅̅̅ + 𝑥𝑦𝑧̅ + 𝑥̅ 𝑦𝑧",
+  "E": "𝑓(𝑥, 𝑦, 𝑧) = 𝑥𝑦𝑧\n                ̅̅̅̅̅ + 𝑥𝑦𝑧̅ + 𝑥̅ 𝑦𝑧\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "Matemática"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

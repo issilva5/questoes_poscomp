@@ -1,11 +1,14 @@
 {
-  "N": "19",
-  "Enun": "Quantas cadeias compostas de 16 bits possuem os 5 bits à esquerda com 00000 e\nos 4 últimos à direita com 1010, isto é, são da forma 00000_ _ _ _ _ _ _1010?",
+  "Ano": "2016",
+  "Número": "19",
+  "Enunciado": "Quantas cadeias compostas de 16 bits possuem os 5 bits à esquerda com 00000 e\nos 4 últimos à direita com 1010, isto é, são da forma 00000_ _ _ _ _ _ _1010?",
   "A": "256",
   "B": "128",
   "C": "91",
   "D": "64",
-  "E": "14",
+  "E": "14\n",
+  "Imagens": {},
   "Resposta": "B",
-  "Componente": "MATEMáTICA"
+  "Componente": "Matemática",
+  "Subarea": "MATEMáTICA"
 }

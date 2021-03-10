@@ -1,11 +1,14 @@
 {
-  "N": "39",
-  "Enun": "O grafo rotulado G(r), exposto abaixo, representa qual expressão regular?\n A)\n B)\n C)\n D)\n E)\n",
+  "Ano": "2016",
+  "Número": "39",
+  "Enunciado": "O grafo rotulado G(r), exposto abaixo, representa qual expressão regular?\n A)\n B)\n C)\n D)\n E)\n",
   "A": null,
   "B": null,
   "C": null,
   "D": null,
   "E": null,
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

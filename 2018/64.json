@@ -1,11 +1,14 @@
 {
-  "N": "64",
-  "Enun": "Quando um processo na máquina A chama um procedimento na máquina B, o\nprocesso chamador em A é suspenso, e a execução do procedimento chamado ocorre em B.\nInformações podem ser transportadas do chamador para quem foi chamado nos parâmetros e\npodem voltar no resultado do procedimento. Absolutamente nada da troca de mensagens é visível\npara o programador. Esse método é conhecido como:",
+  "Ano": "2018",
+  "Número": "64",
+  "Enunciado": "Quando um processo na máquina A chama um procedimento na máquina B, o\nprocesso chamador em A é suspenso, e a execução do procedimento chamado ocorre em B.\nInformações podem ser transportadas do chamador para quem foi chamado nos parâmetros e\npodem voltar no resultado do procedimento. Absolutamente nada da troca de mensagens é visível\npara o programador. Esse método é conhecido como:",
   "A": "Chamada de Procedimento Remoto (RPC).",
   "B": "Protocolo Universal de Datagramas (UDP).",
   "C": "Protocolo de Transporte em Tempo Real (RTP).",
   "D": "Middleware Orientado a Mensagem (MOM).",
-  "E": "Linguagem de Programação de Interface (IDL).",
+  "E": "Linguagem de Programação de Interface (IDL).\n",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

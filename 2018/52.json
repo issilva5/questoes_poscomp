@@ -1,11 +1,14 @@
 {
-  "N": "52",
-  "Enun": "Com respeito à abordagem de cópia distinguida para o controle de concorrência de\nbanco de dados distribuídos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se\nfalsas.\n( ) Uma cópia particular de cada item de dados é eleita como cópia distinguida, para que quaisquer\n     solicitações de bloqueio e desbloqueio sejam desviadas do site que contém tal cópia.\n( ) Na técnica de site primário, quando uma transação obtém um read_lock, todas as cópias do\n     item de dados devem ser atualizadas antes de liberar o bloqueio.\n( ) A técnica de cópia primária tenta distribuir a carga de coordenação de bloqueio entre vários\n     sites.\n( ) O uso de site de backup para a técnica de site primário ameniza o problema de sobrecarga do\n     site primário, o que minimiza gargalos no sistema.\n( ) A técnica de cópia primária em geral possui menor confiabilidade e menor disponibilidade do\n     que a técnica de site primário.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2018",
+  "Número": "52",
+  "Enunciado": "Com respeito à abordagem de cópia distinguida para o controle de concorrência de\nbanco de dados distribuídos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se\nfalsas.\n( ) Uma cópia particular de cada item de dados é eleita como cópia distinguida, para que quaisquer\n     solicitações de bloqueio e desbloqueio sejam desviadas do site que contém tal cópia.\n( ) Na técnica de site primário, quando uma transação obtém um read_lock, todas as cópias do\n     item de dados devem ser atualizadas antes de liberar o bloqueio.\n( ) A técnica de cópia primária tenta distribuir a carga de coordenação de bloqueio entre vários\n     sites.\n( ) O uso de site de backup para a técnica de site primário ameniza o problema de sobrecarga do\n     site primário, o que minimiza gargalos no sistema.\n( ) A técnica de cópia primária em geral possui menor confiabilidade e menor disponibilidade do\n     que a técnica de site primário.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "V – F – F – V – V.",
   "B": "F – V – F – F – F.",
   "C": "F – F – V – F – F.",
   "D": "V – F – F – V – F.",
-  "E": "F – V – V – F – V.",
+  "E": "F – V – V – F – V.\n",
+  "Imagens": {},
   "Resposta": "C",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

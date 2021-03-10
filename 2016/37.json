@@ -1,11 +1,14 @@
 {
-  "N": "37",
-  "Enun": "Em relação a Teoria dos Grafos, relacione a Coluna 1 à Coluna 2.\nColuna 1\n1. Grafo Completo.\n2. Hipergrafo.\n3. Árvore Livre.\n4. Grafo Planar.\n5. Grafo não direcionado antirregular.\nColuna 2\n( ) Grafo não direcionado, no qual todos os pares de vértices são adjacentes entre si.\n( ) Grafo não direcionado em que cada aresta conecta um número arbitrário de vértices, ao invés de\n     conectar dois vértices apenas.\n( ) Grafo não direcionado acíclico e dirigido.\n( ) Grafo em que seu esquema pode ser traçado em um plano, de modo que duas arestas quaisquer\n     se toquem, no máximo, em alguma extremidade.\n( ) Grafo que possui o maior número possível de graus diferentes em sua sequência.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2016",
+  "Número": "37",
+  "Enunciado": "Em relação a Teoria dos Grafos, relacione a Coluna 1 à Coluna 2.\nColuna 1\n1. Grafo Completo.\n2. Hipergrafo.\n3. Árvore Livre.\n4. Grafo Planar.\n5. Grafo não direcionado antirregular.\nColuna 2\n( ) Grafo não direcionado, no qual todos os pares de vértices são adjacentes entre si.\n( ) Grafo não direcionado em que cada aresta conecta um número arbitrário de vértices, ao invés de\n     conectar dois vértices apenas.\n( ) Grafo não direcionado acíclico e dirigido.\n( ) Grafo em que seu esquema pode ser traçado em um plano, de modo que duas arestas quaisquer\n     se toquem, no máximo, em alguma extremidade.\n( ) Grafo que possui o maior número possível de graus diferentes em sua sequência.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "1  – 2 – 3 – 4 – 5.",
   "B": "2  – 3 – 4 – 5 – 1.",
   "C": "3  – 4 – 5 – 1 – 2.",
   "D": "4  – 5 – 1 – 2 – 3.",
   "E": "5  – 1 – 2 – 3 – 4.",
+  "Imagens": {},
   "Resposta": "A",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

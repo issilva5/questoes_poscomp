@@ -1,11 +1,14 @@
 {
-  "N": "04",
-  "Enun": "O ângulo entre os vetores 𝑢               ⃗ = (2,2,0) e 𝑣 = (0,3, −3) é:",
+  "Ano": "2016",
+  "Número": "04",
+  "Enunciado": "O ângulo entre os vetores 𝑢               ⃗ = (2,2,0) e 𝑣 = (0,3, −3) é:",
   "A": "0°",
   "B": "30°",
   "C": "45°",
   "D": "60°",
   "E": "90°",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "MATEMáTICA"
+  "Componente": "Fundamentos de Computação",
+  "Subarea": "MATEMáTICA"
 }

@@ -1,11 +1,14 @@
 {
-  "N": "66",
-  "Enun": "Inteligência Artificial é uma área da ciência que se propõe a elaborar algoritmos que\nsimulem a capacidade cognitiva humana. Assinale a técnica computacional que NÃO faz parte de\nInteligência Artificial.",
+  "Ano": "2017",
+  "Número": "66",
+  "Enunciado": "Inteligência Artificial é uma área da ciência que se propõe a elaborar algoritmos que\nsimulem a capacidade cognitiva humana. Assinale a técnica computacional que NÃO faz parte de\nInteligência Artificial.",
   "A": "Sistemas multiagentes.",
   "B": "Redes neurais artificiais.",
   "C": "Algoritmos genéticos.",
   "D": "Filtros de transformação espacial.",
   "E": "Lógica difusa.",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

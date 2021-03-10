@@ -1,11 +1,14 @@
 {
-  "N": "62",
-  "Enun": "Relacione a Coluna 1 à Coluna 2, associando os diferentes tipos de falha com as\nsuas descrições.\nColuna 1\n1. Por queda.\n2. Por omissão.\n3. De transição de estado.\n4. Arbitrária.\nColuna 2\n( ) O servidor não consegue responder a requisições que chegam.\n( ) O servidor se desvia do fluxo de controle correto.\n( ) O servidor produz saídas que nunca deveriam ter produzido, mas não podem ser detectadas\n     como incorretas.\n( ) O servidor para de funcionar, mas estava funcionando corretamente até parar.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
+  "Ano": "2018",
+  "Número": "62",
+  "Enunciado": "Relacione a Coluna 1 à Coluna 2, associando os diferentes tipos de falha com as\nsuas descrições.\nColuna 1\n1. Por queda.\n2. Por omissão.\n3. De transição de estado.\n4. Arbitrária.\nColuna 2\n( ) O servidor não consegue responder a requisições que chegam.\n( ) O servidor se desvia do fluxo de controle correto.\n( ) O servidor produz saídas que nunca deveriam ter produzido, mas não podem ser detectadas\n     como incorretas.\n( ) O servidor para de funcionar, mas estava funcionando corretamente até parar.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
   "A": "1  – 2 – 3 – 4.",
   "B": "4  – 1 – 2 – 3.",
   "C": "3  – 4 – 1 – 2.",
   "D": "2  – 3 – 4 – 1.",
   "E": "4  – 2 – 1 – 3.",
+  "Imagens": {},
   "Resposta": "D",
-  "Componente": "Tecnologia da Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

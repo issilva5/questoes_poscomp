@@ -1,11 +1,14 @@
 {
-  "N": "45",
-  "Enun": "Em um computador com tamanho de quadro de memória de 1024 bytes, o sistema\noperacional aloca 1 página de memória virtual para armazenar a matriz M do código da Figura 1\n(linguagem C). A execução desse código resultará em quantas faltas de páginas (page faults)?\n                                    char M[512][1024];\n                                    for (j=0; j<1024; j++)\n                                      for (i=0; i<512; i++)\n                                             Figura 1",
+  "Ano": "2017",
+  "Número": "45",
+  "Enunciado": "Em um computador com tamanho de quadro de memória de 1024 bytes, o sistema\noperacional aloca 1 página de memória virtual para armazenar a matriz M do código da Figura 1\n(linguagem C). A execução desse código resultará em quantas faltas de páginas (page faults)?\n                                    char M[512][1024];\n                                    for (j=0; j<1024; j++)\n                                      for (i=0; i<512; i++)\n                                             Figura 1",
   "A": "Zero",
   "B": "512",
   "C": "1024",
   "D": "512×512",
-  "E": "512×1024",
+  "E": "512×1024\n",
+  "Imagens": {},
   "Resposta": "*",
-  "Componente": "Fundamentos da Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }
