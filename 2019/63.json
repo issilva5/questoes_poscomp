@@ -1,14 +1,10 @@
 {
   "Ano": "2019",
   "Número": "63",
-  "Enunciado": "Considere o esquema de tradução dirigida pela sintaxe apresentado a seguir, no qual\nas produções da gramática foram numeradas:\n                    Produções                                       Ações Semânticas\n 1)  L→En                                             L.val = E.val\n 2)  E → E1 + T                                       E.val = E1.val + T.val\n 3)  E→T                                              E.val = T.val\n 4)  T → T1 * F                                       T.val = T1.val * F.val\n 5)  T→F                                              T.val = F.val\n 6)  F → (E)                                          F.val = E.val\n 7)  F → digit                                        F.val = digit.lexval\nAssinale a alternativa correta sobre o esquema.",
-  "A": "Na   produção 4, T.val e F.val são sintetizados.",
-  "B": "Na   produção 4, T1.val é herdado.",
-  "C": "Na   produção 5, T.val e F.val são herdados.",
-  "D": "Na   produção 2, E.val é sintetizado e T.val é herdado.",
-  "E": "Na   produção 2, E1.val é sintetizado e T.val é herdado.\n",
+  "Enunciado": ["Considere o esquema de tradução dirigida pela sintaxe apresentado a seguir, no qual", "as produções da gramática foram numeradas:", "                    Produções                                       Ações Semânticas", " 1)  L→En                                             L.val = E.val", " 2)  E → E1 + T                                       E.val = E1.val + T.val", " 3)  E→T                                              E.val = T.val", " 4)  T → T1 * F                                       T.val = T1.val * F.val", " 5)  T→F                                              T.val = F.val", " 6)  F → (E)                                          F.val = E.val", " 7)  F → digit                                        F.val = digit.lexval", "Assinale a alternativa correta sobre o esquema."],
+  "Alternativas": ["Na   produção 4, T.val e F.val são sintetizados.", "Na   produção 4, T1.val é herdado.", "Na   produção 5, T.val e F.val são herdados.", "Na   produção 2, E.val é sintetizado e T.val é herdado.", "Na   produção 2, E1.val é sintetizado e T.val é herdado.\n"],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Compiladores"
 }

@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "17",
-  "Enunciado": "Considere o grafo G abaixo e as afirmações feitas sobre G:\n  I. O grafo é planar.\n II. O menor caminho direcionado medido em número de arcos entre os nós D e F tem comprimento\n     2.\nIII. DABCEF representa uma ordenação topológica válida dos nós do grafo.\nIV. Existe algum caminho direcionado entre D e todos os outros nós do grafo.\n V. O maior componente fortemente conexo de G é composto por um único nó, ou seja, não existe\n     em G um par de nós distintos x e y que tenha um caminho direcionado entre x e y e um\n     caminho direcionado entre y e x.\nQuais estão corretas?",
-  "A": "Apenas II e III.",
-  "B": "Apenas I, II e IV.",
-  "C": "Apenas I, III e V.",
-  "D": "Apenas I, II, III e V.",
-  "E": "I, II, III, IV e V.\n",
+  "Enunciado": ["Considere o grafo G abaixo e as afirmações feitas sobre G:", "  I. O grafo é planar.", " II. O menor caminho direcionado medido em número de arcos entre os nós D e F tem comprimento", "     2.", "III. DABCEF representa uma ordenação topológica válida dos nós do grafo.", "IV. Existe algum caminho direcionado entre D e todos os outros nós do grafo.", " V. O maior componente fortemente conexo de G é composto por um único nó, ou seja, não existe", "     em G um par de nós distintos x e y que tenha um caminho direcionado entre x e y e um", "     caminho direcionado entre y e x.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas II e III.", "Apenas I, II e IV.", "Apenas I, III e V.", "Apenas I, II, III e V.", "I, II, III, IV e V.\n"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

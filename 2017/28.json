@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "28",
-  "Enunciado": "De acordo com o diagrama de classes UML a seguir, assinale a alternativa que se\nrelaciona diretamente com o conceito de polimorfismo da programação orientada a objetos.",
-  "A": "A relação entre as classes “Livro” e “Capítulo”.",
-  "B": "Os atributos “número: int” e “númeroDePágs: int” da classe “Capítulo”.",
-  "C": "O método “ImprimeNome” das classes “Artefato” e “Livro”.",
-  "D": "O atributo “autor: String” da classe “Livro”.",
-  "E": "A relação entre as classes “Capítulo” e “Página”.\n",
+  "Enunciado": ["De acordo com o diagrama de classes UML a seguir, assinale a alternativa que se", "relaciona diretamente com o conceito de polimorfismo da programação orientada a objetos."],
+  "Alternativas": ["A relação entre as classes “Livro” e “Capítulo”.", "Os atributos “número: int” e “númeroDePágs: int” da classe “Capítulo”.", "O método “ImprimeNome” das classes “Artefato” e “Livro”.", "O atributo “autor: String” da classe “Livro”.", "A relação entre as classes “Capítulo” e “Página”.\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"
 }

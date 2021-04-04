@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "15",
-  "Enunciado": "Considere a seguinte proposição: Todas as métricas de avaliação foram positivas.\nA negação da proposição acima é logicamente equivalente à afirmação:",
-  "A": "Alguma métrica de avaliação foi negativa.",
-  "B": "Nenhuma métrica de avaliação foi positiva.",
-  "C": "Todas as métricas de avaliação foram negativas.",
-  "D": "Alguma métrica de avaliação foi negativa ou zero.",
-  "E": "Todas as métricas de avaliação foram negativas ou zero.\n",
+  "Enunciado": ["Considere a seguinte proposição: Todas as métricas de avaliação foram positivas.", "A negação da proposição acima é logicamente equivalente à afirmação:"],
+  "Alternativas": ["Alguma métrica de avaliação foi negativa.", "Nenhuma métrica de avaliação foi positiva.", "Todas as métricas de avaliação foram negativas.", "Alguma métrica de avaliação foi negativa ou zero.", "Todas as métricas de avaliação foram negativas ou zero.\n"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Matemática",
   "Subarea": "MATEMáTICA"
 }

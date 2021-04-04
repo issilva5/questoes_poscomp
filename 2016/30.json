@@ -2,13 +2,9 @@
   "Ano": "2016",
   "Número": "30",
   "Enunciado": "Assinale a alternativa que corresponde à saída do programa a seguir:",
-  "A": "x: 68, i: 67.",
-  "B": "x: 68, i: 68.",
-  "C": "x: 69, i: 68.",
-  "D": "x: 69, i: 69.",
-  "E": "x: 69, i: 70.\n",
+  "Alternativas": ["x: 68, i: 67.", "x: 68, i: 68.", "x: 69, i: 68.", "x: 69, i: 69.", "x: 69, i: 70.\n"],
   "Imagens": {},
-  "Resposta": "*",
+  "Resposta": -1,
   "Componente": "Fundamentos de Computação",
   "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

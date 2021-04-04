@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "65",
-  "Enunciado": "Ethernet é um padrão para redes locais. Qual das alternativas abaixo NÃO é função\ndo Ethernet?",
-  "A": "Conexão de redes locais.",
-  "B": "Controle de congestionamento.",
-  "C": "Envio de pacotes.",
-  "D": "Definição de cabeamento e sinais elétricos.",
-  "E": "Detecção de colisão.\n",
+  "Enunciado": ["Ethernet é um padrão para redes locais. Qual das alternativas abaixo NÃO é função", "do Ethernet?"],
+  "Alternativas": ["Conexão de redes locais.", "Controle de congestionamento.", "Envio de pacotes.", "Definição de cabeamento e sinais elétricos.", "Detecção de colisão.\n"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

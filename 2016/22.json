@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "22",
-  "Enunciado": "O tempo de execução T(n) de um algoritmo, em que n é o tamanho da entrada, é\ndado pela equação de recorrência T(n) = 8T(n/2)+q*n se n > 1. Dado que T(1) = p, e que p e q são\nconstantes arbitrárias, a complexidade do algoritmo é:",
-  "A": "O(n).",
-  "B": "O(n log n).",
-  "C": "O(n2).",
-  "D": "O(n3).",
-  "E": "O(nn).\n",
+  "Enunciado": ["O tempo de execução T(n) de um algoritmo, em que n é o tamanho da entrada, é", "dado pela equação de recorrência T(n) = 8T(n/2)+q*n se n > 1. Dado que T(1) = p, e que p e q são", "constantes arbitrárias, a complexidade do algoritmo é:"],
+  "Alternativas": ["O(n).", "O(n log n).", "O(n2).", "O(n3).", "O(nn).\n"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

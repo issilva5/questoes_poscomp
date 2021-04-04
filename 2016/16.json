@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "16",
-  "Enunciado": "Considerando as identidades de conjuntos, se justifica a simplificação entre as\nseguintes sentenças\n1. (𝐴 ∩ 𝐵′ ) ∪ (𝐶 ′ ∩ 𝐴)\n2. (𝐴 ∩ 𝐵′ ) ∪ (𝐴 ∩ 𝐶′)\n3. 𝐴 ∩ (𝐵′ ∪ 𝐶′)\n4. 𝐴 ∩ (𝐵 ∩ 𝐶 )′\npelo uso, respectivamente, das propriedades:",
-  "A": "Associativa, comutativa e distributiva.",
-  "B": "Associativa, distributiva e Lei de De Morgan.",
-  "C": "Associativa, Lei de De Morgan e distributiva.",
-  "D": "Comutativa, distributiva e Lei de De Morgan.",
-  "E": "Comutativa, distributiva e associativa.",
+  "Enunciado": ["Considerando as identidades de conjuntos, se justifica a simplificação entre as", "seguintes sentenças", "1. (𝐴 ∩ 𝐵′ ) ∪ (𝐶 ′ ∩ 𝐴)", "2. (𝐴 ∩ 𝐵′ ) ∪ (𝐴 ∩ 𝐶′)", "3. 𝐴 ∩ (𝐵′ ∪ 𝐶′)", "4. 𝐴 ∩ (𝐵 ∩ 𝐶 )′", "pelo uso, respectivamente, das propriedades:"],
+  "Alternativas": ["Associativa, comutativa e distributiva.", "Associativa, distributiva e Lei de De Morgan.", "Associativa, Lei de De Morgan e distributiva.", "Comutativa, distributiva e Lei de De Morgan.", "Comutativa, distributiva e associativa."],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Matemática",
   "Subarea": "MATEMáTICA"
 }

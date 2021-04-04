@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "58",
-  "Enunciado": "A técnica de mapeamento de textura baseada na aplicação de uma função de\nperturbação no vetor normal da superfície, de forma que a iluminação desta seja afetada, é\ndenominada:",
-  "A": "Textura procedural.",
-  "B": "Textura sólida.",
-  "C": "Bump mapping.",
-  "D": "Frame mapping.",
-  "E": "Environment mapping.",
+  "Enunciado": ["A técnica de mapeamento de textura baseada na aplicação de uma função de", "perturbação no vetor normal da superfície, de forma que a iluminação desta seja afetada, é", "denominada:"],
+  "Alternativas": ["Textura procedural.", "Textura sólida.", "Bump mapping.", "Frame mapping.", "Environment mapping."],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

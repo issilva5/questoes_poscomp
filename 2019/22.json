@@ -1,14 +1,10 @@
 {
   "Ano": "2019",
   "Número": "22",
-  "Enunciado": "Considere as seguintes funções:\n                                               𝑓(𝑛) = 2𝑛\n                                               𝑔(𝑛) = 𝑛!\n                                              ℎ(𝑛) = 𝑛𝑙𝑜𝑔𝑛\nAssinale a alternativa correta a respeito do comportamento assintótico de f(n), g(n) e h(n).",
-  "A": "𝑓(𝑛) = 𝑂(𝑔(𝑛)); 𝑔(𝑛) = 𝑂(ℎ(𝑛)).",
-  "B": "𝑓(𝑛) = 𝛺(𝑔(𝑛)); 𝑔(𝑛) = 𝑂(ℎ(𝑛)).",
-  "C": "𝑔(𝑛) = 𝑂(𝑓(𝑛)); ℎ(𝑛) = 𝑂(𝑓(𝑛)).",
-  "D": "ℎ(𝑛) = 𝑂(𝑓(𝑛)); 𝑔(𝑛) = 𝛺(𝑓(𝑛)).",
-  "E": "Nenhuma das anteriores.\n",
+  "Enunciado": ["Considere as seguintes funções:", "                                               𝑓(𝑛) = 2𝑛", "                                               𝑔(𝑛) = 𝑛!", "                                              ℎ(𝑛) = 𝑛𝑙𝑜𝑔𝑛", "Assinale a alternativa correta a respeito do comportamento assintótico de f(n), g(n) e h(n)."],
+  "Alternativas": ["𝑓(𝑛) = 𝑂(𝑔(𝑛)); 𝑔(𝑛) = 𝑂(ℎ(𝑛)).", "𝑓(𝑛) = 𝛺(𝑔(𝑛)); 𝑔(𝑛) = 𝑂(ℎ(𝑛)).", "𝑔(𝑛) = 𝑂(𝑓(𝑛)); ℎ(𝑛) = 𝑂(𝑓(𝑛)).", "ℎ(𝑛) = 𝑂(𝑓(𝑛)); 𝑔(𝑛) = 𝛺(𝑓(𝑛)).", "Nenhuma das anteriores.\n"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Análise de Algoritmos"
 }

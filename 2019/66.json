@@ -1,14 +1,10 @@
 {
   "Ano": "2019",
   "Número": "66",
-  "Enunciado": "O processamento de linguagem natural pode ser entendido como uma subárea da\ninteligência artificial que estuda a compreensão automática de línguas naturais. Nesse contexto, pode-\nse afirmar que as seguintes tarefas são utilizadas em problemas de processamento de linguagem\nnatural:",
-  "A": "Stopwords e segmentação semântica.",
-  "B": "Quantização e Part-of-Speech.",
-  "C": "Extração de entidades e tokenização.",
-  "D": "Bigramas e memórias recorrentes.",
-  "E": "Espectrogramas e realce.\n",
+  "Enunciado": ["O processamento de linguagem natural pode ser entendido como uma subárea da", "inteligência artificial que estuda a compreensão automática de línguas naturais. Nesse contexto, pode-", "se afirmar que as seguintes tarefas são utilizadas em problemas de processamento de linguagem", "natural:"],
+  "Alternativas": ["Stopwords e segmentação semântica.", "Quantização e Part-of-Speech.", "Extração de entidades e tokenização.", "Bigramas e memórias recorrentes.", "Espectrogramas e realce.\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Inteligência Artificial"
 }

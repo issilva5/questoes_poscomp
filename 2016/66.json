@@ -2,13 +2,9 @@
   "Ano": "2016",
   "Número": "66",
   "Enunciado": "Sobre a Lógica Fuzzy (Nebulosa), é correto afirmar que:",
-  "A": "Suporta os modos de raciocínio que são exatos ao invés de aproximados.",
-  "B": "Baseia-se na teoria clássica dos conjuntos que faz uso de uma condição bivalente de pertinência.",
-  "C": "Faz uso de conjuntos difusos aos quais os elementos têm graus de pertinência.",
-  "D": "Não admite tratar valores incertos que podem estar entre presentes em mais de um conjunto.",
-  "E": "Admite somente forma de lógica ternária.\n",
+  "Alternativas": ["Suporta os modos de raciocínio que são exatos ao invés de aproximados.", "Baseia-se na teoria clássica dos conjuntos que faz uso de uma condição bivalente de pertinência.", "Faz uso de conjuntos difusos aos quais os elementos têm graus de pertinência.", "Não admite tratar valores incertos que podem estar entre presentes em mais de um conjunto.", "Admite somente forma de lógica ternária.\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Tecnologia da Computação",
   "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }

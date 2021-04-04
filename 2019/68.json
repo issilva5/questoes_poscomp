@@ -1,14 +1,10 @@
 {
   "Ano": "2019",
   "Número": "68",
-  "Enunciado": "Assinale a alternativa que apresenta a quantidade mínima de registradores\nnecessários para se fazer a alocação no código apresentado abaixo:\nt1  := a",
-  "A": "6",
-  "B": "5",
-  "C": "4",
-  "D": "3",
-  "E": "2",
+  "Enunciado": ["Assinale a alternativa que apresenta a quantidade mínima de registradores", "necessários para se fazer a alocação no código apresentado abaixo:", "t1  := a"],
+  "Alternativas": ["6", "5", "4", "3", "2"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Compiladores"
 }

@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "06",
-  "Enunciado": "Um dos métodos iterativos para determinar as raízes de uma função é o Método de\nNewton-Raphson, descrito por:\nPortanto, para determinar as raízes da função   𝒚 = 𝒇(𝒙) = 𝒙𝟑 − 𝒔𝒆𝒏(𝒙) , temos a descrição da\nexpressão algébrica na alternativa:\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))",
-  "A": "𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 −𝑐𝑜𝑠(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))",
-  "B": "𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 +𝑐𝑜𝑠(𝑥𝑛 ))\n                   (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))",
-  "C": "𝑥𝑛+1  = 𝑥𝑛 −\n                   (𝑥𝑛 2 −𝑐𝑜𝑠(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))",
-  "D": "𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 −𝑠𝑒𝑛(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))",
-  "E": "𝑥𝑛+1 = 𝑥𝑛 −\n                   (6𝑥𝑛 3 −𝑐𝑜𝑠(𝑥𝑛 ))",
+  "Enunciado": ["Um dos métodos iterativos para determinar as raízes de uma função é o Método de", "Newton-Raphson, descrito por:", "Portanto, para determinar as raízes da função   𝒚 = 𝒇(𝒙) = 𝒙𝟑 − 𝒔𝒆𝒏(𝒙) , temos a descrição da", "expressão algébrica na alternativa:", "                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))"],
+  "Alternativas": ["𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 −𝑐𝑜𝑠(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 +𝑐𝑜𝑠(𝑥𝑛 ))\n                   (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1  = 𝑥𝑛 −\n                   (𝑥𝑛 2 −𝑐𝑜𝑠(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 −𝑠𝑒𝑛(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1 = 𝑥𝑛 −\n                   (6𝑥𝑛 3 −𝑐𝑜𝑠(𝑥𝑛 ))"],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "MATEMáTICA"
 }

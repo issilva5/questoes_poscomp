@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "70",
-  "Enunciado": "Considere as assertivas abaixo sobre teste de sistema:\n O teste de ______________ tem por objetivo fazer o software falhar de diferentes maneiras, a\n   fim de verificar a capacidade de recuperação do software a um estado normal de funcionamento.\n O teste de ______________ exercita o sistema de forma a observar seu desempenho em\n   situações de demanda anormal de recursos, quer em termos de quantidade, frequência ou\n   volume.\n O teste ___________ exercita o software em cada ambiente ou plataforma no qual deve\n   funcionar. Também pode incluir examinar os procedimentos de instalação, softwares para a\n   instalação (e.g. instaladores), e a documentação usada para apresentar o software ao usuário.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas das assertivas acima.",
-  "A": "recuperação   – stress – de implantação",
-  "B": "segurança –   stress – beta",
-  "C": "recuperação   – carga – de implantação",
-  "D": "segurança –   carga – de implantação",
-  "E": "recuperação   – stress – beta",
+  "Enunciado": ["Considere as assertivas abaixo sobre teste de sistema:", " O teste de ______________ tem por objetivo fazer o software falhar de diferentes maneiras, a", "   fim de verificar a capacidade de recuperação do software a um estado normal de funcionamento.", " O teste de ______________ exercita o sistema de forma a observar seu desempenho em", "   situações de demanda anormal de recursos, quer em termos de quantidade, frequência ou", "   volume.", " O teste ___________ exercita o software em cada ambiente ou plataforma no qual deve", "   funcionar. Também pode incluir examinar os procedimentos de instalação, softwares para a", "   instalação (e.g. instaladores), e a documentação usada para apresentar o software ao usuário.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas das assertivas acima."],
+  "Alternativas": ["recuperação   – stress – de implantação", "segurança –   stress – beta", "recuperação   – carga – de implantação", "segurança –   carga – de implantação", "recuperação   – stress – beta"],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

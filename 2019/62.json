@@ -2,13 +2,9 @@
   "Ano": "2019",
   "Número": "62",
   "Enunciado": "Sobre transparência em sistemas distribuídos, é correto afirmar que:",
-  "A": "Transparência de concorrência trata de ocultar diferenças em representações de dados e do modo\n   como os recursos podem ser acessados pelos usuários.",
-  "B": "Transparência de migração é a situação na qual recursos podem ser relocados enquanto estão\n   sendo acessados, sem que o usuário ou a aplicação percebam.",
-  "C": "Transparência de replicação oculta o fato de que existem várias cópias do recurso.",
-  "D": "Na transparência de relocação, recursos podem ser movimentados sem afetar o modo como podem\n   ser acessados.",
-  "E": "Transparência de acesso refere-se ao fato de que os usuários não podem dizer qual é a localização\n   física de um recurso no sistema.\n",
+  "Alternativas": ["Transparência de concorrência trata de ocultar diferenças em representações de dados e do modo\n   como os recursos podem ser acessados pelos usuários.", "Transparência de migração é a situação na qual recursos podem ser relocados enquanto estão\n   sendo acessados, sem que o usuário ou a aplicação percebam.", "Transparência de replicação oculta o fato de que existem várias cópias do recurso.", "Na transparência de relocação, recursos podem ser movimentados sem afetar o modo como podem\n   ser acessados.", "Transparência de acesso refere-se ao fato de que os usuários não podem dizer qual é a localização\n   física de um recurso no sistema.\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Sistemas Distribuídos"
 }

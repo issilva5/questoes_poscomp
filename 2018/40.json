@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "40",
-  "Enunciado": "Considere a gramática G descrita a seguir: conjunto de terminais {a,c}, conjunto\nde não terminais {S,A}, símbolo inicial S e contendo as produções abaixo:\nS  -> AcS\nS  -> A\nA  -> aAa\nA  -> a\nConsidere também o autômato finito A sobre o alfabeto {a,c}, com conjunto de estados {q0,q1,q2}\n— dos quais q0 é inicial e q1 é final — e com função de transição de estados determinada pelo\nseguinte grafo:\nSeja L(G) a linguagem gerada pela gramática G e L(A) a linguagem reconhecida pelo autômato A,\nassinale a alternativa correta.",
-  "A": "L(G) é regular e L(A) é subconjunto próprio de L(G).",
-  "B": "L(G) não é regular e L(A) é subconjunto próprio de L(G).",
-  "C": "L(A) = L(G).",
-  "D": "L(G) é regular e L(G) é subconjunto próprio de L(A).",
-  "E": "L(G) não é regular e L(G) é subconjunto próprio de L(A).\n",
+  "Enunciado": ["Considere a gramática G descrita a seguir: conjunto de terminais {a,c}, conjunto", "de não terminais {S,A}, símbolo inicial S e contendo as produções abaixo:", "S  -> AcS", "S  -> A", "A  -> aAa", "A  -> a", "Considere também o autômato finito A sobre o alfabeto {a,c}, com conjunto de estados {q0,q1,q2}", "— dos quais q0 é inicial e q1 é final — e com função de transição de estados determinada pelo", "seguinte grafo:", "Seja L(G) a linguagem gerada pela gramática G e L(A) a linguagem reconhecida pelo autômato A,", "assinale a alternativa correta."],
+  "Alternativas": ["L(G) é regular e L(A) é subconjunto próprio de L(G).", "L(G) não é regular e L(A) é subconjunto próprio de L(G).", "L(A) = L(G).", "L(G) é regular e L(G) é subconjunto próprio de L(A).", "L(G) não é regular e L(G) é subconjunto próprio de L(A).\n"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"
 }

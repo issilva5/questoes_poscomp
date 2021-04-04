@@ -2,13 +2,9 @@
   "Ano": "2018",
   "Número": "66",
   "Enunciado": "O aprendizado de máquina, é um campo de estudo que:",
-  "A": "Oferece aos computadores a habilidade de aprender exatamente a função para a qual foram\n    programados.",
-  "B": "Dá aos computadores a habilidade de aprender qualquer problema.",
-  "C": "Dá aos computadores a habilidade de aprender como um agente deve agir em um ambiente.",
-  "D": "Dá aos computadores a habilidade de aprender como reduzir erros.",
-  "E": "Dá aos computadores a habilidade de aprender sem serem explicitamente programados para a\n    tarefa.\n",
+  "Alternativas": ["Oferece aos computadores a habilidade de aprender exatamente a função para a qual foram\n    programados.", "Dá aos computadores a habilidade de aprender qualquer problema.", "Dá aos computadores a habilidade de aprender como um agente deve agir em um ambiente.", "Dá aos computadores a habilidade de aprender como reduzir erros.", "Dá aos computadores a habilidade de aprender sem serem explicitamente programados para a\n    tarefa.\n"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

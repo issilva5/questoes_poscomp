@@ -2,13 +2,9 @@
   "Ano": "2018",
   "Número": "69",
   "Enunciado": "Árvores de decisão são algoritmos que utilizam:",
-  "A": "Estruturas de IF-ELSE para realizar aprendizado.",
-  "B": "Estruturas de repetição alinhadas para realizar aprendizado.",
-  "C": "Aprendizado estatístico para construção de regras no aprendizado.",
-  "D": "Exclusivamente funções matemáticas como estruturas de dados elementares para realizar\n   aprendizado.",
-  "E": "Paradigma de programação em lógica para realizar aprendizado.\n",
+  "Alternativas": ["Estruturas de IF-ELSE para realizar aprendizado.", "Estruturas de repetição alinhadas para realizar aprendizado.", "Aprendizado estatístico para construção de regras no aprendizado.", "Exclusivamente funções matemáticas como estruturas de dados elementares para realizar\n   aprendizado.", "Paradigma de programação em lógica para realizar aprendizado.\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

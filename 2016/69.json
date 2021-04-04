@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "69",
-  "Enunciado": "No contexto de algoritmos genéticos, considerando as soluções de codificação binária\n abaixo, é correto afirmar que:",
-  "A": "Os cromossomos 3 e 4 foram gerados a partir dos cromossomos 1 e 2, utilizando um operador de\n     cruzamento (crossover) de 5 pontos.",
-  "B": "Os cromossomos 3 e 4 foram gerados a partir dos cromossomos 1 e 2, utilizando um operador de\n     cruzamento (crossover) de 1 ponto entre as posições 2 e 3 do cromossomo.",
-  "C": "O cromossomo 3 foi obtido a partir do cromossomo 1 e o cromossomo 4 foi obtido a partir do\n     cromossomo 2, utilizando um operador de mutação do tipo flip nas posições 1 e 2 do cromossomo.",
-  "D": "O cromossomo 3 foi obtido a partir do cromossomo 1 e o cromossomo 4 foi obtido a partir do\n     cromossomo 2, utilizando um operador de mutação do tipo flip nas posições 4 e 5 do cromossomo.",
-  "E": "Os cromossomos 3 e 4 foram gerados fazendo uma operação de simples cópia dos cromossomos 1\n     e 2.\n Execução: Fundatec                                                                                24\n                                          EXAME POSCOMP – 2016\n",
+  "Enunciado": ["No contexto de algoritmos genéticos, considerando as soluções de codificação binária", " abaixo, é correto afirmar que:"],
+  "Alternativas": ["Os cromossomos 3 e 4 foram gerados a partir dos cromossomos 1 e 2, utilizando um operador de\n     cruzamento (crossover) de 5 pontos.", "Os cromossomos 3 e 4 foram gerados a partir dos cromossomos 1 e 2, utilizando um operador de\n     cruzamento (crossover) de 1 ponto entre as posições 2 e 3 do cromossomo.", "O cromossomo 3 foi obtido a partir do cromossomo 1 e o cromossomo 4 foi obtido a partir do\n     cromossomo 2, utilizando um operador de mutação do tipo flip nas posições 1 e 2 do cromossomo.", "O cromossomo 3 foi obtido a partir do cromossomo 1 e o cromossomo 4 foi obtido a partir do\n     cromossomo 2, utilizando um operador de mutação do tipo flip nas posições 4 e 5 do cromossomo.", "Os cromossomos 3 e 4 foram gerados fazendo uma operação de simples cópia dos cromossomos 1\n     e 2.\n Execução: Fundatec                                                                                24\n                                          EXAME POSCOMP – 2016\n"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }

@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "65",
-  "Enunciado": "Uma rede conectada a Internet possui a máscara de sub-rede 255.255.255.0. Qual\no número máximo de computadores que a rede suporta?",
-  "A": "224.",
-  "B": "128.",
-  "C": "65534.",
-  "D": "256.",
-  "E": "254.\n",
+  "Enunciado": ["Uma rede conectada a Internet possui a máscara de sub-rede 255.255.255.0. Qual", "o número máximo de computadores que a rede suporta?"],
+  "Alternativas": ["224.", "128.", "65534.", "256.", "254.\n"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Tecnologia da Computação",
   "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }

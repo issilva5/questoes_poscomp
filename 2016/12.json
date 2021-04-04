@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "12",
-  "Enunciado": "Se Daniel fala dinamarquês, então eu falo inglês ou alemão. Se eu não falo alemão\ne nem inglês, então:",
-  "A": "Eu falo dinamarquês.",
-  "B": "Eu não falo dinamarquês.",
-  "C": "Daniel fala inglês.",
-  "D": "Daniel não fala inglês.",
-  "E": "Daniel não fala dinamarquês.\n",
+  "Enunciado": ["Se Daniel fala dinamarquês, então eu falo inglês ou alemão. Se eu não falo alemão", "e nem inglês, então:"],
+  "Alternativas": ["Eu falo dinamarquês.", "Eu não falo dinamarquês.", "Daniel fala inglês.", "Daniel não fala inglês.", "Daniel não fala dinamarquês.\n"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "MATEMáTICA"
 }

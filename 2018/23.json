@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "23",
-  "Enunciado": "Selecione o menor item do vetor e, a seguir, troque-o com o item que está na\nprimeira posição do vetor. Repita essas duas operações com os n",
-  "A": "Por seleção.",
-  "B": "Por inserção.",
-  "C": "Shellsort.",
-  "D": "Quicksort.",
-  "E": "Heapsort.",
+  "Enunciado": ["Selecione o menor item do vetor e, a seguir, troque-o com o item que está na", "primeira posição do vetor. Repita essas duas operações com os n"],
+  "Alternativas": ["Por seleção.", "Por inserção.", "Shellsort.", "Quicksort.", "Heapsort."],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"
 }

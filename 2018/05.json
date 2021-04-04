@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "05",
-  "Enunciado": "Calcule o limite de 𝑙𝑖𝑚 (√𝑥 4 + 𝑥 2 + √𝑥 2 + 5𝑥 − 𝑥 2 − 𝑥):\n                                       𝑥→∞",
-  "A": "1",
-  "B": "5",
-  "C": "∞",
-  "D": "0",
-  "E": "3",
+  "Enunciado": ["Calcule o limite de 𝑙𝑖𝑚 (√𝑥 4 + 𝑥 2 + √𝑥 2 + 5𝑥 − 𝑥 2 − 𝑥):", "                                       𝑥→∞"],
+  "Alternativas": ["1", "5", "∞", "0", "3"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

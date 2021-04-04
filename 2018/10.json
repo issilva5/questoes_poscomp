@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "10",
-  "Enunciado": "A primitiva de ∫                      𝑑𝑥 é:\n                                           √𝑥 2 +1\n                          −1",
-  "A": "   (√𝑥 2 + 1)             +𝐶",
-  "B": "   √𝑥 2 + 1 + 𝐶",
-  "C": "    𝑥2 + 1 + 𝐶",
-  "D": "    𝑥2 + 𝐶",
-  "E": "     𝐶\n",
+  "Enunciado": ["A primitiva de ∫                      𝑑𝑥 é:", "                                           √𝑥 2 +1", "                          −1"],
+  "Alternativas": ["   (√𝑥 2 + 1)             +𝐶", "   √𝑥 2 + 1 + 𝐶", "    𝑥2 + 1 + 𝐶", "    𝑥2 + 𝐶", "     𝐶\n"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }
