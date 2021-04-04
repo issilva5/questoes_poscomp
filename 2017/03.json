@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "03",
-  "Enunciado": "Em um espaço R3, as retas:         𝑟≡   4  =    −2 =    3    e\n𝑠 ≡ (𝑥, 𝑦, 𝑧) = (1,1, −2) + [(1, −1,2)] :",
-  "A": "São ortogonais.",
-  "B": "Não são ortogonais e são contidas em um plano.",
-  "C": "Não têm pontos em comum.",
-  "D": "São paralelas.",
-  "E": "Não são retas.\n",
+  "Enunciado": ["Em um espaço R3, as retas:         𝑟≡   4  =    −2 =    3    e", "𝑠 ≡ (𝑥, 𝑦, 𝑧) = (1,1, −2) + [(1, −1,2)] :"],
+  "Alternativas": ["São ortogonais.", "Não são ortogonais e são contidas em um plano.", "Não têm pontos em comum.", "São paralelas.", "Não são retas.\n"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

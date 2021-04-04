@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "11",
-  "Enunciado": "Considere a seguinte proposição Z: p->(q->r)\nA negação da proposição Z é logicamente equivalente à proposição:",
-  "A": "(p ∧ q) ∧ (~r)",
-  "B": "(p ∨ q) ∧ (~r)",
-  "C": "(~p) ∧ (~q) ∧ r",
-  "D": "(~p) ∧ ((~q) ∨ r)",
-  "E": "(~p) ∨ ((~q) ∨ r)",
+  "Enunciado": ["Considere a seguinte proposição Z: p->(q->r)", "A negação da proposição Z é logicamente equivalente à proposição:"],
+  "Alternativas": ["(p ∧ q) ∧ (~r)", "(p ∨ q) ∧ (~r)", "(~p) ∧ (~q) ∧ r", "(~p) ∧ ((~q) ∨ r)", "(~p) ∨ ((~q) ∨ r)"],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Matemática",
   "Subarea": "MATEMáTICA"
 }

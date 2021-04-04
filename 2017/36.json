@@ -2,13 +2,9 @@
   "Ano": "2017",
   "Número": "36",
   "Enunciado": "Sobre percurso em grafos, é correto afirmar que um percurso:",
-  "A": "É uma família de ligações sucessivas incidentes, cada uma tendo uma extremidade incidente à\n   anterior e à outra subsequente.",
-  "B": "É fechado, se a última ligação da sucessão for adjacente à primeira.",
-  "C": "Aberto não pode conter subpercursos fechados.",
-  "D": "É elementar, se não repetir ligações.",
-  "E": "É simples, se não repetir vértices.",
+  "Alternativas": ["É uma família de ligações sucessivas incidentes, cada uma tendo uma extremidade incidente à\n   anterior e à outra subsequente.", "É fechado, se a última ligação da sucessão for adjacente à primeira.", "Aberto não pode conter subpercursos fechados.", "É elementar, se não repetir ligações.", "É simples, se não repetir vértices."],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"
 }

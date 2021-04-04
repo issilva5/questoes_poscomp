@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "23",
-  "Enunciado": "Considere a árvore binária da figura a seguir:\nOs resultados das consultas dos nós dessa árvore binária em pré-ordem e pós-ordem são,\nrespectivamente:",
-  "A": "(2 4 6 8 12 16) e (2 6 8 4 16 12).",
-  "B": "(12 4 2 8 6 16) e (2 4 6 8 12 16).",
-  "C": "(2 6 8 4 16 12) e (12 4 2 8 6 16).",
-  "D": "(2 4 6 8 12 16) e (12 4 2 8 6 16).",
-  "E": "(12 4 2 8 6 16) e (2 6 8 4 16 12).\n",
+  "Enunciado": ["Considere a árvore binária da figura a seguir:", "Os resultados das consultas dos nós dessa árvore binária em pré-ordem e pós-ordem são,", "respectivamente:"],
+  "Alternativas": ["(2 4 6 8 12 16) e (2 6 8 4 16 12).", "(12 4 2 8 6 16) e (2 4 6 8 12 16).", "(2 6 8 4 16 12) e (12 4 2 8 6 16).", "(2 4 6 8 12 16) e (12 4 2 8 6 16).", "(12 4 2 8 6 16) e (2 6 8 4 16 12).\n"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Fundamentos de Computação",
   "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

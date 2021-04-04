@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "51",
-  "Enunciado": "Quanto à recuperação após falhas, é importante caracterizar os tipos de\n escalonamentos para determinar se a recuperação é possível e, em caso positivo, a complexidade do\n processo de recuperação. Nesse sentido, analise as assertivas abaixo sobre os tipos de\n escalonamento:\n  I. Escalonamentos estritos são necessariamente escalonamentos seriais.\n II. Escalonamentos sem aborto em cascata são necessariamente escalonamentos estritos.\nIII. Escalonamentos não seriais são necessariamente escalonamentos com aborto em cascata.\n IV. Escalonamentos seriais são necessariamente escalonamentos recuperáveis.\n Quais estão corretos?",
-  "A": "Apenas  I.",
-  "B": "Apenas  IV.",
-  "C": "Apenas  I e IV.",
-  "D": "Apenas  II e III.",
-  "E": "Apenas  II e IV.\n ",
+  "Enunciado": ["Quanto à recuperação após falhas, é importante caracterizar os tipos de", " escalonamentos para determinar se a recuperação é possível e, em caso positivo, a complexidade do", " processo de recuperação. Nesse sentido, analise as assertivas abaixo sobre os tipos de", " escalonamento:", "  I. Escalonamentos estritos são necessariamente escalonamentos seriais.", " II. Escalonamentos sem aborto em cascata são necessariamente escalonamentos estritos.", "III. Escalonamentos não seriais são necessariamente escalonamentos com aborto em cascata.", " IV. Escalonamentos seriais são necessariamente escalonamentos recuperáveis.", " Quais estão corretos?"],
+  "Alternativas": ["Apenas  I.", "Apenas  IV.", "Apenas  I e IV.", "Apenas  II e III.", "Apenas  II e IV.\n "],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }

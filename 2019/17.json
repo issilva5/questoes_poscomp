@@ -1,14 +1,10 @@
 {
   "Ano": "2019",
   "Número": "17",
-  "Enunciado": "Uma pessoa deseja fazer uma compra na Internet e, para isso, precisa se cadastrar\nem um site. A senha de cadastro deve ser formada por exatamente 9 caracteres, e somente os\ncaracteres $, @ e # podem ser usados. Quantas senhas diferentes, contendo pelo menos uma\nocorrência de cada caractere, existem?",
-  "A": "729.",
-  "B": "4.374.",
-  "C": "18.150.",
-  "D": "61.236.",
-  "E": "367.416.\n",
+  "Enunciado": ["Uma pessoa deseja fazer uma compra na Internet e, para isso, precisa se cadastrar", "em um site. A senha de cadastro deve ser formada por exatamente 9 caracteres, e somente os", "caracteres $, @ e # podem ser usados. Quantas senhas diferentes, contendo pelo menos uma", "ocorrência de cada caractere, existem?"],
+  "Alternativas": ["729.", "4.374.", "18.150.", "61.236.", "367.416.\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Matemática",
   "Subarea": "Análise Combinatória"
 }

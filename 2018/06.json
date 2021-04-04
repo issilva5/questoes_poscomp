@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "06",
-  "Enunciado": "Determine os valores de a e b para que a função abaixo seja contínua em todo o\nseu domínio:\n                                                                 𝜋\n                                      −3. 𝑠𝑒𝑛(𝑥)      𝑠𝑒   𝑥<−\n                                                                 2\n                                                           𝜋       𝜋\n                              𝑓(𝑥) = 𝑎. 𝑠𝑒𝑛(𝑥) + 𝑏    𝑠𝑒  − ≤𝑥≤\n                                                           2       2\n                                                                𝜋\n                                    {    cos(𝑥)       𝑠𝑒    𝑥>\n                                                                2\n         3      3",
-  "A": "  𝑎 = ;𝑏 =\n         2      2\n           3       3",
-  "B": "  𝑎 = − ;𝑏 =\n           2       2\n         3         3",
-  "C": "  𝑎 = ;𝑏 = −\n         2         2\n           3         3",
-  "D": "  𝑎 = − ;𝑏 = −\n           2         2\n         2      3",
-  "E": "  𝑎 = ;𝑏 =\n         3      2\n                                                        1 3   5\n                                                    1\n",
+  "Enunciado": ["Determine os valores de a e b para que a função abaixo seja contínua em todo o", "seu domínio:", "                                                                 𝜋", "                                      −3. 𝑠𝑒𝑛(𝑥)      𝑠𝑒   𝑥<−", "                                                                 2", "                                                           𝜋       𝜋", "                              𝑓(𝑥) = 𝑎. 𝑠𝑒𝑛(𝑥) + 𝑏    𝑠𝑒  − ≤𝑥≤", "                                                           2       2", "                                                                𝜋", "                                    {    cos(𝑥)       𝑠𝑒    𝑥>", "                                                                2", "         3      3"],
+  "Alternativas": ["  𝑎 = ;𝑏 =\n         2      2\n           3       3", "  𝑎 = − ;𝑏 =\n           2       2\n         3         3", "  𝑎 = ;𝑏 = −\n         2         2\n           3         3", "  𝑎 = − ;𝑏 = −\n           2         2\n         2      3", "  𝑎 = ;𝑏 =\n         3      2\n                                                        1 3   5\n                                                    1\n"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

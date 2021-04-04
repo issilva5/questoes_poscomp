@@ -1,14 +1,10 @@
 {
   "Ano": "2019",
   "Número": "25",
-  "Enunciado": "Considere a seguinte função em C:\nvoid funcao(int n){\n  int i,j;\n  for (i=1; i<=n; i++)\n     for(j=1; j<log(i); j++)\n       printf(“%d”,i+j)\n}\nA complexidade dessa função é:",
-  "A": "𝛩(𝑛)",
-  "B": "𝛩(𝑛 𝑙𝑜𝑔 𝑛)",
-  "C": "𝛩(𝑙𝑜𝑔 𝑛)",
-  "D": "𝛩(𝑛2 )",
-  "E": "𝛩(𝑛2 𝑙𝑜𝑔 𝑛)",
+  "Enunciado": ["Considere a seguinte função em C:", "void funcao(int n){", "  int i,j;", "  for (i=1; i<=n; i++)", "     for(j=1; j<log(i); j++)", "       printf(“%d”,i+j)", "}", "A complexidade dessa função é:"],
+  "Alternativas": ["𝛩(𝑛)", "𝛩(𝑛 𝑙𝑜𝑔 𝑛)", "𝛩(𝑙𝑜𝑔 𝑛)", "𝛩(𝑛2 )", "𝛩(𝑛2 𝑙𝑜𝑔 𝑛)"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Análise de Algoritmos"
 }

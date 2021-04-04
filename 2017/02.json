@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "02",
-  "Enunciado": "Qual é o valor do determinante da matriz 5x5           8 6 7         2   0 ?\n                                                                  12 9 10         3   0\n                                                                (16 12 13         4   0)",
-  "A": "325",
-  "B": "5",
-  "C": "120",
-  "D": "1",
-  "E": "0\n                                                    𝑥+5     𝑦−3    𝑧+4\n",
+  "Enunciado": ["Qual é o valor do determinante da matriz 5x5           8 6 7         2   0 ?", "                                                                  12 9 10         3   0", "                                                                (16 12 13         4   0)"],
+  "Alternativas": ["325", "5", "120", "1", "0\n                                                    𝑥+5     𝑦−3    𝑧+4\n"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

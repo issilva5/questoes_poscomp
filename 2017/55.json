@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "55",
-  "Enunciado": "Em consultas escritas em SQL, quando há pelo menos um NULL no predicado da\ncláusula WHERE, o resultado da avaliação é “desconhecido” (exceto quando são explicitamente\nempregados IS NULL ou IS NOT NULL); por exemplo, o resultado da avaliação de 3+NULL>7 é\n“desconhecido”. Portanto, “verdadeiro”, “falso” e “desconhecido” são os resultados possíveis na\navaliação de predicados da cláusula WHERE. A regra geral é que são selecionadas apenas as\ncombinações de tuplas em que o predicado é avaliado como “verdadeiro”. Seja a relação R que possui\nquatro tuplas",
-  "A": "dois, um e dois.",
-  "B": "dois, dois e um.",
-  "C": "um, um e dois.",
-  "D": "um, dois e um.",
-  "E": "dois, dois, dois.\n",
+  "Enunciado": ["Em consultas escritas em SQL, quando há pelo menos um NULL no predicado da", "cláusula WHERE, o resultado da avaliação é “desconhecido” (exceto quando são explicitamente", "empregados IS NULL ou IS NOT NULL); por exemplo, o resultado da avaliação de 3+NULL>7 é", "“desconhecido”. Portanto, “verdadeiro”, “falso” e “desconhecido” são os resultados possíveis na", "avaliação de predicados da cláusula WHERE. A regra geral é que são selecionadas apenas as", "combinações de tuplas em que o predicado é avaliado como “verdadeiro”. Seja a relação R que possui", "quatro tuplas"],
+  "Alternativas": ["dois, um e dois.", "dois, dois e um.", "um, um e dois.", "um, dois e um.", "dois, dois, dois.\n"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

@@ -2,13 +2,9 @@
   "Ano": "2016",
   "Número": "42",
   "Enunciado": "Determine o tipo de máquina de estados finitos da figura abaixo:",
-  "A": "Mealy síncrona.",
-  "B": "Mealy assíncrona.",
-  "C": "Moore.",
-  "D": "Turing que sempre para.",
-  "E": "Turing.\n",
+  "Alternativas": ["Mealy síncrona.", "Mealy assíncrona.", "Moore.", "Turing que sempre para.", "Turing.\n"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Fundamentos de Computação",
   "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

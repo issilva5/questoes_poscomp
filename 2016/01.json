@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "01",
-  "Enunciado": "Uma empresa de logística e transporte rodoviário tem três tipos de caminhões (tipo\n1, tipo 2 e tipo 3), sendo que cada caminhão tem capacidade para transportar equipamentos com 3\ndiferentes dimensões, conforme o número de unidades correspondente, de acordo com o que está\ndescrito na tabela abaixo:\n                             Dimensão A         Dimensão B        Dimensão C\n Caminhão tipo 1                   1                 0                1\n Caminhão tipo 2                   2                 2                1\n Caminhão tipo 3                   1                 1                2\nA quantidade de caminhões carregados com a sua capacidade máxima que deve ser usada para\ntransportar, respectivamente, 23 equipamentos com a dimensão A, 18 equipamentos com a dimensão\nB e 20 equipamentos com a dimensão C é:",
-  "A": "4  caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.",
-  "B": "5  caminhões do tipo 1; 6 caminhões do tipo 2 e 6 caminhões do tipo 3.",
-  "C": "3  caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.",
-  "D": "1  caminhão do tipo 1; 5 caminhões do tipo 2 e 8 caminhões do tipo 3.",
-  "E": "5  caminhões do tipo 1; 7 caminhões do tipo 2 e 4 caminhões do tipo 3.\n                                                                                                      1  3 ] [x1 ],\n",
+  "Enunciado": ["Uma empresa de logística e transporte rodoviário tem três tipos de caminhões (tipo", "1, tipo 2 e tipo 3), sendo que cada caminhão tem capacidade para transportar equipamentos com 3", "diferentes dimensões, conforme o número de unidades correspondente, de acordo com o que está", "descrito na tabela abaixo:", "                             Dimensão A         Dimensão B        Dimensão C", " Caminhão tipo 1                   1                 0                1", " Caminhão tipo 2                   2                 2                1", " Caminhão tipo 3                   1                 1                2", "A quantidade de caminhões carregados com a sua capacidade máxima que deve ser usada para", "transportar, respectivamente, 23 equipamentos com a dimensão A, 18 equipamentos com a dimensão", "B e 20 equipamentos com a dimensão C é:"],
+  "Alternativas": ["4  caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.", "5  caminhões do tipo 1; 6 caminhões do tipo 2 e 6 caminhões do tipo 3.", "3  caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.", "1  caminhão do tipo 1; 5 caminhões do tipo 2 e 8 caminhões do tipo 3.", "5  caminhões do tipo 1; 7 caminhões do tipo 2 e 4 caminhões do tipo 3.\n                                                                                                      1  3 ] [x1 ],\n"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "MATEMáTICA"
 }

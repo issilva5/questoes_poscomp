@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "22",
-  "Enunciado": "Dado o trecho de código\nAssumindo que a instrução c=c+1 é 𝑂(1), a expressão que melhor define a ordem de complexidade\ndesse trecho é:",
-  "A": "𝑂(𝑛 log 𝑛)",
-  "B": "𝑂(log 𝑛)",
-  "C": "𝑂(𝑛)",
-  "D": "𝑂(𝑛2 )",
-  "E": "𝑂(√𝑛)\n",
+  "Enunciado": ["Dado o trecho de código", "Assumindo que a instrução c=c+1 é 𝑂(1), a expressão que melhor define a ordem de complexidade", "desse trecho é:"],
+  "Alternativas": ["𝑂(𝑛 log 𝑛)", "𝑂(log 𝑛)", "𝑂(𝑛)", "𝑂(𝑛2 )", "𝑂(√𝑛)\n"],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"
 }

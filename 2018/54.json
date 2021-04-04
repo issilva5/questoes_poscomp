@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "54",
-  "Enunciado": "Em Rede de Computadores, qual o nome do processo que permite fazer\ntunelamento?",
-  "A": "Encapsulamento.",
-  "B": "Reescrita.",
-  "C": "Processamento.",
-  "D": "VPN.",
-  "E": "IPv6.",
+  "Enunciado": ["Em Rede de Computadores, qual o nome do processo que permite fazer", "tunelamento?"],
+  "Alternativas": ["Encapsulamento.", "Reescrita.", "Processamento.", "VPN.", "IPv6."],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

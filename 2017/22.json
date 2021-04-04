@@ -2,13 +2,9 @@
   "Ano": "2017",
   "Número": "22",
   "Enunciado": "A complexidade de tempo da questão 21 é:",
-  "A": "O(n2)",
-  "B": "O(n4)",
-  "C": "O(4*n)",
-  "D": "O(n log n)",
-  "E": "O(n)\n",
+  "Alternativas": ["O(n2)", "O(n4)", "O(4*n)", "O(n log n)", "O(n)\n"],
   "Imagens": {},
-  "Resposta": "*",
+  "Resposta": -1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"
 }

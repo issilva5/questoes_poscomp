@@ -1,14 +1,10 @@
 {
   "Ano": "2016",
   "Número": "43",
-  "Enunciado": "Em relação aos circuitos digitais, analise as assertivas abaixo e assinale V, se\nverdadeiras, ou F, se falsas.\n( ) Uma porta NAND (Não-E) é equivalente a uma porta OR (OU) com as entradas e as saídas\n     complementadas.\n( ) Qualquer função booleana pode ser representada utilizando somente portas NAND (Não-E) e NOR\n     (Não-Ou).\n( ) Os índices do Mapa de Karnaugh são numerados utilizando o Código de Reed-Solomon, o que faz\n     com que as distâncias entre células horizontais e verticais difiram de exatamente um bit.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
-  "A": "F – V – F.",
-  "B": "F – F – V.",
-  "C": "V – F – V.",
-  "D": "V – V – F.",
-  "E": "V – F – F.",
+  "Enunciado": ["Em relação aos circuitos digitais, analise as assertivas abaixo e assinale V, se", "verdadeiras, ou F, se falsas.", "( ) Uma porta NAND (Não-E) é equivalente a uma porta OR (OU) com as entradas e as saídas", "     complementadas.", "( ) Qualquer função booleana pode ser representada utilizando somente portas NAND (Não-E) e NOR", "     (Não-Ou).", "( ) Os índices do Mapa de Karnaugh são numerados utilizando o Código de Reed-Solomon, o que faz", "     com que as distâncias entre células horizontais e verticais difiram de exatamente um bit.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["F – V – F.", "F – F – V.", "V – F – V.", "V – V – F.", "V – F – F."],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Fundamentos de Computação",
   "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }

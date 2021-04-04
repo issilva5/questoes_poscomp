@@ -2,13 +2,9 @@
   "Ano": "2019",
   "Número": "02",
   "Enunciado": "Seja 𝛦 = ℝ3 . Os vetores {(1, 2, 3), (2, 5, 8), (1, 3, 7)} são independentes?",
-  "A": "Não.",
-  "B": "Sim.",
-  "C": "Não pode ser calculado.",
-  "D": "Sim, se fosse um espaço de ℝ2 .",
-  "E": "Seriam independentes se o 1º vetor fosse (1, 5, 7).\n",
+  "Alternativas": ["Não.", "Sim.", "Não pode ser calculado.", "Sim, se fosse um espaço de ℝ2 .", "Seriam independentes se o 1º vetor fosse (1, 5, 7).\n"],
   "Imagens": {},
-  "Resposta": "B",
+  "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Álgebra Linear"
 }

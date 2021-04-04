@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "12",
-  "Enunciado": "Sejam m, n, p, q e r proposições lógicas tais que p é falsa e a proposição composta\n((m->n) e (n->p) e (p->q) e (q->r)) é verdadeira, qual preposição abaixo é necessariamente\nverdadeira?",
-  "A": "n->r",
-  "B": "m e r",
-  "C": "q->n",
-  "D": "m ou r",
-  "E": "r->q\n",
+  "Enunciado": ["Sejam m, n, p, q e r proposições lógicas tais que p é falsa e a proposição composta", "((m->n) e (n->p) e (p->q) e (q->r)) é verdadeira, qual preposição abaixo é necessariamente", "verdadeira?"],
+  "Alternativas": ["n->r", "m e r", "q->n", "m ou r", "r->q\n"],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

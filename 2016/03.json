@@ -2,13 +2,9 @@
   "Ano": "2016",
   "Número": "03",
   "Enunciado": "Os pontos A(2,3,4), B(1,5,6) e C(4,2,3) são os vértices de um triângulo de área:",
-  "A": "√3 𝑐𝑚2",
-  "B": "2√3 𝑐𝑚2\n   3 √2",
-  "C": "     𝑐𝑚2\n     2",
-  "D": "6√3 𝑐𝑚2",
-  "E": "3√3 𝑐𝑚2\n",
+  "Alternativas": ["√3 𝑐𝑚2", "2√3 𝑐𝑚2\n   3 √2", "     𝑐𝑚2\n     2", "6√3 𝑐𝑚2", "3√3 𝑐𝑚2\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Fundamentos de Computação",
   "Subarea": "MATEMáTICA"
 }

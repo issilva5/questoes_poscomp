@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "08",
-  "Enunciado": "O ponto P(3, 45°, 60°) está expresso em coordenadas esféricas. Encontre suas\ncoordenadas cartesianas:\nAx = r . sen(𝜃).cos(𝜑)\nAy= r.sen(𝜃).sen(𝜑)\nAz = r.cos(𝜃)\n       3√2 3√6 3√2",
-  "A": "𝑃 (    ,       ,     )\n        4     4       2\n       3√6 3√2 3√2",
-  "B": "𝑃 (      ,       ,      )\n        4       4       4\n       3√2 3√2 3√2",
-  "C": "𝑃 (      ,       ,      )\n        2       4       2\n       3√2 3√2 3√2",
-  "D": "𝑃 (      ,       ,      )\n        4       2       2\n       3√2 3√6 3√6",
-  "E": "𝑃 (      ,       ,      )\n        4       4       4\n",
+  "Enunciado": ["O ponto P(3, 45°, 60°) está expresso em coordenadas esféricas. Encontre suas", "coordenadas cartesianas:", "Ax = r . sen(𝜃).cos(𝜑)", "Ay= r.sen(𝜃).sen(𝜑)", "Az = r.cos(𝜃)", "       3√2 3√6 3√2"],
+  "Alternativas": ["𝑃 (    ,       ,     )\n        4     4       2\n       3√6 3√2 3√2", "𝑃 (      ,       ,      )\n        4       4       4\n       3√2 3√2 3√2", "𝑃 (      ,       ,      )\n        2       4       2\n       3√2 3√2 3√2", "𝑃 (      ,       ,      )\n        4       2       2\n       3√2 3√6 3√6", "𝑃 (      ,       ,      )\n        4       4       4\n"],
   "Imagens": {},
-  "Resposta": "A",
+  "Resposta": 0,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

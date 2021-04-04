@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "63",
-  "Enunciado": "Uma representação intermediária do programa fonte pode ser gerada com a\ntransformação da árvore de derivação em um segmento de código. Em relação à etapa de geração de\ncódigo intermediário do compilador, qual das alternativas está INCORRETA?",
-  "A": "Definindo-se uma representação intermediária adequada, um compilador construído pode combinar\n   um front-end para uma linguagem x com um back-end para a linguagem y.",
-  "B": "Árvores de sintaxe e códigos de três endereços são algumas das possibilidades de representação\n   intermediária.",
-  "C": "Linguagens de alto nível, como, por exemplo, a linguagem C, podem ser utilizadas como uma forma\n   de representação intermediária.",
-  "D": "Na geração de código intermediário, são realizadas tarefas como seleção de instruções, alocação e\n   atribuição de registrador e escalonamento de instruções que dependem do conhecimento da\n   máquina-alvo para a qual será gerado o código objeto.",
-  "E": "Uma das vantagens da aplicação da fase de geração de código intermediário é a possibilidade de\n   realização de otimização e a tradução do código para diversas máquinas.\n",
+  "Enunciado": ["Uma representação intermediária do programa fonte pode ser gerada com a", "transformação da árvore de derivação em um segmento de código. Em relação à etapa de geração de", "código intermediário do compilador, qual das alternativas está INCORRETA?"],
+  "Alternativas": ["Definindo-se uma representação intermediária adequada, um compilador construído pode combinar\n   um front-end para uma linguagem x com um back-end para a linguagem y.", "Árvores de sintaxe e códigos de três endereços são algumas das possibilidades de representação\n   intermediária.", "Linguagens de alto nível, como, por exemplo, a linguagem C, podem ser utilizadas como uma forma\n   de representação intermediária.", "Na geração de código intermediário, são realizadas tarefas como seleção de instruções, alocação e\n   atribuição de registrador e escalonamento de instruções que dependem do conhecimento da\n   máquina-alvo para a qual será gerado o código objeto.", "Uma das vantagens da aplicação da fase de geração de código intermediário é a possibilidade de\n   realização de otimização e a tradução do código para diversas máquinas.\n"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

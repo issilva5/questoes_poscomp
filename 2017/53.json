@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "53",
-  "Enunciado": "Em Engenharia de Software, as atividades abaixo são essenciais à gestão de\nconfiguração:\n  _______ de gerenciamento de configuração.\n  Gerenciamento de _______.\n  Gerenciamento de versões e de _______.\n  _______ de sistemas.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima.",
-  "A": "Planejamento – mudanças – componentes – Auditoria",
-  "B": "Definição – auditoria – releases – Construção",
-  "C": "Definição – mudanças – itens de configuração – Auditoria",
-  "D": "Planejamento – mudanças – releases – Construção",
-  "E": "Planejamento – auditoria – itens de configuração – Construção",
+  "Enunciado": ["Em Engenharia de Software, as atividades abaixo são essenciais à gestão de", "configuração:", "  _______ de gerenciamento de configuração.", "  Gerenciamento de _______.", "  Gerenciamento de versões e de _______.", "  _______ de sistemas.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
+  "Alternativas": ["Planejamento – mudanças – componentes – Auditoria", "Definição – auditoria – releases – Construção", "Definição – mudanças – itens de configuração – Auditoria", "Planejamento – mudanças – releases – Construção", "Planejamento – auditoria – itens de configuração – Construção"],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
 }

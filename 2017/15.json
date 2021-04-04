@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "15",
-  "Enunciado": "Considere a seguinte afirmação: “Há uma sorveteria onde todos os sorvetes são\ndoces, mas não contém adoçantes.”\nA negação da afirmação acima é logicamente equivalente à afirmação:",
-  "A": "Não há sorveteria que faz sorvetes doces e com adoçantes.",
-  "B": "Há uma sorveteria em que sorvete algum é doce ou contém adoçante.",
-  "C": "Em toda sorveteria, há um sorvete que não é doce, mas contém adoçante.",
-  "D": "Em toda sorveteria, há sempre algum sorvete que não é doce ou que contém adoçante.",
-  "E": "Há uma sorveteria em que há algum sorvete que não é doce ou que contém adoçante.",
+  "Enunciado": ["Considere a seguinte afirmação: “Há uma sorveteria onde todos os sorvetes são", "doces, mas não contém adoçantes.”", "A negação da afirmação acima é logicamente equivalente à afirmação:"],
+  "Alternativas": ["Não há sorveteria que faz sorvetes doces e com adoçantes.", "Há uma sorveteria em que sorvete algum é doce ou contém adoçante.", "Em toda sorveteria, há um sorvete que não é doce, mas contém adoçante.", "Em toda sorveteria, há sempre algum sorvete que não é doce ou que contém adoçante.", "Há uma sorveteria em que há algum sorvete que não é doce ou que contém adoçante."],
   "Imagens": {},
-  "Resposta": "D",
+  "Resposta": 3,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

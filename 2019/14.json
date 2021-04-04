@@ -1,14 +1,10 @@
 {
   "Ano": "2019",
   "Número": "14",
-  "Enunciado": "Resolva a identidade 𝐶 ∙ (𝐷 + 𝐸) , aplicando, se necessário, as leis de álgebra de\nBoole.",
-  "A": "𝐶 + (𝐷 ∙ 𝐸)",
-  "B": "𝐶 + (𝐶 + 𝐸)",
-  "C": "𝐶 + (𝐶 ∙ 𝐸)",
-  "D": "𝐶 ∙ (𝐷 ∙ 𝐸)",
-  "E": "(𝐶 + 𝐷) ∙ (𝐶 + 𝐸)\n",
+  "Enunciado": ["Resolva a identidade 𝐶 ∙ (𝐷 + 𝐸) , aplicando, se necessário, as leis de álgebra de", "Boole."],
+  "Alternativas": ["𝐶 + (𝐷 ∙ 𝐸)", "𝐶 + (𝐶 + 𝐸)", "𝐶 + (𝐶 ∙ 𝐸)", "𝐶 ∙ (𝐷 ∙ 𝐸)", "(𝐶 + 𝐷) ∙ (𝐶 + 𝐸)\n"],
   "Imagens": {},
-  "Resposta": "E",
+  "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "Matemática Discreta"
 }

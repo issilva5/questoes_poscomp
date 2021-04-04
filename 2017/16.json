@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "16",
-  "Enunciado": "Considerando os seguintes conjuntos de dados: A = {1, 4, 2, 6, 8, 10}, B = {1, 4,\n6, 10}, C = {6, 4, 1, 10}, D = {6, 4, 1}, assinale a alternativa correta.",
-  "A": "A = D",
-  "B": "A ⊆ B",
-  "C": "B ⊄ D",
-  "D": "𝜙 ⊆ D",
-  "E": "𝜙 = B\n",
+  "Enunciado": ["Considerando os seguintes conjuntos de dados: A = {1, 4, 2, 6, 8, 10}, B = {1, 4,", "6, 10}, C = {6, 4, 1, 10}, D = {6, 4, 1}, assinale a alternativa correta."],
+  "Alternativas": ["A = D", "A ⊆ B", "B ⊄ D", "𝜙 ⊆ D", "𝜙 = B\n"],
   "Imagens": {},
-  "Resposta": "*",
+  "Resposta": -1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

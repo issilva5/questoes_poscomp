@@ -1,14 +1,10 @@
 {
   "Ano": "2018",
   "Número": "30",
-  "Enunciado": "Assinale a alternativa que contém uma estrutura de controle que permite que\ncoleções de instruções, na linguagem de programação C, sejam executadas repetidamente com o\ncontrole de execução baseado em uma expressão booleana ao invés de um contador.",
-  "A": "for",
-  "B": "if",
-  "C": "while",
-  "D": "switch",
-  "E": "else\n",
+  "Enunciado": ["Assinale a alternativa que contém uma estrutura de controle que permite que", "coleções de instruções, na linguagem de programação C, sejam executadas repetidamente com o", "controle de execução baseado em uma expressão booleana ao invés de um contador."],
+  "Alternativas": ["for", "if", "while", "switch", "else\n"],
   "Imagens": {},
-  "Resposta": "C",
+  "Resposta": 2,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"
 }

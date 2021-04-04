@@ -2,13 +2,9 @@
   "Ano": "2019",
   "Número": "28",
   "Enunciado": "De acordo com o diagrama de classes UML a seguir, assinale a alternativa correta.",
-  "A": "A classe \"Monitor\" tem uma relação de polimorfismo com a classe \"SmartTV\".",
-  "B": "A classe \"Mouse\" tem uma relação de composição com a classe \"Computador\".",
-  "C": "A classe \"Teclado\" é herdada da classe \"Computador\".",
-  "D": "O Computador pode ser um computador all in one.",
-  "E": "A SmartTV é o Monitor do Computador.\n",
+  "Alternativas": ["A classe \"Monitor\" tem uma relação de polimorfismo com a classe \"SmartTV\".", "A classe \"Mouse\" tem uma relação de composição com a classe \"Computador\".", "A classe \"Teclado\" é herdada da classe \"Computador\".", "O Computador pode ser um computador all in one.", "A SmartTV é o Monitor do Computador.\n"],
   "Imagens": {},
-  "Resposta": "*",
+  "Resposta": -1,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Linguagens de Programação"
 }

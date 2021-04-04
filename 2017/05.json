@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "05",
-  "Enunciado": "Sobre o seguinte conjunto 𝐴 = {𝑥 ∈ 𝑅             > 1} , verifica-se que:\n                                                          𝑥2",
-  "A": "Não tem máximo, e o mínimo é 0.",
-  "B": "O máximo é 1 e não possui mínimo.",
-  "C": "O máximo é 1 e o mínimo é 0.",
-  "D": "É um conjunto vazio.",
-  "E": "O máximo é 1 e o mínimo é -2.",
+  "Enunciado": ["Sobre o seguinte conjunto 𝐴 = {𝑥 ∈ 𝑅             > 1} , verifica-se que:", "                                                          𝑥2"],
+  "Alternativas": ["Não tem máximo, e o mínimo é 0.", "O máximo é 1 e não possui mínimo.", "O máximo é 1 e o mínimo é 0.", "É um conjunto vazio.", "O máximo é 1 e o mínimo é -2."],
   "Imagens": {},
-  "Resposta": "*",
+  "Resposta": -1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
 }

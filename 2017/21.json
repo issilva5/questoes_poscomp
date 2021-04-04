@@ -1,14 +1,10 @@
 {
   "Ano": "2017",
   "Número": "21",
-  "Enunciado": "Suponha que, ao invés de dividir em duas partes, foi criada uma versão do merge-\nsort que divida a entrada em quatro partes, ordene cada quarta-parte, e, finalmente, combine essas\nquatro partes usando um procedimento O(n). A equação de recorrência que descreve o tempo de\nexecução desse algoritmo é:",
-  "A": "T(n)  = 4*T(n/4) + O(n)",
-  "B": "T(n)  = 4*T(n/2) + 2*O(n)",
-  "C": "T(n)  = T(n/4) + 4*O(n)",
-  "D": "T(n)  = 4*T(n/4) + 4*O(n)",
-  "E": "T(n)  = T(n/4) + O(n)\n",
+  "Enunciado": ["Suponha que, ao invés de dividir em duas partes, foi criada uma versão do merge-", "sort que divida a entrada em quatro partes, ordene cada quarta-parte, e, finalmente, combine essas", "quatro partes usando um procedimento O(n). A equação de recorrência que descreve o tempo de", "execução desse algoritmo é:"],
+  "Alternativas": ["T(n)  = 4*T(n/4) + O(n)", "T(n)  = 4*T(n/2) + 2*O(n)", "T(n)  = T(n/4) + 4*O(n)", "T(n)  = 4*T(n/4) + 4*O(n)", "T(n)  = T(n/4) + O(n)\n"],
   "Imagens": {},
-  "Resposta": "*",
+  "Resposta": -1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"
 }
