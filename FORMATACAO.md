@@ -55,7 +55,7 @@ Caso o enunciado possua parágrafos separados por imagens (ou tabelas, etc), ign
 
 ### Tabelas
 
-O script R não consegue extrair as tabelas do texto de forma adequada, deixando-as como texto sem formatação dentro do conteúdo do enunciado. Caso o enunciado da questão (ou alguma alternativa) tenha uma tabela associado, você deve tirar um printscreen dessa(s) tabelas e adicioná-las como imagens associadas a questão, veja [Imagens](###Imagens).
+O script R não consegue extrair as tabelas do texto de forma adequada, deixando-as como texto sem formatação dentro do conteúdo do enunciado. Caso o enunciado da questão (ou alguma alternativa) tenha uma tabela associado, você deve tirar um printscreen dessa(s) tabelas e adicioná-las como imagens associadas a questão, veja [Imagens](#imagens).
 
 O texto referente as tabelas deve ser removido do corpo do enunciado e/ou alternativa.
 
@@ -75,7 +75,7 @@ Para saber mais como funciona o LATEX veja [este vídeo](https://www.youtube.com
 
 ### Imagens
 
-O script R extraí as imagens do PDF, e as salva na pasta images. Porém as imagens não são relacionadas as questões. Sendo assim, você deve olhar se sua questão tem alguma imagem e procurar por ela na pasta de imagens. Ou ainda, se sua questão possuir tabelas, conforme explicado em [Tabelas](###Tabelas).
+O script R extraí as imagens do PDF, e as salva na pasta images. Porém as imagens não são relacionadas as questões. Sendo assim, você deve olhar se sua questão tem alguma imagem e procurar por ela na pasta de imagens. Ou ainda, se sua questão possuir tabelas, conforme explicado em [Tabelas](#tabelas).
 
 #### O que deve ser representado como imagem
 
