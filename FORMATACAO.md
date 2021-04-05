@@ -95,7 +95,7 @@ O script R extraí as imagens do PDF, e as salva na pasta images. Porém as imag
 
 1.  O nome de uma imagem deve ser img-[questão]-[número da imagem]. Por exemplo, suponha que a questão 4 da prova de 2017 tenha duas imagens, essas serão img-04-01 e img-04-02.
 
-2.  Caso a imagem esteja associada a um alternativa, seu nome deve ser img-[questão]-[número da alternativa (0-indexado)]-[número da imagem]. Por exemplo, considere que a questão 12 contém uma imagem associada a alternativa C, ela será img-12-03-01.
+2.  Caso a imagem esteja associada a um alternativa, seu nome deve ser img-[questão]-[número da alternativa (0-indexado)]-[número da imagem]. Por exemplo, considere que a questão 12 contém uma imagem associada a alternativa C, ela será img-12-02-01.
 
 #### Inserindo uma imagem no campo Imagens do JSON
 
