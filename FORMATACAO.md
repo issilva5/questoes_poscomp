@@ -51,6 +51,8 @@ A formatação interna do array, pode ser tanto linear quanto quebrada em linhas
 
 Caso o enunciado seja um único parágrafo, ele pode ser mantido tanto como uma string ou como um array.
 
+Caso o enunciado possua parágrafos separados por imagens (ou tabelas, etc), ignore a imagem e unifique o enunciado como o array de parágrafos, citado acima.
+
 ### Tabelas
 
 O script R não consegue extrair as tabelas do texto de forma adequada, deixando-as como texto sem formatação dentro do conteúdo do enunciado. Caso o enunciado da questão (ou alguma alternativa) tenha uma tabela associado, você deve tirar um printscreen dessa(s) tabelas e adicioná-las como imagens associadas a questão, veja [Imagens].
