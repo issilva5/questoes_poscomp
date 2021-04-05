@@ -71,7 +71,9 @@ O script R não consegue extrair fórmulas matemáticas de forma adequada, de mo
 
 Para saber mais como funciona o LATEX veja [este vídeo](https://www.youtube.com/watch?v=Jp0lPj2-DQA) (tem legendas em Português). E para ver mais sobre como gerar os símbolos matemáticos consulte [aqui](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols).
 
-**Obs.:** Algumas fórmulas matemáticas foram extraídas como imagens, nesses casos apague a imagem e inclua a fórmula como LATEX.
+**Obs. 1:** Algumas fórmulas matemáticas foram extraídas como imagens, nesses casos apague a imagem e inclua a fórmula como LATEX.
+
+**Obs. 2:** No vídeo indicado sobre LATEX, ele utiliza \$ para inline latex e \$\$ para gerar uma nova linha com a expressão, porém note que sempre deveremos utilizar \$\$ nos nossos textos como indicado no passo 3, acima.
 
 ### Imagens
 
