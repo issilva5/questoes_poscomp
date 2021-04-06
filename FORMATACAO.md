@@ -75,6 +75,8 @@ Para saber mais como funciona o LATEX veja [este vídeo](https://www.youtube.com
 
 **Obs. 2:** No vídeo indicado sobre LATEX, ele utiliza \$ para inline latex e \$\$ para gerar uma nova linha com a expressão, porém note que sempre deveremos utilizar \$\$ nos nossos textos como indicado no passo 3, acima.
 
+**Obs. 3:** Caso seja preciso utilizar funções do LATEX, por exemplo `\pi` ou `\frac{}{}`. Usem `\\pi` e `\\frac{}{}` com `\\`, para que o parser do JSON consiga ler.
+
 ### Imagens
 
 O script R extraí as imagens do PDF, e as salva na pasta images. Porém as imagens não são relacionadas as questões. Sendo assim, você deve olhar se sua questão tem alguma imagem e procurar por ela na pasta de imagens. Ou ainda, se sua questão possuir tabelas, conforme explicado em [Tabelas](#tabelas).
