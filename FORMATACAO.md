@@ -115,7 +115,7 @@ O script R extraí as imagens do PDF, e as salva na pasta images. Porém as imag
 
 ### Alternativas e Gabarito
 
-As alternativas serão representadas como um array de string, onde cada entrada contém o texto de uma das alternativas, respectivamente de A a E correspondem aos índices de 0 a 4 no array.
+As alternativas serão representadas como um array de string, onde cada entrada contém o texto de uma das alternativas, respectivamente de A a E correspondem aos índices de 0 a 4 no array. Todo `\n` (ou carectere especial que não faça parte) encontrado no texto de uma alternativa deve ser removido.
 
 O gabarito deve indicar o índice do array que contém a alternativa correta. Caso o gabarito esteja como -1, indica que esta questão foi anulada no exame. O JSON de uma questão alunada deve ser removido.
 
