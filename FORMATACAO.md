@@ -49,7 +49,7 @@ O campo enunciado do JSON deverá ser:
 
 A formatação interna do array, pode ser tanto linear quanto quebrada em linhas. Todo `\n` encontrado no texto do enunciado deve ser removido.
 
-Caso o enunciado seja um único parágrafo, ele pode ser mantido tanto como uma string ou como um array.
+Caso o enunciado seja um único parágrafo, ele deve ser mantido como um array com um único elemento.
 
 Caso o enunciado possua parágrafos separados por imagens (ou tabelas, etc), ignore a imagem e unifique o enunciado como o array de parágrafos, citado acima.
 
