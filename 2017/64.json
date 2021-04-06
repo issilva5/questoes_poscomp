@@ -1,8 +1,8 @@
 {
   "Ano": "2017",
   "Número": "64",
-  "Enunciado": ["Em sistemas de arquivos distribuídos, o requisito no qual os programas clientes não", "devem conhecer a distribuição de arquivos, sendo que um único conjunto de operações é fornecido", "para acesso a arquivos locais e remotos, é denominado transparência de"],
-  "Alternativas": ["acesso.", "desempenho.", "escala.", "localização.", "mobilidade.\n"],
+  "Enunciado": ["Em sistemas de arquivos distribuídos, o requisito no qual os programas clientes não devem conhecer a distribuição de arquivos, sendo que um único conjunto de operações é fornecido para acesso a arquivos locais e remotos, é denominado transparência de"],
+  "Alternativas": ["acesso.", "desempenho.", "escala.", "localização.", "mobilidade."],
   "Imagens": {},
   "Resposta": 0,
   "Componente": "Tecnologia da Computação",

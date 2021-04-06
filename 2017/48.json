@@ -1,8 +1,8 @@
 {
   "Ano": "2017",
   "Número": "48",
-  "Enunciado": ["RAID é um conjunto de discos físicos vistos pelo Sistema Operacional como uma", "única unidade lógica. O RAID tem as seguintes características:", "  I. RAID A: Redundante, espelhamento de discos, utiliza o dobro de discos.", " II. RAID B: Acesso paralelo, paridade de bit intercalada nos discos, utiliza apenas um disco.", "III. RAID C: Acesso independente, paridade de bloco intercalada e distribuída.", "De acordo com as configurações dos itens I, II e III, os RAID A, B e C são, respectivamente:"],
-  "Alternativas": ["RAID    0, RAID  2  e RAID 4.", "RAID    2, RAID  4  e RAID 6.", "RAID    0, RAID  3  e RAID 5.", "RAID    1, RAID  3  e RAID 5.", "RAID    1, RAID  4  e RAID 6."],
+  "Enunciado": ["RAID é um conjunto de discos físicos vistos pelo Sistema Operacional como uma única unidade lógica. O RAID tem as seguintes características:", "  I. RAID A: Redundante, espelhamento de discos, utiliza o dobro de discos.", " II. RAID B: Acesso paralelo, paridade de bit intercalada nos discos, utiliza apenas um disco.", "III. RAID C: Acesso independente, paridade de bloco intercalada e distribuída.", "De acordo com as configurações dos itens I, II e III, os RAID A, B e C são, respectivamente:"],
+  "Alternativas": ["RAID 0, RAID 2 e RAID 4.", "RAID 2, RAID 4 e RAID 6.", "RAID 0, RAID 3 e RAID 5.", "RAID 1, RAID 3 e RAID 5.", "RAID 1, RAID 4 e RAID 6."],
   "Imagens": {},
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",

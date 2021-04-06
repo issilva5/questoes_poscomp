@@ -1,8 +1,8 @@
 {
   "Ano": "2017",
   "Número": "52",
-  "Enunciado": ["Considere as descrições de dois mecanismos de segurança de banco de dados: (i)", "duas ou mais tuplas em diferentes níveis de classificação são gravadas, ambas com o mesmo valor de", "chave aparente; e (ii) uma única tupla é gravada pertinente ao nível de classificação mais elevado, e", "ocorre a produção de tuplas correspondentes a níveis inferiores. Tais mecanismos de segurança são", "denominados, respectivamente,"],
-  "Alternativas": ["acesso discricionário e poli-instanciação.", "filtragem e poli-instanciação.", "poli-instanciação e filtragem.", "filtragem e acesso discricionário.", "poli-instanciação e acesso discricionário.\n"],
+  "Enunciado": ["Considere as descrições de dois mecanismos de segurança de banco de dados: (i) duas ou mais tuplas em diferentes níveis de classificação são gravadas, ambas com o mesmo valor de chave aparente; e (ii) uma única tupla é gravada pertinente ao nível de classificação mais elevado, e ocorre a produção de tuplas correspondentes a níveis inferiores. Tais mecanismos de segurança são denominados, respectivamente,"],
+  "Alternativas": ["acesso discricionário e poli-instanciação.", "filtragem e poli-instanciação.", "poli-instanciação e filtragem.", "filtragem e acesso discricionário.", "poli-instanciação e acesso discricionário."],
   "Imagens": {},
   "Resposta": 2,
   "Componente": "Tecnologia da Computação",

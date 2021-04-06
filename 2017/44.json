@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "44",
-  "Enunciado": ["Considere que um processador tenha 16 bits de endereçamento de byte. Sua cache", "possui mapeamento direto com uma capacidade de 128 palavras e blocos de 8 palavras. O endereço", "se divide em campos para acesso à cache de acordo com a seguinte representação:", "                             Etiqueta                               i", "                             Índice                                 ii", "                             Palavra dentro do bloco               iii", "                             Byte dentro da palavra                iv", "O número de bits de cada um dos campos acima, ou seja, os valores de i, ii, iii e iv são,", "respectivamente:"],
+  "Enunciado": ["Considere que um processador tenha 16 bits de endereçamento de byte. Sua cache possui mapeamento direto com uma capacidade de 128 palavras e blocos de 8 palavras. O endereço se divide em campos para acesso à cache de acordo com a seguinte representação:", "O número de bits de cada um dos campos acima, ou seja, os valores de i, ii, iii e iv são, respectivamente:"],
   "Alternativas": ["12, 6, 5 e 3", "8, 4, 3 e 1", "8, 6, 5 e 3", "12, 4, 3 e 1", "12, 6, 3 e 1"],
-  "Imagens": {},
+  "Imagens": ["2017/images/img-014-000.png"],
   "Resposta": 1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

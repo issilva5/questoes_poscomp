@@ -1,7 +1,7 @@
 {
   "Ano": "2017",
   "Número": "42",
-  "Enunciado": ["Um PLD que armazena sua configuração em memórias do tipo SRAM é, segundo sua", "capacidade de configuração, ________ e, segundo sua capacidade de armazenamento, _______.", "Um PLD que armazena sua configuração em memórias do tipo EEPROM ou FLASH é, segundo sua", "capacidade de configuração, ________ e, segundo sua capacidade de armazenamento, ________.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
+  "Enunciado": ["Um PLD que armazena sua configuração em memórias do tipo SRAM é, segundo sua capacidade de configuração, ________ e, segundo sua capacidade de armazenamento, _______. Um PLD que armazena sua configuração em memórias do tipo EEPROM ou FLASH é, segundo sua capacidade de configuração, ________ e, segundo sua capacidade de armazenamento, ________.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
   "Alternativas": ["reprogramável – não volátil – reprogramável – volátil", "programável somente uma vez – não volátil – reprogramável – não volátil", "reprogramável – volátil – reprogramável – volátil", "reprogramável – volátil – reprogramável – não volátil", "reprogramável – volátil – programável somente uma vez – não volátil"],
   "Imagens": {},
   "Resposta": 3,
