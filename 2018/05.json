@@ -3,7 +3,7 @@
   "Número": "05",
   "Enunciado": ["Calcule o limite de $$\\lim_{x \\to \\infty}(\\sqrt{x^4 + x^2}+\\sqrt{x^2 + 5x}-x^2-x)$$:"],
   "Alternativas": ["1", "5", "$$\\infty$$", "0", "3"],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "Matemática"

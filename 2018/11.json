@@ -1,9 +1,15 @@
 {
   "Ano": "2018",
   "Número": "11",
-  "Enunciado": ["Considere a proposição abaixo:", "“Em toda turma da minha universidade, existe pelo menos um aluno canhoto.”", "A negação da proposição acima é logicamente equivalente à proposição:"],
-  "Alternativas": ["Existe uma turma na minha universidade na qual há, no máximo, um aluno canhoto.", "Há, pelo menos, uma turma da minha universidade na qual não existe aluno canhoto.", "Não há turma na minha universidade na qual todos os alunos sejam canhotos.", "Em cada uma das turmas da minha universidade, não há aluno algum que seja canhoto.", "Em nenhuma turma da minha universidade, há algum aluno que seja canhoto.\n"],
-  "Imagens": {},
+  "Enunciado": ["Considere a proposição abaixo:", "\"Em toda turma da minha universidade, existe pelo menos um aluno canhoto.\"", "A negação da proposição acima é logicamente equivalente à proposição:"],
+  "Alternativas": [
+    "Existe uma turma na minha universidade na qual há, no máximo, um aluno canhoto.", 
+    "Há, pelo menos, uma turma da minha universidade na qual não existe aluno canhoto.", 
+    "Não há turma na minha universidade na qual todos os alunos sejam canhotos.", 
+    "Em cada uma das turmas da minha universidade, não há aluno algum que seja canhoto.", 
+    "Em nenhuma turma da minha universidade, há algum aluno que seja canhoto."
+  ],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
