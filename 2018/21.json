@@ -1,9 +1,15 @@
 {
   "Ano": "2018",
   "Número": "21",
-  "Enunciado": ["Dadas as seguintes relações de recorrência:", "                     𝑛", "  I.    𝑇(𝑛) = 2𝑇 ( ) + 𝑂(𝑛)", "                     2", "                     𝑛", " II.    𝑇(𝑛) = 8𝑇 ( ) + 𝑂(𝑛2 )", "                     2", "                   𝑛", "III.    𝑇(𝑛) = 𝑇 ( ) + 𝑂(1)", "                   2", "As relações de recorrência I, II, e III pertencem, nessa ordem, às classes de complexidade:"],
-  "Alternativas": ["𝛩(𝑛2 ), 𝛩(𝑛3 ), e 𝛩(𝑛)", "𝛩(𝑛), 𝛩(𝑛2 ), e 𝛩(𝑛3 )", "𝛩(𝑛 log 𝑛 ), 𝛩(𝑛3 ), e 𝛩(log 𝑛)", "𝛩(log 𝑛), 𝛩(𝑛 log 𝑛), e 𝛩(𝑛3 )", "𝛩(𝑛2 ), 𝛩(𝑛2 ), e 𝛩(𝑛2 )\n"],
-  "Imagens": {},
+  "Enunciado": ["Dadas as seguintes relações de recorrência:", "I. $$T(n) = 2T\\left(\\frac{n}{2} \\right ) + O(n)$$", "II. $$T(n) = 8T\\left(\\frac{n}{2} \\right ) + O(n^2)$$", "III. $$T(n) = T\\left(\\frac{n}{2} \\right ) + O(1)$$", "As relações de recorrência I, II, e III pertencem, nessa ordem, às classes de complexidade:"],
+  "Alternativas": [
+    "$$\\Theta(n^2)$$, $$\\Theta(n^3), e $$\\Theta(n)$$",
+    "$$\\Theta(n)$$, $$\\Theta(n^2)$$, e $$\\Theta(n^3)$$",
+    "$$\\Theta(n \\log{n})$$, $$\\Theta(n^3)$$, e $$\\Theta(\\log{n})$$",
+    "$$\\Theta(\\log{n})$$, $$\\Theta(n \\log{n})$$, e $$\\Theta(n^3)$$",
+    "$$\\Theta(n^2)$$, $$\\Theta(n^2)$$, e $$\\Theta(n^2)$$"
+  ],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"

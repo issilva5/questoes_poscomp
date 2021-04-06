@@ -2,8 +2,14 @@
   "Ano": "2018",
   "Número": "27",
   "Enunciado": ["Considere o seguinte código em Linguagem C:", "Assinale a alternativa que corresponde à saída impressa na tela."],
-  "Alternativas": ["7 9 -1 7 -1 9\n   6 10 -1 7 0 9", "7 9 -1 7 -1 9\n   6 10 -1 6 -1 10", "7 9 -1 7 -1 9\n   6 10 -1 3 -2 9", "7 9 -1 7 -1 9\n   6 10 -1 4 -3 10", "7 9 -1 7 -1 9\n   6 10 -1 5 -4 10\n"],
-  "Imagens": {},
+  "Alternativas": [
+    "$$\\begin{matrix}7 & 9 & -1 & 7 & -1 & 9\\\\ 6 & 10 & -1 & 7 & 0 & 9\\end{matrix}$$",
+    "$$\\begin{matrix}7 & 9 & -1 & 7 & -1 & 9\\\\ 6 & 10 & -1 & 6 & -1 & 10\\end{matrix}$$",
+    "$$\\begin{matrix}7 & 9 & -1 & 7 & -1 & 9\\\\ 6 & 10 & -1 & 3 & -2 & 9\\end{matrix}$$",
+    "$$\\begin{matrix}7 & 9 & -1 & 7 & -1 & 9\\\\ 6 & 10 & -1 & 4 & -3 & 10\\end{matrix}$$",
+    "$$\\begin{matrix}7 & 9 & -1 & 7 & -1 & 9\\\\ 6 & 10 & -1 & 5 & -4 & 10\\end{matrix}$$"
+  ],
+  "Imagens": ["2018/images/img-27-01"],
   "Resposta": 1,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"
