@@ -1,7 +1,7 @@
 {
   "Ano": "2018",
   "Número": "24",
-  "Enunciado": "Sobre árvores binárias, é correto afirmar que:",
+  "Enunciado": ["Sobre árvores binárias, é correto afirmar que:"],
   "Alternativas": [
     "É uma árvore em que todo nó interno contém um registro e, para cada nó, a seguinte propriedade é verdadeira: todos os registros com chaves menores estão na subárvore esquerda e todos os registros com chaves maiores estão na subárvore direta.", 
     "A altura de um nó é o comprimento do caminho mais longo deste nó até um nó folha. A altura de uma árvore é a altura do nó raiz.",

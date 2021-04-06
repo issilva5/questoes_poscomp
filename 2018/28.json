@@ -1,7 +1,7 @@
 {
   "Ano": "2018",
   "Número": "28",
-  "Enunciado": "De acordo com o diagrama de classes UML a seguir, assinale a alternativa correta.",
+  "Enunciado": ["De acordo com o diagrama de classes UML a seguir, assinale a alternativa correta."],
   "Alternativas": [
     "O relacionamento entre \"Veículo\" e \"Roda\" se relaciona diretamente com polimorfismo.",
     "O relacionamento entre \"Roda\" e \"Pneu\" se relaciona diretamente com polimorfismo.",
