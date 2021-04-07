@@ -1,8 +1,8 @@
 {
   "Ano": "2017",
   "Número": "23",
-  "Enunciado": ["Considere o problema de somar os n elementos de um mesmo arranjo A de inteiros.", "O problema é resolvido da seguinte forma: (i) somam-se recursivamente os elementos da primeira", "metade de A; (ii) somam-se recursivamente os elementos da segunda metade de A; e (iii) soma-se", "esses dois valores juntos. Que tipo de recursão foi utilizada para a solução do problema?"],
-  "Alternativas": ["Linear.", "Binária.", "Ternária.", "Final.", "Múltipla.\n"],
+  "Enunciado": ["Considere o problema de somar os n elementos de um mesmo arranjo A de inteiros. O problema é resolvido da seguinte forma: (i) somam-se recursivamente os elementos da primeira metade de A; (ii) somam-se recursivamente os elementos da segunda metade de A; e (iii) soma-se esses dois valores juntos. Que tipo de recursão foi utilizada para a solução do problema?"],
+  "Alternativas": ["Linear.", "Binária.", "Ternária.", "Final.", "Múltipla."],
   "Imagens": {},
   "Resposta": 1,
   "Componente": "Fundamentos da Computação",

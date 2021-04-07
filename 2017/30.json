@@ -1,8 +1,8 @@
 {
   "Ano": "2017",
   "Número": "30",
-  "Enunciado": ["Um dos erros mais comuns que pode ocorrer durante a avaliação de uma expressão", "aritmética em um programa é quando o resultado de uma operação não pode ser representado na", "célula de memória para o qual ele foi alocado. Esse erro é chamado de transbordamento", "(_____________) e transbordamento negativo (_____________), dependendo se o resultado é muito", "grande ou muito pequeno.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
-  "Alternativas": ["big error – small error", "coerção – sobrecarga", "encapsulamento – abstração", "overflow – underflow", "transparência – efeito colateral"],
+  "Enunciado": ["Um dos erros mais comuns que pode ocorrer durante a avaliação de uma expressão aritmética em um programa é quando o resultado de uma operação não pode ser representado na célula de memória para o qual ele foi alocado. Esse erro é chamado de transbordamento (_____________) e transbordamento negativo (_____________), dependendo se o resultado é muito grande ou muito pequeno.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
+  "Alternativas": ["big error - small error", "coerção - sobrecarga", "encapsulamento - abstração", "overflow - underflow", "transparência - efeito colateral"],
   "Imagens": {},
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",

@@ -1,8 +1,8 @@
 {
   "Ano": "2017",
   "Número": "10",
-  "Enunciado": ["Sendo 𝑢(𝑥, 𝑦), 𝑣(𝑥, 𝑦) as funções implícitas definidas pelo sistema {", "                                                                                         2𝑥 2 𝑣 + 𝑦 3 𝑒 𝑢 = 1", "localmente no ponto (𝑥0 , 𝑦0 , 𝑢0 , 𝑣0 ) = (1,1,0,0), assinale a matriz da diferencial de (𝑢(𝑥, 𝑦), 𝑣(𝑥, 𝑦))", "no ponto (1,1).", "    1⁄2        1"],
-  "Alternativas": ["(             )\n    1⁄2        2\n         2        −3", "(                  )\n    −1⁄2         3⁄2\n       −2         3", "(                  )\n    1⁄2        −3⁄2\n    1⁄2          0", "(                )\n        0      3⁄2\n    −1⁄2            0", "(                    )\n       1⁄4       −3⁄2"],
+  "Enunciado": ["Sendo u(x,y), v(x,y) as funções implícitas definidas pelo sistema $$\\left\\{\\begin{matrix}xe^{u} + yu = 1\\\\2x^{2} v + y^{3}e^{u}=1\\end{matrix}\\right.$$ localmente no ponto $$(x_{0},y_{0},u_{0},v_{0})$$ = (1,1,0,0), assinale a matriz da diferencial de (u(x, y), v(x, y)) no ponto (1,1)."],
+  "Alternativas": ["$$\\begin{pmatrix} 1/2 & 1\\\\ 1/2 & 2 \\end{pmatrix}$$","$$\\begin{pmatrix}2 & -3\\\\ -1/2 & -3/2\\end{pmatrix}$$","$$\\begin{pmatrix}-2 & 3\\\\1/2 & -3/2\\end{pmatrix}$$","$$\\begin{pmatrix}1/2 & 0\\\\0 & 3/2\\end{pmatrix}$$","$$\\begin{pmatrix}-1/2 & 0\\\\1/4 & -3/2\\end{pmatrix}$$"],
   "Imagens": {},
   "Resposta": 4,
   "Componente": "Matemática",

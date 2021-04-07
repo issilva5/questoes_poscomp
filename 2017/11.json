@@ -2,7 +2,7 @@
   "Ano": "2017",
   "Número": "11",
   "Enunciado": ["Considere as seguintes premissas sobre os alunos de uma universidade:", "  I. Algum aluno que é estagiário não recebe bolsa.", " II. Todos aqueles alunos que estão no último período recebem bolsa.", "Portanto,"],
-  "Alternativas": ["algum aluno do último período é estagiário.", "todos os alunos do último período não são estagiários.", "algum aluno que é estagiário não está no último período.", "algum aluno do último período não é estagiário.", "todos os alunos que são estagiários não estão no último período.\n"],
+  "Alternativas": ["algum aluno do último período é estagiário.", "todos os alunos do último período não são estagiários.", "algum aluno que é estagiário não está no último período.", "algum aluno do último período não é estagiário.", "todos os alunos que são estagiários não estão no último período."],
   "Imagens": {},
   "Resposta": 2,
   "Componente": "Matemática",
