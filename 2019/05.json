@@ -3,7 +3,7 @@
   "Número": "05",
   "Enunciado": ["Calcule o $$\\lim_{x\\to 2} \\frac{x^3-8}{6x^2-3x^3}$$"],
   "Alternativas": ["–2", "∞", "0", "1", "–1"],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Calculo Diferencial E Integral"
