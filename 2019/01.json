@@ -1,8 +1,8 @@
 {
   "Ano": "2019",
   "Número": "01",
-  "Enunciado": ["Seja uma matriz quadrada de terceira ordem 𝐴 = ( 7      11 13), calcule o determinante:", "                                                                 17 19 23"],
-  "Alternativas": ["Det  A   =  –78", "Det  A   =  –84", "Det  A   =  84", "Det  A   =  78", "Det  A   =  –87\n"],
+  "Enunciado": ["Seja uma matriz quadrada de terceira ordem $$ A =\\begin{pmatrix}2 & 3 & 5 \\\\7 & 11 & 13 \\\\17 & 19 & 23 \\end{pmatrix} $$, calcule o determinante:"],                                                                 17 19 23"],
+  "Alternativas": ["Det  A   =  –78", "Det  A   =  –84", "Det  A   =  84", "Det  A   =  78", "Det  A   =  –87"],
   "Imagens": {},
   "Resposta": 0,
   "Componente": "Matemática",
