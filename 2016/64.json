@@ -1,8 +1,8 @@
 {
   "Ano": "2016",
   "Número": "64",
-  "Enunciado": ["Em um sistema distribuído, a comunicação __________ entre os processos origem", "e destino ocorre quando um envio (send) é realizado. Neste caso, o processo origem é __________", "até que a recepção (receive) correspondente seja realizada. A comunicação __________ ocorre", "quando a operação envio (send) é __________ e a transmissão da mensagem ocorre __________", "com o processo origem.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
-  "Alternativas": ["síncrona – bloqueado – assíncrona – não bloqueante – em paralelo", "síncrona – liberado – assíncrona – bloqueado – em sequência", "assíncrona – liberado – síncrona – não bloqueante – em paralelo", "síncrona – não bloqueante – assíncrona – bloqueado – em paralelo", "assíncrona – bloqueado – síncrona – não bloqueante – em sequência\n"],
+  "Enunciado": ["Em um sistema distribuído, a comunicação __________ entre os processos origem e destino ocorre quando um envio (send) é realizado. Neste caso, o processo origem é __________ até que a recepção (receive) correspondente seja realizada. A comunicação __________ ocorre quando a operação envio (send) é __________ e a transmissão da mensagem ocorre __________ com o processo origem.", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
+  "Alternativas": ["síncrona – bloqueado – assíncrona – não bloqueante – em paralelo", "síncrona – liberado – assíncrona – bloqueado – em sequência", "assíncrona – liberado – síncrona – não bloqueante – em paralelo", "síncrona – não bloqueante – assíncrona – bloqueado – em paralelo", "assíncrona – bloqueado – síncrona – não bloqueante – em sequência"],
   "Imagens": {},
   "Resposta": 0,
   "Componente": "Tecnologia da Computação",
