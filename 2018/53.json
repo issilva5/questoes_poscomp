@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "53",
-  "Enunciado": ["Em relação à gestão de riscos no gerenciamento de projetos de software, analise as", "afirmações abaixo, assinalando V, se verdadeiras, ou F, se falsas.", "( ) Para identificar os riscos mais significativos em um projeto, a análise de riscos deve associar a", "     cada risco uma medida representando sua probabilidade de ocorrência, e uma avaliação de seu", "     impacto.", "( ) Existem diferentes estratégias para gerenciar riscos identificados. Um plano de contingência visa", "     reduzir a probabilidade de ocorrência de um risco, e minimizar o seu impacto.", "( ) A gerência de riscos é um processo contínuo, pois, à medida que o projeto avança, os riscos", "     gerenciados e as respectivas estratégias de gerência associadas podem se alterar.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
-  "Alternativas": ["V – F – V.", "V – F – F.", "F – V – F.", "F – F – V.", "V – V – V.\n"],
-  "Imagens": {},
+  "Enunciado": ["Em relação à gestão de riscos no gerenciamento de projetos de software, analise as afirmações abaixo, assinalando V, se verdadeiras, ou F, se falsas.", "( ) Para identificar os riscos mais significativos em um projeto, a análise de riscos deve associar a cada risco uma medida representando sua probabilidade de ocorrência, e uma avaliação de seu impacto.", "( ) Existem diferentes estratégias para gerenciar riscos identificados. Um plano de contingência visa reduzir a probabilidade de ocorrência de um risco, e minimizar o seu impacto.", "( ) A gerência de riscos é um processo contínuo, pois, à medida que o projeto avança, os riscos gerenciados e as respectivas estratégias de gerência associadas podem se alterar.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["V – F – V.", "V – F – F.", "F – V – F.", "F – F – V.", "V – V – V."],
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"

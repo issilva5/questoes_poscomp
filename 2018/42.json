@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "42",
-  "Enunciado": ["Um bit de paridade par ou ímpar pode ser adicionado a uma palavra de N bits para", "indicar se o número de bits que valem 1 na palavra é par ou ímpar. Sobre paridade e bit de", "paridade, analise as assertivas abaixo:", "  I. Usa-se normalmente as portas lógicas OR ou NOR para calcular e gerar o bit de paridade.", " II. O bit de paridade par da palavra de 8 bits 00011100 é 1.", "III. A palavra de 8 bits 10100011 é enviada por um canal de comunicação de dados com bit de", "     paridade par 0. Se um dos bits da palavra inverter durante a transmissão devido a ruído, a nova", "     paridade calculada desta palavra na chegada da transmissão será 1, e, com isso, detecta-se um", "     erro.", "IV. Um bit de paridade em uma palavra de N bits é capaz de detectar até dois bits errados.", " V. Para calcular a paridade de uma palavra de 4 bits, serão necessárias 3 portas XOR ou 3 portas", "     XNOR.", "Quais estão corretas?"],
-  "Alternativas": ["Apenas I e III.", "Apenas II e IV.", "Apenas II e V.", "Apenas II, III e V.", "I, II, III, IV e V.\n"],
-  "Imagens": {},
+  "Enunciado": ["Um bit de paridade par ou ímpar pode ser adicionado a uma palavra de N bits para indicar se o número de bits que valem 1 na palavra é par ou ímpar. Sobre paridade e bit de paridade, analise as assertivas abaixo:", "  I. Usa-se normalmente as portas lógicas OR ou NOR para calcular e gerar o bit de paridade.", " II. O bit de paridade par da palavra de 8 bits 00011100 é 1.", "III. A palavra de 8 bits 10100011 é enviada por um canal de comunicação de dados com bit de paridade par 0. Se um dos bits da palavra inverter durante a transmissão devido a ruído, a nova paridade calculada desta palavra na chegada da transmissão será 1, e, com isso, detecta-se um erro.", "IV. Um bit de paridade em uma palavra de N bits é capaz de detectar até dois bits errados.", "V. Para calcular a paridade de uma palavra de 4 bits, serão necessárias 3 portas XOR ou 3 portas XNOR.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I e III.", "Apenas II e IV.", "Apenas II e V.", "Apenas II, III e V.", "I, II, III, IV e V."],
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"

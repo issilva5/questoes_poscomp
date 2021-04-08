@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "51",
-  "Enunciado": ["Quando um predicado da cláusula WHERE de uma consulta SQL aninhada referencia", "algum atributo de uma relação presente na consulta externa, tais consultas são ditas", "correlacionadas (ou correlatas). Seja Q uma consulta definida por SELECT DISTINCT SALARIO FROM", "EMPRESA WHERE SALARIO > ALL (SELECT Salario FROM EMPRESA) OR SALARIO < ANY (SELECT", "Salario FROM EMPRESA).", "A expressão SQL que utiliza consultas correlacionadas e cujo resultado é o mesmo resultado de Q é:"],
-  "Alternativas": ["SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario = E.Salario)", "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario >= E.Salario)", "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario <= E.Salario)", "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario > E.Salario)", "SELECT DISTINCT Salario FROM       EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I\n    WHERE I.Salario < E.Salario)"],
-  "Imagens": {},
+  "Enunciado": ["Quando um predicado da cláusula WHERE de uma consulta SQL aninhada referencia algum atributo de uma relação presente na consulta externa, tais consultas são ditas correlacionadas (ou correlatas). Seja Q uma consulta definida por SELECT DISTINCT SALARIO FROM EMPRESA WHERE SALARIO > ALL (SELECT Salario FROM EMPRESA) OR SALARIO < ANY (SELECT Salario FROM EMPRESA).", "A expressão SQL que utiliza consultas correlacionadas e cujo resultado é o mesmo resultado de Q é:"],
+  "Alternativas": ["SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I WHERE I.Salario = E.Salario)", "SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I WHERE I.Salario >= E.Salario)", "SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I WHERE I.Salario <= E.Salario)", "SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I WHERE I.Salario > E.Salario)", "SELECT DISTINCT Salario FROM EMPRESA AS E WHERE EXISTS (SELECT * FROM EMPRESA AS I WHERE I.Salario < E.Salario)"],
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"

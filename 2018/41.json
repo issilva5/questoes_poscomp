@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "41",
-  "Enunciado": ["Abaixo são apresentadas duas linguagens formais sobre o alfabeto {a,b,c}:", "L1 = { anbn | n>1 }", "L2 = { bnapcq | n≥0, p≥0, q≥0 }", "Considere as seguintes afirmações:", "  I. L1 é uma linguagem regular.", " II. L2 é uma linguagem regular.", "III. L2 é uma linguagem livre de contexto.", "Quais estão corretas?"],
+  "Enunciado": ["Abaixo são apresentadas duas linguagens formais sobre o alfabeto {a,b,c}:", "$$L1 = \\{a^nb^n|n>1\\}$$", "$$L2 = \\{ b^na^pc^q | n\\geq0, p\\geq0, q\\geq0 \\}$$", "Considere as seguintes afirmações:", "  I. L1 é uma linguagem regular.", " II. L2 é uma linguagem regular.", "III. L2 é uma linguagem livre de contexto.", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas I e III.", "Apenas II e III.", "I, II e III."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"

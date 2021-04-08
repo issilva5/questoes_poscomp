@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "47",
-  "Enunciado": ["Sobre a Máquina de Estados Finita com 5 estados (P,C,F,W,M) síncrona ao pulso de", "subida do relógio, representada a seguir, analise as assertivas abaixo:", "  I. A máquina representada nesta questão é do tipo Moore, pois os valores das saídas x e y só", "     dependem do estado em que a máquina se encontra.", " II. Para a saída y atingir o valor 1 lógico após o reset da máquina, é necessário, pelo menos, 2", "     pulsos de subida do relógio.", "III. Após o reset da máquina, se o valor de entrada ficar em 0 por 3 subidas do relógio", "     consecutivas, a máquina atingirá o estado W.", "IV. Quando a máquina se encontra no estado F, o próximo estado da máquina, ao vir a subida do", "     relógio, é C se a=1 ou M se a = 0.", " V. As saídas x e y só valem zero durante o reset da máquina.", "Quais estão corretas?"],
-  "Alternativas": ["Apenas   I e III.", "Apenas   I e V.", "Apenas   II e III.", "Apenas   II, III e IV.", "Apenas   II, III e V.\n"],
-  "Imagens": {},
+  "Enunciado": ["Sobre a Máquina de Estados Finita com 5 estados (P,C,F,W,M) síncrona ao pulso de subida do relógio, representada a seguir, analise as assertivas abaixo:", "  I. A máquina representada nesta questão é do tipo Moore, pois os valores das saídas x e y só dependem do estado em que a máquina se encontra.", " II. Para a saída y atingir o valor 1 lógico após o reset da máquina, é necessário, pelo menos, 2 pulsos de subida do relógio.", "III. Após o reset da máquina, se o valor de entrada ficar em 0 por 3 subidas do relógio consecutivas, a máquina atingirá o estado W.", "IV. Quando a máquina se encontra no estado F, o próximo estado da máquina, ao vir a subida do relógio, é C se a=1 ou M se a = 0.", "V. As saídas x e y só valem zero durante o reset da máquina.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I e III.", "Apenas I e V.", "Apenas II e III.", "Apenas II, III e IV.", "Apenas II, III e V."],
+  "Imagens": ["2018/images/img-47-01.png"],
   "Resposta": 2,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"

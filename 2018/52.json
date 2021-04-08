@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "52",
-  "Enunciado": ["Com respeito à abordagem de cópia distinguida para o controle de concorrência de", "banco de dados distribuídos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se", "falsas.", "( ) Uma cópia particular de cada item de dados é eleita como cópia distinguida, para que quaisquer", "     solicitações de bloqueio e desbloqueio sejam desviadas do site que contém tal cópia.", "( ) Na técnica de site primário, quando uma transação obtém um read_lock, todas as cópias do", "     item de dados devem ser atualizadas antes de liberar o bloqueio.", "( ) A técnica de cópia primária tenta distribuir a carga de coordenação de bloqueio entre vários", "     sites.", "( ) O uso de site de backup para a técnica de site primário ameniza o problema de sobrecarga do", "     site primário, o que minimiza gargalos no sistema.", "( ) A técnica de cópia primária em geral possui menor confiabilidade e menor disponibilidade do", "     que a técnica de site primário.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
-  "Alternativas": ["V – F – F – V – V.", "F – V – F – F – F.", "F – F – V – F – F.", "V – F – F – V – F.", "F – V – V – F – V.\n"],
-  "Imagens": {},
+  "Enunciado": ["Com respeito à abordagem de cópia distinguida para o controle de concorrência de banco de dados distribuídos, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) Uma cópia particular de cada item de dados é eleita como cópia distinguida, para que quaisquer solicitações de bloqueio e desbloqueio sejam desviadas do site que contém tal cópia.", "( ) Na técnica de site primário, quando uma transação obtém um read_lock, todas as cópias do item de dados devem ser atualizadas antes de liberar o bloqueio.", "( ) A técnica de cópia primária tenta distribuir a carga de coordenação de bloqueio entre vários sites.", "( ) O uso de site de backup para a técnica de site primário ameniza o problema de sobrecarga do site primário, o que minimiza gargalos no sistema.", "( ) A técnica de cópia primária em geral possui menor confiabilidade e menor disponibilidade do que a técnica de site primário.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["V – F – F – V – V.", "F – V – F – F – F.", "F – F – V – F – F.", "V – F – F – V – F.", "F – V – V – F – V."],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"

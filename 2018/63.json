@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "63",
-  "Enunciado": ["O Autômato Finito Não Determinista (AFND) abaixo foi construído utilizando o", "algoritmo de Thompson tomando-se como base uma determinada Expressão Regular (ER). Esse", "AFND deve ser transformado para um Autômato Finito Determinístico (AFD), utilizando o algoritmo", "de subconjuntos. Em relação à ER e à conversão AFND para AFD, considere as assertivas abaixo,", "assinalando V, se verdadeiras, ou F, se falsas.", "( )  A ER de origem é “(ab|b+)+a”.", "( )  A ER de origem é “(ab|b*)+a”.", "( )  A ER de origem é “(ab|b*)*a”.", "( )  O AFD resultante tem 4 estados.", "( )  O AFD resultante tem 5 estados.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
-  "Alternativas": ["V – F – F – F – V.", "F – V – F – V – F.", "F – V – F – F – V.", "F – F – V – F – V.", "V – F – V – V – F.\n"],
-  "Imagens": {},
+  "Enunciado": ["O Autômato Finito Não Determinista (AFND) abaixo foi construído utilizando o algoritmo de Thompson tomando-se como base uma determinada Expressão Regular (ER). Esse AFND deve ser transformado para um Autômato Finito Determinístico (AFD), utilizando o algoritmo de subconjuntos. Em relação à (ER) e à conversão AFND para AFD, considere as assertivas abaixo, assinalando V, se verdadeiras, ou F, se falsas.", "( ) A ER de origem é “(ab|b+)+a”.", "( ) A ER de origem é “(ab|b*)+a”.", "( ) A ER de origem é “(ab|b*)*a”.", "( ) O AFD resultante tem 4 estados.", "( ) O AFD resultante tem 5 estados.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["V – F – F – F – V.", "F – V – F – V – F.", "F – V – F – F – V.", "F – F – V – F – V.", "V – F – V – V – F."],
+  "Imagens": ["2018/images/img-63-01.png"],
   "Resposta": -1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
