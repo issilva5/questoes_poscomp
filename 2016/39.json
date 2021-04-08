@@ -2,8 +2,8 @@
   "Ano": "2016",
   "Número": "39",
   "Enunciado": ["O grafo rotulado G(r), exposto abaixo, representa qual expressão regular?", " A)", " B)", " C)", " D)", " E)"],
-  "Alternativas": [null, null, null, null, null],
-  "Imagens": {},
+  "Alternativas": ["$r=ab^{*}\\left ( da^{*} + cb \\right )^{*}$", "$r=a^{*}b\\left ( d^{*} + cb \\right )$", "$r=\left ( bb+d \right )^{*}  \\left ( aa+c \\right )^{*}$", "$r=a^{*}b\\left ( c + da^{*}b \\right )^{*}$", "$r=a^{*}c^{*}\\left ( b+d \\right )^{*}$"],
+  "Imagens": ["2016/images/img-039-01"],
   "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
