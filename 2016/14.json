@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "14",
-  "Enunciado": ["Seja A um subconjunto dos números naturais de 10 elementos. Seja R uma relação", "definida no produto cartesiano do conjunto das partes de A, isto é: 𝑅 ⊆ 𝒫(𝐴) × 𝒫(𝐴) onde: 𝑅 = {(𝑥, 𝑦) ∈", "𝒫(𝐴) × 𝒫(𝐴) 𝑡𝑎𝑙 𝑞𝑢𝑒 𝑥 ∩ 𝑦 ≠ ∅} é correto afirmar que a relação 𝑅"],
-  "Alternativas": ["é somente uma relação de ordem.", "é somente uma relação de equivalência.", "não é relação de ordem nem de equivalência, pois a relação não é reflexiva.", "não é relação de ordem nem de equivalência, pois a relação não é transitiva.", "não é relação de ordem nem de equivalência, pois a relação não é reflexiva e não é transitiva.\n"],
+  "Enunciado": ["Seja A um subconjunto dos números naturais de 10 elementos. Seja R uma relação definida no produto cartesiano do conjunto das partes de A, isto é: $$R\\subseteq P(A)\\times P(A)$$ onde: $$R={(x,y)\\in P(A)\\times P(A) \\text{ tal que } x \\cap y\\neq \\varnothing }$$ é correto afirmar que a relação 𝑅"],
+  "Alternativas": ["é somente uma relação de ordem.", "é somente uma relação de equivalência.", "não é relação de ordem nem de equivalência, pois a relação não é reflexiva.", "não é relação de ordem nem de equivalência, pois a relação não é transitiva.", "não é relação de ordem nem de equivalência, pois a relação não é reflexiva e não é transitiva."],
   "Imagens": {},
   "Resposta": 3,
   "Componente": "Matemática",
-  "Subarea": "MATEMáTICA"
+  "Subarea": "Matemática"
 }

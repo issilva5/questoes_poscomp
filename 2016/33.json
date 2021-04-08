@@ -2,9 +2,9 @@
   "Ano": "2016",
   "Número": "33",
   "Enunciado": "Assinale a alternativa correta em relação ao padrão de projeto Singleton.",
-  "Alternativas": ["Possui apenas 2 classes.", "É instanciado através da chamada de um método público e estático.", "Possui um membro privado não estático da própria classe.", "Tem que ter o construtor público para funcionar.", "Não é um padrão de criação.\n"],
+  "Alternativas": ["Possui apenas 2 classes.", "É instanciado através da chamada de um método público e estático.", "Possui um membro privado não estático da própria classe.", "Tem que ter o construtor público para funcionar.", "Não é um padrão de criação."],
   "Imagens": {},
   "Resposta": 1,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

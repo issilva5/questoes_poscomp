@@ -2,9 +2,9 @@
   "Ano": "2016",
   "Número": "07",
   "Enunciado": "A equação que representa a forma da cônica na imagem abaixo é:",
-  "Alternativas": ["𝑥 2 = 4𝑦 + 4\n   𝑥2     𝑦2", "    + 16 = 1\n   25\n   𝑥2     𝑦2", "    − 16 = 1\n   25\n   𝑥2     𝑦2", "    + 25 = 1\n   16\n   𝑥2     𝑦2", "    − 25 = 1\n   16\n"],
-  "Imagens": {},
+  "Alternativas": ["$$x^{2}=4y+4$$", "$$\\frac{x^{2}}{25}+\\frac{y^{2}}{16}=1$$", "$$\\frac{x^{2}}{25}-\\frac{y^{2}}{16}=1$$", "$$\\frac{x^{2}}{16}+\\frac{y^{2}}{25}=1$$", "$$\\frac{x^{2}}{16}-\\frac{y^{2}}{25}=1$$"],
+  "Imagens": ["2016/images/img-07-01"],
   "Resposta": 2,
-  "Componente": "Tecnologia da Computação",
-  "Subarea": "MATEMáTICA"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

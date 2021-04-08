@@ -2,9 +2,9 @@
   "Ano": "2016",
   "Número": "30",
   "Enunciado": "Assinale a alternativa que corresponde à saída do programa a seguir:",
-  "Alternativas": ["x: 68, i: 67.", "x: 68, i: 68.", "x: 69, i: 68.", "x: 69, i: 69.", "x: 69, i: 70.\n"],
-  "Imagens": {},
+  "Alternativas": ["x: 68, i: 67.", "x: 68, i: 68.", "x: 69, i: 68.", "x: 69, i: 69.", "x: 69, i: 70."],
+  "Imagens": ["2016/images/img-30-01"],
   "Resposta": -1,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

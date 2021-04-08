@@ -2,9 +2,9 @@
   "Ano": "2016",
   "Número": "29",
   "Enunciado": "A organização de arquivo Sorted File mantém registros",
-  "Alternativas": ["armazenados em regiões indexados por uma função, enquanto a Heap file mantém registros\n   armazenados em ordem da chave de busca.", "armazenados em ordem da chave de busca, enquanto a Hashed file mantém registros distribuídos\n   aleatoriamente nas páginas.", "distribuídos aleatoriamente nas páginas, enquanto a Hashed file mantém registros armazenados\n   em regiões, indexados por uma função.", "armazenados em ordem da chave de busca, enquanto a Heap file mantém registros distribuídos\n   aleatoriamente nas páginas.", "distribuídos aleatoriamente nas páginas, enquanto a Heap file mantém registros armazenados em\n   ordem da chave de busca.\n"],
+  "Alternativas": ["armazenados em regiões indexados por uma função, enquanto a Heap file mantém registros armazenados em ordem da chave de busca.", "armazenados em ordem da chave de busca, enquanto a Hashed file mantém registros distribuídos aleatoriamente nas páginas.", "distribuídos aleatoriamente nas páginas, enquanto a Hashed file mantém registros armazenados em regiões, indexados por uma função.", "armazenados em ordem da chave de busca, enquanto a Heap file mantém registros distribuídos aleatoriamente nas páginas.", "distribuídos aleatoriamente nas páginas, enquanto a Heap file mantém registros armazenados em ordem da chave de busca."],
   "Imagens": {},
   "Resposta": 3,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

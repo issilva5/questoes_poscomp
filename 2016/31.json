@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "31",
-  "Enunciado": ["De acordo com o diagrama de classes UML, assinale a alternativa que se relaciona", "diretamente com o conceito de Polimorfismo da Programação Orientada a Objetos."],
+  "Enunciado": ["De acordo com o diagrama de classes UML, assinale a alternativa que se relaciona diretamente com o conceito de Polimorfismo da Programação Orientada a Objetos."],
   "Alternativas": ["A relação entre as classes “Veículo” e “Roda”.", "O método “solicita_compra()” das classes “Peça” e “Veículo”.", "Os atributos “aro: Integer” e “cor: String” da classe “Roda”.", "O atributo “nome: String” da classe “Peça”.", "O atributo “ano: Integer” da classe “Veículo”."],
-  "Imagens": {},
+  "Imagens": ["2016/images/img-31-01"],
   "Resposta": 1,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "09",
-  "Enunciado": ["A respeito das propriedades da relação definida por RAxA, para A={x  N tal que", "1 x 6}, descrita pela matriz de incidência da relação", "              1 0  0    0  0  0", "              0 1  1    0  0  1", "              0 1  1    0  0  1         𝑎𝑖𝑗 = 0, 𝑠𝑒 (𝑖, 𝑗) ∉ 𝑅", "        𝐴=                       para {", "              0 0  0    1  0  0         𝑎𝑖𝑗 = 1, 𝑠𝑒 (𝑖, 𝑗) ∈ 𝑅", "              0 1  1    0  1  1", "             [0 0  0    0  0  1]", "é correto afirmar que essa relação é:"],
-  "Alternativas": ["Somente reflexiva.", "Somente simétrica.", "Somente transitiva.", "Reflexiva e simétrica, mas não é transitiva.", "Reflexiva e transitiva, mas não é simétrica.\n"],
-  "Imagens": {},
+  "Enunciado": ["A respeito das propriedades da relação definida por $$R\\subseteq A\\times A$$, para $$A={x\\in N \\text{ tal que } 1\\leq x\\leq 6}$$, descrita pela matriz de incidência da relação mostrada abaixo, é correto afirmar que essa relação é:"],
+  "Alternativas": ["Somente reflexiva.", "Somente simétrica.", "Somente transitiva.", "Reflexiva e simétrica, mas não é transitiva.", "Reflexiva e transitiva, mas não é simétrica."],
+  "Imagens": ["2016/images/img-09-01"],
   "Resposta": 4,
-  "Componente": "Tecnologia da Computação",
-  "Subarea": "MATEMáTICA"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

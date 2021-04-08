@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "21",
-  "Enunciado": ["Um algoritmo tem complexidade O(3m3 + 2mn2 + n2 + 10m + m2). Uma maneira", "simplificada de representar a complexidade desse algoritmo é:"],
-  "Alternativas": ["O(m3 + mn2).", "O(m3).", "O(m2).", "O(mn2).", "O(m3+ n2).\n"],
+  "Enunciado": ["Um algoritmo tem complexidade O($$3m^{3} + 2mn^{2} + n^{2} + 10m + m^{2}$$). Uma maneira simplificada de representar a complexidade desse algoritmo é:"],
+  "Alternativas": ["O($$m^{3}$$ + $$mn^{2}$$).", "O($$m^{3}$$).", "O($$m^{2}$$).", "O($$mn^{2}$$).", "O($$m^{3}$$ + $$n^{2}$$)."],
   "Imagens": {},
   "Resposta": 0,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }
