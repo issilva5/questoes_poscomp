@@ -1,9 +1,10 @@
 {
   "Ano": "2019",
   "Número": "06",
-  "Enunciado": ["Para quais valores de a e b, f(x) é contínua em x = 1 e x = 4.", "                                               𝑥         𝑠𝑒 𝑥 ≤ 1", "                                     𝑓(𝑥) = {𝑎𝑥 + 𝑏   𝑠𝑒 1 < 𝑥 < 4", "                                              −2𝑥        𝑠𝑒 4 ≤ 𝑥"],
-  "Alternativas": ["a =  –9 e b = –3", "a =  –3 e b = 4", "a =  1eb=1", "a =  –1 e b = 2", "a =  2eb=3\n                                                       1   2  2\n"],
-  "Imagens": {},
+  "Enunciado": ["Para quais valores de a e b, f(x) é contínua em x = 1 e x = 4.",
+               "$$ f(x)= \\left\\{\\begin{matrix} x & se~x \\leq 1\\\\ ax+b & se~1<x<4 \\\\  -2x & se~ 4 \\leq x  \\end{matrix}\\right$$"],
+  "Alternativas": ["a =  –9 e b = –3", "a =  –3 e b = 4", "a = 1 e b = 1", "a = –1 e b = 2", "a = 2 e b = 3"],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Calculo Diferencial E Integral"
