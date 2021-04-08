@@ -3,7 +3,7 @@
   "Número": "70",
   "Enunciado": ["Na figura abaixo, você encontra 3 diagramas desenvolvidos em UML (Unified Modeling Language) utilizados em um projeto de software: o diagrama de caso de uso, o diagrama de sequência, representando o fluxo normal da realização do caso de uso, e, por fim, o diagrama de classes. Ao analisar esses diagramas, é correto afirmar que:"],
   "Alternativas": ["Existe uma inconsistência entre os diagramas de classe e sequência.", "O objeto: Interface não poderia estar presente no diagrama de sequência, pois ele não possui uma classe correspondente.", "Os diagramas estão consistentes.", "As trocas de mensagens, apontadas no diagrama de sequência, possuem os métodos correspondentes no diagrama de classes.", "O objeto candidato não pode ser “estereotipado” como ator."],
-  "Imagens": {},
+  "Imagens": ["2016/images/img-070-01"],
   "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "TECNOLOGIA DE COMPUTAçãO"
