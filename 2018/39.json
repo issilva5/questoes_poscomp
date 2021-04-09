@@ -1,7 +1,7 @@
 {
   "Ano": "2018",
   "Número": "39",
-  "Enunciado": ["Considere os seguintes formalismos:", "I. Autômatos finitos.", "II. Autômatos finitos com uma pilha.", "III. Autômatos finitos com duas pilhas.", "Quais contêm SOMENTE os formalismos nos quais a variante não determinística reconhece o mesmo", "conjunto de linguagens que a respectiva versão determinística?"],
+  "Enunciado": ["Considere os seguintes formalismos:", "I. Autômatos finitos.", "II. Autômatos finitos com uma pilha.", "III. Autômatos finitos com duas pilhas.", "Quais contêm SOMENTE os formalismos nos quais a variante não determinística reconhece o mesmo conjunto de linguagens que a respectiva versão determinística?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas I e III.", "Apenas II e III.", "I, II e III."],
   "Imagens": [],
   "Resposta": 2,
