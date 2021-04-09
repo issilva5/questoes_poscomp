@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "61",
-  "Enunciado": "Sobre visão computacional estéreo, é correto afirmar que:",
-  "Alternativas": ["Trata-se de uma subárea que tem como objetivo reconhecer imagens similares.", "Capta-se cenas a partir de dois referenciais diferentes para se obter um mapa de disparidade.", "Avalia-se o deslocamento entre objetos para se calcular a dispersão.", "Tem por objetivo final subdividir as imagens.", "Um dos seus subproblemas consiste em desconstruir as imagens em apenas uma.\n"],
-  "Imagens": {},
+  "Enunciado": ["Sobre visão computacional estéreo, é correto afirmar que:"],
+  "Alternativas": ["Trata-se de uma subárea que tem como objetivo reconhecer imagens similares.", "Capta-se cenas a partir de dois referenciais diferentes para se obter um mapa de disparidade.", "Avalia-se o deslocamento entre objetos para se calcular a dispersão.", "Tem por objetivo final subdividir as imagens.", "Um dos seus subproblemas consiste em desconstruir as imagens em apenas uma."],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Processamento de Imagens"
