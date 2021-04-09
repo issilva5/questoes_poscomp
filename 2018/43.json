@@ -3,7 +3,7 @@
   "Número": "43",
   "Enunciado": ["Com base na figura abaixo, analise as assertivas que seguem:", "I. A saída da função F está no valor lógico 1 quando as entradas a, b, c estão, respectivamente, nos valores lógicos 0,1,0 ou 0,0,1.", "II. Basta a entrada estar no valor lógico 0 para que a saída da função F atinja o valor lógico 0 também.", "III. A função booleana da função F pode ser representada por: $$F = \\overline{\\rm b.c + a}$$", "IV. Se os transistores NMOS controlados pelas entradas b e c estão conduzindo, então a saída da função F está no valor lógico 0.", "V. Usando o teorema De Morgan, podemos afirmar que a função booleana F é equivalente a: $$F = \\overline{\\rm a} . \\overline{\\rm b} + \\overline{\\rm a} . \\overline{\\rm c}$$", "Quais estão corretas?"],
   "Alternativas": ["Apenas II e III.", "Apenas II e IV.", "Apenas I, III e IV.", "Apenas I, III e V.", "Apenas I, III, IV e V."],
-  "Imagens": ["2018/images/img-43-01.png"],
+  "Imagens": ["2018/images/img-43-01"],
   "Resposta": 4,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"
