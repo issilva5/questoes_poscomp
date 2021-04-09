@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "38",
-  "Enunciado": "Sobre tipos de dados, é correto afirmar que:",
-  "Alternativas": ["Tipos booleanos são valores que são mantidos fixos pelo compilador.", "O double é um tipo inteiro duplo com menor precisão do que o tipo inteiro.", "A faixa de valores dos tipos inteiros tem somente dois elementos: um para verdadeiro e outro\n    para falso.", "Uma conversão de tipos implícita consiste em uma modificação do tipo de dados executado,\n    automaticamente, pelo compilador.", "Vetores, matrizes e ponteiros são exemplos de tipos de dados primitivos (básicos).\n"],
-  "Imagens": {},
+  "Enunciado": ["Sobre tipos de dados, é correto afirmar que:"],
+  "Alternativas": ["Tipos booleanos são valores que são mantidos fixos pelo compilador.", "O double é um tipo inteiro duplo com menor precisão do que o tipo inteiro.", "A faixa de valores dos tipos inteiros tem somente dois elementos: um para verdadeiro e outro para falso.", "Uma conversão de tipos implícita consiste em uma modificação do tipo de dados executado, automaticamente, pelo compilador.", "Vetores, matrizes e ponteiros são exemplos de tipos de dados primitivos (básicos)."],
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"

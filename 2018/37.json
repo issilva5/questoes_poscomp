@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "37",
-  "Enunciado": "Sobre ordenação topológica em grafos, é correto afirmar que:",
-  "Alternativas": ["A busca em largura é utilizada para obter a ordenação topológica de um grafo direcionado\n    acíclico.", "A ordenação topológica de um grafo pode ser vista como uma ordenação de suas arestas ao\n    longo de uma linha horizontal, de tal forma que todos os vértices estão classificados em ordem\n    crescente.", "A ordenação topológica de um grafo direcionado acíclico G=(V,A) é uma ordenação linear de\n    todos os seus vértices tal que G contém uma aresta (u, v), então u aparece antes de v.", "A busca binária é utilizada para obter a ordenação topológica de um grafo cíclico não direcionado.", "O algoritmo para obter a ordenação topológica de um grafo direcionado usa o transposto do grafo\n    que consiste de todas as arestas com as suas direções invertidas.\n"],
-  "Imagens": {},
+  "Enunciado": ["Sobre ordenação topológica em grafos, é correto afirmar que:"],
+  "Alternativas": ["A busca em largura é utilizada para obter a ordenação topológica de um grafo direcionado acíclico.", "A ordenação topológica de um grafo pode ser vista como uma ordenação de suas arestas ao longo de uma linha horizontal, de tal forma que todos os vértices estão classificados em ordem crescente.", "A ordenação topológica de um grafo direcionado acíclico $$G=(V,A)$$ é uma ordenação linear de todos os seus vértices tal que $$G$$ contém uma aresta $$(u, v)$$, então u aparece antes de v.", "A busca binária é utilizada para obter a ordenação topológica de um grafo cíclico não direcionado.", "O algoritmo para obter a ordenação topológica de um grafo direcionado usa o transposto do grafo que consiste de todas as arestas com as suas direções invertidas."],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"
