@@ -3,7 +3,7 @@
   "Número": "06",
   "Enunciado": ["O limite de $$\\sqrt[n]{\\frac{n^{2}+1}{n^{7}-2}}$$ quando $$n\\rightarrow \\infty$$ é:"],
   "Alternativas": ["1", "0", "$$\\infty$$", "2/7", "1/2"],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Matemática",
   "Subarea": "Matemática"

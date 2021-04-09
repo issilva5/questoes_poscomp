@@ -3,7 +3,7 @@
   "Número": "02",
   "Enunciado": ["Qual é o valor do determinante da matriz 5x5 $$\\begin{pmatrix} 1 & 2 & 3 & 4 & 5\\\\ 4 & 3 & 4 & 0 & 0\\\\ 8 & 6 & 7 & 2 & 0\\\\ 12 & 9 & 10 & 3 & 0\\\\ 16 & 12 & 13 & 4 & 0 \\end{pmatrix}$$?"],
   "Alternativas": ["325", "5", "120", "1", "0"],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "Matemática"

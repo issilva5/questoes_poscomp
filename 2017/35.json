@@ -8,7 +8,7 @@
     "( ) O desempenho da pesquisa baseada em um campo de arquivos desordenados pode ser melhorado através de pesquisa binária.", 
     "A ordem correta de preenchimento dos parênteses, de cima para baixo, é"],
   "Alternativas": ["V - V - F - V.", "V - F - F - F.", "F - F - V - F.", "F - V - F - V.", "V - F - V - F."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

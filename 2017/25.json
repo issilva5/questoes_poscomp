@@ -3,7 +3,7 @@
   "Número": "25",
   "Enunciado": ["A análise de algoritmos que estabelece um limite superior para o tempo de execução de qualquer entrada é denominada análise"],
   "Alternativas": ["do  melhor caso.", "do  caso médio.", "do  pior caso.", "da  ordem de crescimento.", "do  tamanho da entrada."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"
