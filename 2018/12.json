@@ -1,9 +1,15 @@
 {
   "Ano": "2018",
   "Número": "12",
-  "Enunciado": "A proposição (𝑝 ↔ 𝑞) → (𝑝 → 𝑞) é equivalente a:",
-  "Alternativas": ["Falso", "𝑝 → ~𝑞", "Verdadeiro", "𝑝 → 𝑞", "(𝑞 → 𝑝) ∧ (𝑝 → 𝑞)"],
-  "Imagens": {},
+  "Enunciado": ["A proposição $$(p \\leftrightarrow q) \\rightarrow (p \\rightarrow q)$$ é equivalente a:"],
+  "Alternativas": [
+    "Falso",
+    "$$p \\rightarrow \\neg q$$",
+    "Verdadeiro",
+    "$$p \\rightarrow q$$",
+    "$$(q \\rightarrow p) \\wedge (p \\rightarrow q)$$"
+  ],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Matemática",
   "Subarea": "Matemática"

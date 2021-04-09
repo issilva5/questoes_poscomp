@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "33",
-  "Enunciado": ["Quando um programa precisa classificar uma matriz de objetos de dados numéricos", "de algum tipo, normalmente usa um subprograma (ou função) para o processo de classificação. No", "ponto em que o processo de classificação é necessário, uma instrução como sort_int(list, list_len) é", "colocada no programa. Essa chamada é um exemplo de abstração de:"],
-  "Alternativas": ["Dados.", "Encapsulamento.", "Repetição.", "Condição.", "Processo.\n"],
-  "Imagens": {},
+  "Enunciado": ["Quando um programa precisa classificar uma matriz de objetos de dados numéricos de algum tipo, normalmente usa um subprograma (ou função) para o processo de classificação. No ponto em que o processo de classificação é necessário, uma instrução como sort_int(list, list_len) é colocada no programa. Essa chamada é um exemplo de abstração de:"],
+  "Alternativas": ["Dados.", "Encapsulamento.", "Repetição.", "Condição.", "Processo."],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"

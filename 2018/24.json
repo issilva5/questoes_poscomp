@@ -1,9 +1,15 @@
 {
   "Ano": "2018",
   "Número": "24",
-  "Enunciado": "Sobre árvores binárias, é correto afirmar que:",
-  "Alternativas": ["É uma árvore em que todo nó interno contém um registro e, para cada nó, a seguinte\n    propriedade é verdadeira: todos os registros com chaves menores estão na subárvore esquerda e\n    todos os registros com chaves maiores estão na subárvore direta.", "A altura de um nó é o comprimento do caminho mais longo deste nó até um nó folha. A altura de\n    uma árvore é a altura do nó raiz.", "Se o nível do nó raiz de uma árvore binária é zero; se um nó está no nível i, a raiz de suas duas\n    subárvores está no nível i+2.", "O número de subárvores de um nó é chamado de grau. Um nó de grau dois é chamado de nó\n    externo ou nó folha.", "Para encontrar um registro que contém a chave x em uma árvore binária de pesquisa, primeiro\n    compare-a com a chave que está na raiz. Se é menor, vá para a subárvore da direita; se é maior,\n    vá para a subárvore da esquerda.\n"],
-  "Imagens": {},
+  "Enunciado": ["Sobre árvores binárias, é correto afirmar que:"],
+  "Alternativas": [
+    "É uma árvore em que todo nó interno contém um registro e, para cada nó, a seguinte propriedade é verdadeira: todos os registros com chaves menores estão na subárvore esquerda e todos os registros com chaves maiores estão na subárvore direta.", 
+    "A altura de um nó é o comprimento do caminho mais longo deste nó até um nó folha. A altura de uma árvore é a altura do nó raiz.",
+    "Se o nível do nó raiz de uma árvore binária é zero; se um nó está no nível i, a raiz de suas duas subárvores está no nível i+2.",
+    "O número de subárvores de um nó é chamado de grau. Um nó de grau dois é chamado de nó externo ou nó folha.",
+    "Para encontrar um registro que contém a chave x em uma árvore binária de pesquisa, primeiro compare-a com a chave que está na raiz. Se é menor, vá para a subárvore da direita; se é maior, vá para a subárvore da esquerda."
+  ],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Fundamentos de Computação"

@@ -1,9 +1,9 @@
 {
   "Ano": "2018",
   "Número": "19",
-  "Enunciado": ["Considere um conjunto S com “n” elementos distintos. Considerando n=10,", "quantos subconjuntos de S com até “n” elementos é possível formar?"],
-  "Alternativas": ["120.", "512.", "1024.", "1814400.", "1240000.\n"],
-  "Imagens": {},
+  "Enunciado": ["Considere um conjunto S com \"n\" elementos distintos. Considerando n=10, quantos subconjuntos de S com até \"n\" elementos é possível formar?"],
+  "Alternativas": ["120.", "512.", "1024.", "1814400.", "1240000."],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Matemática",
   "Subarea": "Matemática"

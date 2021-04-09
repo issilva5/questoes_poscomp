@@ -1,9 +1,15 @@
 {
   "Ano": "2018",
   "Número": "10",
-  "Enunciado": ["A primitiva de ∫                      𝑑𝑥 é:", "                                           √𝑥 2 +1", "                          −1"],
-  "Alternativas": ["   (√𝑥 2 + 1)             +𝐶", "   √𝑥 2 + 1 + 𝐶", "    𝑥2 + 1 + 𝐶", "    𝑥2 + 𝐶", "     𝐶\n"],
-  "Imagens": {},
+  "Enunciado": ["A primitiva de $$\\int \\frac{x}{\\sqrt{x^2 + 1}}$$ é:"],
+  "Alternativas": [
+    "\\left ( \\sqrt{x^2+1} \\right)^{-1} + C",
+    "\\sqrt{x^2+1} + C",
+    "x^2 + 1 + C",
+    "x^2 + C",
+    "C"
+  ],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
