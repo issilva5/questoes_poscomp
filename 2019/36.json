@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "36",
-  "Enunciado": ["Um mapa rodoviário é modelado como um grafo em que os vértices representam", "interseções. As arestas representam segmentos de estrada entre interseções. O peso de cada aresta", "representa a distância entre interseções. Agora, considere que um motorista deseja obter o caminho", "mais curto entre duas cidades. Dado um mapa contendo as distâncias entre cada par de interseções", "adjacentes, como obter o caminho mais curto entre duas cidades?"],
-  "Alternativas": ["Caminho    mais curto com destino único.", "Caminho    gerador mínimo de origem única.", "Caminho    mais curto com origem única.", "Caminho    mais curto entre todos os pares de vértices.", "Caminho    gerador mínimo de origem múltipla.\n"],
-  "Imagens": {},
+  "Enunciado": ["Um mapa rodoviário é modelado como um grafo em que os vértices representam interseções. As arestas representam segmentos de estrada entre interseções. O peso de cada aresta representa a distância entre interseções. Agora, considere que um motorista deseja obter o caminho mais curto entre duas cidades. Dado um mapa contendo as distâncias entre cada par de interseções adjacentes, como obter o caminho mais curto entre duas cidades?"],
+  "Alternativas": ["Caminho    mais curto com destino único.", "Caminho    gerador mínimo de origem única.", "Caminho    mais curto com origem única.", "Caminho    mais curto entre todos os pares de vértices.", "Caminho    gerador mínimo de origem múltipla."],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Teoria dos Grafos"

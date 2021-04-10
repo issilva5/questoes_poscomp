@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "67",
-  "Enunciado": ["Processos, em um sistema distribuído, são divididos em dois grupos, com possível", "sobreposição. Um servidor é um processo que implementa um serviço específico. Um cliente é um", "processo que requisita um serviço de um servidor enviando-lhe uma requisição e, na sequência,", "esperando pela resposta do servidor. Esse é um exemplo de arquitetura:"],
-  "Alternativas": ["Multidividida.", "Peer-to-peer estruturada.", "Descentralizada.", "Peer-to-peer não estruturada.", "Centralizada.\n"],
-  "Imagens": {},
+  "Enunciado": ["Processos, em um sistema distribuído, são divididos em dois grupos, com possível sobreposição. Um servidor é um processo que implementa um serviço específico. Um cliente é um processo que requisita um serviço de um servidor enviando-lhe uma requisição e, na sequência, esperando pela resposta do servidor. Esse é um exemplo de arquitetura:"],
+  "Alternativas": ["Multidividida.", "Peer-to-peer estruturada.", "Descentralizada.", "Peer-to-peer não estruturada.", "Centralizada."],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Sistemas Distribuídos"

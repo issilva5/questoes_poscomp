@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "59",
-  "Enunciado": "A realização da equalização do histograma de uma imagem resulta em obter:",
-  "Alternativas": ["O realce mínimo de detalhes.", "Uma transformação de domínio de cores.", "A maior compressibilidade da informação.", "A menor discriminabilidade dos objetos.", "A máxima variância do histograma.\n"],
-  "Imagens": {},
+  "Enunciado": ["A realização da equalização do histograma de uma imagem resulta em obter:"],
+  "Alternativas": ["O realce mínimo de detalhes.", "Uma transformação de domínio de cores.", "A maior compressibilidade da informação.", "A menor discriminabilidade dos objetos.", "A máxima variância do histograma."],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Processamento de Imagens"

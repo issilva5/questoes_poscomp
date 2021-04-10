@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "51",
-  "Enunciado": ["Sobre o controle de concorrência baseado na ordenação de timestamp (rótulo de", "tempo), considere r_ts(x) e w_ts(x) os timestamps da última transação a ler e a gravar o item de", "dados x, respectivamente. Considere que a transação T, cujo timestamp é ts(T), precisa gravar o item", "de dados x, ou seja, T emite a operação write(x). Conforme o algoritmo de ordenação baseada em", "timestamp básica, para que as transações sejam serializáveis em conflito sem que haja o aborto e o", "reinício de T, o seguinte predicado precisa ser verdadeiro:"],
-  "Alternativas": ["(r_ts(x) > ts(T)) or (w_ts(x) > ts(T))", "(r_ts(x) > ts(T)) and (w_ts(x) > ts(T))", "(not (r_ts(x) > ts(T))) or (w_ts(x) > ts(T))", "(not (r_ts(x) > ts(T))) or (not (w_ts(x) > ts(T)))", "(not (r_ts(x) > ts(T))) and not ((w_ts(x) > ts(T)))\n"],
-  "Imagens": {},
+  "Enunciado": ["Sobre o controle de concorrência baseado na ordenação de timestamp (rótulo de tempo), considere r_ts(x) e w_ts(x) os timestamps da última transação a ler e a gravar o item de dados x, respectivamente. Considere que a transação T, cujo timestamp é ts(T), precisa gravar o item de dados x, ou seja, T emite a operação write(x). Conforme o algoritmo de ordenação baseada em timestamp básica, para que as transações sejam serializáveis em conflito sem que haja o aborto e o reinício de T, o seguinte predicado precisa ser verdadeiro:"],
+  "Alternativas": ["(r_ts(x) > ts(T)) or (w_ts(x) > ts(T))", "(r_ts(x) > ts(T)) and (w_ts(x) > ts(T))", "(not (r_ts(x) > ts(T))) or (w_ts(x) > ts(T))", "(not (r_ts(x) > ts(T))) or (not (w_ts(x) > ts(T)))", "(not (r_ts(x) > ts(T))) and not ((w_ts(x) > ts(T)))"],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Banco de Dados"
