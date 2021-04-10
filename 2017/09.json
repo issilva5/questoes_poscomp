@@ -1,7 +1,7 @@
 {
   "Ano": "2017",
   "Número": "09",
-  "Enunciado": "Aplicando-se a Lei de Morgan, qual é o complemento da função $$f = (x + \\bar{y})(yz+x\\bar{y})$$",
+  "Enunciado": ["Aplicando-se a Lei de Morgan, qual é o complemento da função $$f = (x + \\bar{y})(yz+x\\bar{y})$$"],
   "Alternativas": ["$$\\bar{f} = \\bar{x} + y\\bar{z}$$", "$$\\bar{f} = \\bar{x} + \\bar{x}z + y$$", "$$\\bar{f} = \\bar{x}\\bar{z} + y$$", "$$\\bar{f} = \\bar{x}\\bar{y} + yz$$", "$$\\bar{f} = \\bar{x}\\bar{y} + \\bar{y}z$$"],
   "Imagens": [],
   "Resposta": 0,

@@ -1,7 +1,7 @@
 {
   "Ano": "2017",
   "Número": "14",
-  "Enunciado": ["Assinale a alternativa que apresenta a simplificação, pelo Mapa de Karnaugh, da função cuja expressão em termos canônicos é f(x,y,z) = $$\\sum_{3} m(3,5,6)$$."],
+  "Enunciado": ["Assinale a alternativa que apresenta a simplificação, pelo Mapa de Karnaugh, da função cuja expressão em termos canônicos é $$f(x,y,z)=\\sum_{3} m(3,5,6)$$."],
   "Alternativas": ["$$f(x,y,z)= xyz + x\\bar{y}z + \\bar{x}\\bar{y}z$$","$$f(x,y,z)= x\\bar{y}z + \\bar{x}yz + xy\\bar{z}$$","$$f(x,y,z)= x\\bar{y}\\bar{z} + xyz + \\bar{x}\\bar{y}z$$","$$f(x,y,z)= xyz + xy\\bar{z} + \\bar{x}yz$$","$$f(x,y,z)= \\overline{xyz} + xy\\bar{z} + \\bar{x}yz$$"],
   "Imagens": [],
   "Resposta": 1,

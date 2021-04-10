@@ -1,7 +1,7 @@
 {
   "Ano": "2017",
   "Número": "27",
-  "Enunciado": "A saída do trecho de código em C abaixo é:",
+  "Enunciado": ["A saída do trecho de código em C abaixo é:"],
   "Alternativas": ["i: 1 j: 4 k:1", "i: 15 j: 1 k:0", "i: 10 j: 14 k:2", "i: 13 j: 2 k:3", "i: 3 j: 1 k:4"],
   "Imagens": ["2017/images/img-27-01"],
   "Resposta": 1,
