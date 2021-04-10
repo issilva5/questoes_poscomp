@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "39",
-  "Enunciado": ["Analise as seguintes assertivas sobre autômatos e linguagens:", "  I. Autômatos finitos determinísticos e autômatos finitos não determinísticos aceitam o mesmo conjunto de linguagens.", " II. Seja L uma linguagem livre de contexto, existe um autômato com duas pilhas determinístico que reconhece L.", "III. Toda linguagem enumerável recursivamente é também uma linguagem recursiva.", "Quais estão corretas?"],
+  "Enunciado": ["Analise as seguintes assertivas sobre autômatos e linguagens:", "I. Autômatos finitos determinísticos e autômatos finitos não determinísticos aceitam o mesmo conjunto de linguagens.", "II. Seja L uma linguagem livre de contexto, existe um autômato com duas pilhas determinístico que reconhece L.", "III. Toda linguagem enumerável recursivamente é também uma linguagem recursiva.", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas I e II.", "Apenas I e III.", "Apenas II e III."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

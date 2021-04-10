@@ -3,7 +3,7 @@
   "Número": "46",
   "Enunciado": ["Uma partição de disco rígido é formatada com um sistema de arquivos que utiliza alocação encadeada baseada em tabela de alocação de arquivos (FAT). Após a formatação, a partição possui setores de 512 bytes e tamanho de bloco (cluster) de 2048 bytes. Ao criar um arquivo nessa partição, gravar 1 byte e fechá-lo, qual espaço esse arquivo ocupa na área de dados da partição?"],
   "Alternativas": ["1 byte", "2 bytes", "512 bytes", "2048 bytes", "1 setor"],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

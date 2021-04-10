@@ -3,7 +3,7 @@
   "Número": "62",
   "Enunciado": ["Qual é o estilo de comunicação indireta no qual publicadores divulgam eventos estruturados para um serviço de eventos e assinantes expressam interesse em eventos específicos por meio de assinaturas?"],
   "Alternativas": ["Comunicação em grupo.", "Sistema publicar-assinar.", "Filas de mensagens.", "Memória compartilhada distribuída.", "Espaços de tuplas."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"

@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "38",
-  "Enunciado": ["Analise as seguintes afirmações sobre subprogramas em linguagens de programação:", "  I.  Cada subprograma tem um único ponto de entrada.", " II.  O controle sempre retorna para o chamador quando a execução do subprograma termina.", "III.  A unidade chamadora é suspensa durante a execução do subprograma chamado.", "IV.   Uma chamada a um subprograma é a requisição explícita para que ele seja executado.", "Quais estão corretas?"],
+  "Enunciado": ["Analise as seguintes afirmações sobre subprogramas em linguagens de programação:", "I. Cada subprograma tem um único ponto de entrada.", "II. O controle sempre retorna para o chamador quando a execução do subprograma termina.", "III. A unidade chamadora é suspensa durante a execução do subprograma chamado.", "IV. Uma chamada a um subprograma é a requisição explícita para que ele seja executado.", "Quais estão corretas?"],
   "Alternativas": ["Apenas I e IV.", "Apenas II e III.", "Apenas I, II e III.", "Apenas II, III e IV.", "I, II, III e IV."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"
