@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "57",
-  "Enunciado": ["Considerando transformações geométricas em duas (2D) e três (3D) dimensões, analise as assertivas abaixo:", "   I. Coordenadas homogêneas são necessárias para representar a transformação de translação em uma matriz.", "  II. Se forem realizadas uma transformação de escala uniforme e uma de rotação em 2D, a ordem das transformações alterará o resultado final.", "III. Se forem realizadas duas transformações de rotação em 3D: uma de 90 graus em torno do eixo X, e outra de 90 graus em torno do eixo Z, o resultado final não será afetado pela ordem das transformações.", " Quais estão corretas?"],
+  "Enunciado": ["Considerando transformações geométricas em duas (2D) e três (3D) dimensões, analise as assertivas abaixo:", "I. Coordenadas homogêneas são necessárias para representar a transformação de translação em uma matriz.", "II. Se forem realizadas uma transformação de escala uniforme e uma de rotação em 2D, a ordem das transformações alterará o resultado final.", "III. Se forem realizadas duas transformações de rotação em 3D: uma de 90 graus em torno do eixo X, e outra de 90 graus em torno do eixo Z, o resultado final não será afetado pela ordem das transformações.", " Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e III.", "Apenas II e III."],
   "Imagens": {},
   "Resposta": 0,
-  "Componente": "Tecnologia da Computação",
+  "Componente": "Tecnologias de Computação",
   "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }
