@@ -1,7 +1,7 @@
 {
   "Ano": "2016",
   "Número": "62",
-  "Enunciado": "Uma falha por omissão ocorre quando um processo",
+  "Enunciado": ["Uma falha por omissão ocorre quando um processo"],
   "Alternativas": ["não responde a requisições que chegam.", "simplesmente para prematuramente.", "responde muito cedo a uma requisição.", "responde a uma requisição que chega de modo errado.", "responde muito tarde a uma requisição."],
   "Imagens": {},
   "Resposta": 0,
