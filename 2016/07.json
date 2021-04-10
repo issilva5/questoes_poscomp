@@ -5,6 +5,6 @@
   "Alternativas": ["$$x^{2}=4y+4$$", "$$\\frac{x^{2}}{25}+\\frac{y^{2}}{16}=1$$", "$$\\frac{x^{2}}{25}-\\frac{y^{2}}{16}=1$$", "$$\\frac{x^{2}}{16}+\\frac{y^{2}}{25}=1$$", "$$\\frac{x^{2}}{16}-\\frac{y^{2}}{25}=1$$"],
   "Imagens": ["2016/images/img-07-01"],
   "Resposta": 2,
-  "Componente": "Matemática",
-  "Subarea": "Matemática"
+  "Componente": "Tecnologias de Computação",
+  "Subarea": "Tecnologias de Computação"
 }

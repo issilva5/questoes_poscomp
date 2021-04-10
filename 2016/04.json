@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "04",
-  "Enunciado": "O ângulo entre os vetores $$\\vec{u}$$ = (2,2,0) e $$\\vec{v}$$ = (0,3, −3) é:",
+  "Enunciado": ["O ângulo entre os vetores $$\\vec{u}$$ = (2,2,0) e $$\\vec{v}$$ = (0,3, −3) é:"],
   "Alternativas": ["0°", "30°", "45°", "60°", "90°"],
   "Imagens": {},
   "Resposta": 3,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "MATEMáTICA"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }
