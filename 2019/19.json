@@ -1,9 +1,11 @@
 {
   "Ano": "2019",
   "Número": "19",
-  "Enunciado": ["De quantas maneiras diferentes é possível formar uma equipe de ginástica olímpica", "com precisamente 3 ginastas mulheres e 4 ginastas homens, escolhidos a partir de uma delegação", "com 15 pessoas, das quais 8 são homens e 7 são mulheres?"],
+  "Enunciado": ["De quantas maneiras diferentes é possível formar uma equipe de ginástica olímpica", 
+    "com precisamente 3 ginastas mulheres e 4 ginastas homens, escolhidos a partir de uma delegação", 
+    "com 15 pessoas, das quais 8 são homens e 7 são mulheres?"],
   "Alternativas": ["91.", "105.", "1.960.", "2.450.", "5.460.\n"],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Matemática",
   "Subarea": "Análise Combinatória"
