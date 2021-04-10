@@ -5,6 +5,6 @@
   "Alternativas": ["Suporta os modos de raciocínio que são exatos ao invés de aproximados.", "Baseia-se na teoria clássica dos conjuntos que faz uso de uma condição bivalente de pertinência.", "Faz uso de conjuntos difusos aos quais os elementos têm graus de pertinência.", "Não admite tratar valores incertos que podem estar entre presentes em mais de um conjunto.", "Admite somente forma de lógica ternária."],
   "Imagens": {},
   "Resposta": 2,
-  "Componente": "Tecnologia da Computação",
+  "Componente": "Tecnologias de Computação",
   "Subarea": "TECNOLOGIA DE COMPUTAçãO"
 }
