@@ -2,8 +2,8 @@
   "Ano": "2019",
   "Número": "20",
   "Enunciado": ["Um avião tem três computadores idênticos, e utiliza-se apenas um para operá-lo, os", "dois restantes são de reposição que podem se ativar caso o sistema principal falhe. Durante uma hora", "de operação, a probabilidade de falha do computador principal (ou de qualquer sistema de reposição", "ativado) é de 0,0005. Supondo que cada hora representa um teste independente, qual é o tempo", "médio para que ocorram falhas nos três computadores?"],
-  "Alternativas": ["200 horas.", "1.000 horas.", "2.000 horas.", "3.000 horas.", "6.000 horas.\n                                     FUNDAMENTOS DA COMPUTAÇÃO\n"],
-  "Imagens": {},
+  "Alternativas": ["200 horas.", "1.000 horas.", "2.000 horas.", "3.000 horas.", "6.000 horas."],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "Probabilidade E Estatística"
