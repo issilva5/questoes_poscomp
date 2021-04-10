@@ -5,6 +5,6 @@
   "Alternativas": ["Não é possível ocorrer deadlock entre os três processos.", "É possível ocorrer deadlock entre P1 e P2.", "É possível ocorrer deadlock entre P2 e P3.", "É possível ocorrer deadlock entre P1 e P3.", "É possível ocorrer deadlock com uma espera circular entre P1, P2 e P3."],
   "Imagens": {},
   "Resposta": 0,
-  "Componente": "Fundamentos de Computação",
+  "Componente": "Fundamentos da Computação",
   "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
 }
