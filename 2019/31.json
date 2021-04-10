@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "31",
-  "Enunciado": ["De acordo com a Teoria de Sistema de Tipos, classifique a função a seguir:", "int soma(int x,int y) {", "     return x+y;", "}"],
-  "Alternativas": ["Função   Somadora.", "Função   Polimórfica.", "Função   Monomórfica.", "Função   Sobrecarregada.", "Função   Abstrata.\n"],
-  "Imagens": {},
+  "Enunciado": ["De acordo com a Teoria de Sistema de Tipos, classifique a função a seguir:"],
+  "Alternativas": ["Função Somadora.", "Função Polimórfica.", "Função Monomórfica.", "Função Sobrecarregada.", "Função Abstrata."],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Linguagens de Programação"
