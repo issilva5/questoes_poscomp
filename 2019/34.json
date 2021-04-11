@@ -1,7 +1,11 @@
 {
   "Ano": "2019",
   "Número": "34",
-  "Enunciado": ["Suponha que existem registros lógicos que agregam vários campos (atributos) e que", "se deseja encontrar registros com base em algum campo de pesquisa, fornecendo algum valor", "(chave). Considerando estruturas de dados que tornem essa busca eficiente, analise as assertivas", "abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) Uma estrutura baseada em hash é bastante eficiente para pesquisas baseadas em chave, pois", "     permite encontrar o(s) registro(s) correspondente(s) à chave em, no máximo, um acesso à", "     estrutura.", "( ) As árvores digitais de pesquisa não tratam as chaves como elementos indivisíveis e, por isso, são", "     adequadas em casos em que há interesse em fazer buscas sobre parte do valor da chave (ex.:", "     prefixo).", "( ) Árvores binárias de pesquisa, nas quais os nodos correspondem às chaves, sempre permitem uma", "     busca baseada em chave mais eficiente quando comparada às listas ordenadas pelas chaves.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Enunciado": ["Suponha que existem registros lógicos que agregam vários campos (atributos) e que se deseja encontrar registros com base em algum campo de pesquisa, fornecendo algum valor (chave). Considerando estruturas de dados que tornem essa busca eficiente, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.",
+     "( ) Uma estrutura baseada em hash é bastante eficiente para pesquisas baseadas em chave, pois permite encontrar o(s) registro(s) correspondente(s) à chave em, no máximo, um acesso à estrutura.", 
+     "( ) As árvores digitais de pesquisa não tratam as chaves como elementos indivisíveis e, por isso, são adequadas em casos em que há interesse em fazer buscas sobre parte do valor da chave (ex.: prefixo).", 
+     "( ) Árvores binárias de pesquisa, nas quais os nodos correspondem às chaves, sempre permitem uma busca baseada em chave mais eficiente quando comparada às listas ordenadas pelas chaves.", 
+     "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["V – F – V.", "F – V – F.", "F – F – F.", "F – V – V.", "V – V – F."],
   "Imagens": [],
   "Resposta": 1,
