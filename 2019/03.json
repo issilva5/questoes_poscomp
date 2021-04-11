@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "03",
-  "Enunciado": ["Encontre a equação da reta s, que passa pelo ponto A(3, 4) e que é perpendicular à", "reta r: x + y"],
-  "Alternativas": ["r: 5x – 2y + 2 = 0", "r: x+y+4=0", "r: 2x + y = 0", "r: x–y+1=0", "r: x – 3y + 2 = 0\n"],
-  "Imagens": {},
+  "Enunciado": ["Encontre a equação da reta s, que passa pelo ponto A(3, 4) e que é perpendicular à reta r: x + y - 5 = 0."],
+  "Alternativas": ["r: 5x – 2y + 2 = 0", "r: x+y+4=0", "r: 2x + y = 0", "r: x–y+1=0", "r: x – 3y + 2 = 0"],
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Geometria Analítica"

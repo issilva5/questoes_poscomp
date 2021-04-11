@@ -1,9 +1,13 @@
 {
   "Ano": "2019",
   "Número": "29",
-  "Enunciado": ["Em um sistema de arquivos, é necessário gerenciar blocos de discos que estão livres,", "para que possam ser alocados a arquivos e/ou diretórios de que necessitem. Analise as técnicas", "abaixo:", "  I. Vetor de bits, no qual cada bloco é representado por um bit.", " II. Lista encadeada, na qual um ponteiro mantido em memória corresponde ao endereço do primeiro", "     bloco livre, e cada bloco contém um apontador para o próximo bloco livre.", "III. Lista de contadores, em que cada elemento da lista contém um endereço de bloco e um contador", "     representando o número de blocos contíguos a este que estão livres.", "Quais implementam a gerência de espaço livre em disco?"],
-  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III.\n"],
-  "Imagens": {},
+  "Enunciado": ["Em um sistema de arquivos, é necessário gerenciar blocos de discos que estão livres, para que possam ser alocados a arquivos e/ou diretórios de que necessitem. Analise as técnicas abaixo:", 
+    "  I. Vetor de bits, no qual cada bloco é representado por um bit.", 
+    " II. Lista encadeada, na qual um ponteiro mantido em memória corresponde ao endereço do primeiro bloco livre, e cada bloco contém um apontador para o próximo bloco livre.", 
+    "III. Lista de contadores, em que cada elemento da lista contém um endereço de bloco e um contador representando o número de blocos contíguos a este que estão livres.", 
+    "Quais implementam a gerência de espaço livre em disco?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III."],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Organização de Arquivos E Dados"

@@ -1,9 +1,13 @@
 {
   "Ano": "2019",
   "Número": "15",
-  "Enunciado": "A expressão lógica     ~𝑞 → ~𝑝 é equivalente a:",
-  "Alternativas": ["~ 𝑝 ∧ ~𝑞", "~𝑝 ∨ 𝑞", "~𝑝 → 𝑞", "𝑝 → ~ 𝑞", "𝑞 → 𝑝\n"],
-  "Imagens": {},
+  "Enunciado": "A expressão lógica $$\\sim q \\rightarrow  \\sim p$$ é equivalente a:",
+  "Alternativas": ["$$\\sim p \\wedge \\sim q$$", 
+					"$$\\sim p \\vee  q$$", 
+					"$$\\sim p \\rightarrow  q$$", 
+					"$$p \\rightarrow  \\sim q$$", 
+					"$$q \\rightarrow  p$$"],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Lógica Matemática"

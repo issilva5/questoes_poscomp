@@ -1,9 +1,9 @@
 {
   "Ano": "2019",
   "Número": "05",
-  "Enunciado": ["Calcule o    𝑙𝑖𝑚           :", "                          𝑥→2 6𝑥²−3𝑥³"],
-  "Alternativas": ["–2", "∞", "0", "1", "–1"],
-  "Imagens": {},
+  "Enunciado": ["Calcule o $$\\lim_{x\\to 2} \\frac{x^3-8}{6x^2-3x^3}$$"],
+  "Alternativas": ["–2", "$$\\infty $$", "0", "1", "–1"],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos de Computação",
   "Subarea": "Calculo Diferencial E Integral"
