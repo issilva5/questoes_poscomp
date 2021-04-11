@@ -2,7 +2,7 @@
   "Ano": "2019",
   "Número": "05",
   "Enunciado": ["Calcule o $$\\lim_{x\\to 2} \\frac{x^3-8}{6x^2-3x^3}$$"],
-  "Alternativas": ["–2", "∞", "0", "1", "–1"],
+  "Alternativas": ["–2", "$$\\infty $$", "0", "1", "–1"],
   "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos de Computação",
