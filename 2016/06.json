@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "06",
-  "Enunciado": ["Um dos métodos iterativos para determinar as raízes de uma função é o Método de", "Newton-Raphson, descrito por:", "Portanto, para determinar as raízes da função   𝒚 = 𝒇(𝒙) = 𝒙𝟑 − 𝒔𝒆𝒏(𝒙) , temos a descrição da", "expressão algébrica na alternativa:", "                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))"],
-  "Alternativas": ["𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 −𝑐𝑜𝑠(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 +𝑐𝑜𝑠(𝑥𝑛 ))\n                   (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1  = 𝑥𝑛 −\n                   (𝑥𝑛 2 −𝑐𝑜𝑠(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1  = 𝑥𝑛 −\n                   (3𝑥𝑛 2 −𝑠𝑒𝑛(𝑥𝑛 ))\n                    (𝑥𝑛 3 −𝑠𝑒𝑛(𝑥𝑛 ))", "𝑥𝑛+1 = 𝑥𝑛 −\n                   (6𝑥𝑛 3 −𝑐𝑜𝑠(𝑥𝑛 ))"],
-  "Imagens": {},
+  "Enunciado": ["Um dos métodos iterativos para determinar as raízes de uma função é o Método de Newton-Raphson, descrito pela equação abaixo. Portanto, para determinar as raízes da função $$y =f(x)=x^{3}-sen(x)$$, temos a descrição da expressão algébrica na alternativa:"],
+  "Alternativas": ["$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}-cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}+cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(x_{n}^{2}-cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}-sen(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(6x_{n}^{3}-cos(x_{n}))}$$"],
+  "Imagens": ["2016/images/img-06-01"],
   "Resposta": 0,
-  "Componente": "Tecnologia da Computação",
-  "Subarea": "MATEMáTICA"
+  "Componente": "Tecnologias de Computação",
+  "Subarea": "Tecnologias de Computação"
 }

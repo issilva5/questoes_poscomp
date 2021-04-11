@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "27",
-  "Enunciado": "Assinale a alternativa correta sobre o Paradigma de Programação Imperativo.",
-  "Alternativas": ["É baseado na arquitetura de Von Neumann.", "Nos métodos e nos atributos, também são definidas as formas de relacionamento com objetos.", "É baseada na arquitetura MVC (Model-View-Controller).", "Não existem procedimentos ou funções.", "Fácil legibilidade e manutenibilidade.\n"],
+  "Enunciado": ["Assinale a alternativa correta sobre o Paradigma de Programação Imperativo."],
+  "Alternativas": ["É baseado na arquitetura de Von Neumann.", "Nos métodos e nos atributos, também são definidas as formas de relacionamento com objetos.", "É baseada na arquitetura MVC (Model-View-Controller).", "Não existem procedimentos ou funções.", "Fácil legibilidade e manutenibilidade."],
   "Imagens": {},
   "Resposta": 0,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

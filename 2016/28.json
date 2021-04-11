@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "28",
-  "Enunciado": "Assinale a alternativa que apresenta o nome de uma linguagem de tipagem dinâmica.",
+  "Enunciado": ["Assinale a alternativa que apresenta o nome de uma linguagem de tipagem dinâmica."],
   "Alternativas": ["Java.", "C.", "Python.", "Pascal.", "C#."],
   "Imagens": {},
   "Resposta": 2,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

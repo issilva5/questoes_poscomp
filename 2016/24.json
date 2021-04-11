@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "24",
-  "Enunciado": ["A operação de destruição de uma árvore requer um tipo de percurso em que a", "liberação de um nó é realizada apenas após todos os seus descendentes terem sido também liberados.", "Segundo essa descrição, a operação de destruição de uma árvore deve ser implementada utilizando", "o percurso"],
+  "Enunciado": ["A operação de destruição de uma árvore requer um tipo de percurso em que a liberação de um nó é realizada apenas após todos os seus descendentes terem sido também liberados. Segundo essa descrição, a operação de destruição de uma árvore deve ser implementada utilizando o percurso"],
   "Alternativas": ["em ordem.", "pré-ordem.", "central.", "simétrico.", "pós-ordem."],
   "Imagens": {},
   "Resposta": 4,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }
