@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "33",
-  "Enunciado": ["Relacione a Coluna 1 à Coluna 2, associando as definições dos comandos sobre laços", "em linguagens de programação.", "Coluna 1", "1. break.", "2. continue.", "3. loop.", "4. while.", "Coluna 2", "( ) Executa uma instrução ou um bloco de instruções enquanto uma determinada condição for", "     verdadeira.", "( ) Termina a execução de um laço, continuando o programa na instrução imediatamente após o laço.", "( ) Faz com que uma iteração seja terminada, passando automaticamente à próxima iteração do laço.", "( ) Apresenta uma condição de teste verdadeira que nunca termina o laço.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
-  "Alternativas": ["1 – 2  – 3 – 4.", "4 – 3  – 2 – 1.", "3 – 1  – 4 – 2.", "4 – 1  – 2 – 3.", "2 – 4  – 3 – 1."],
-  "Imagens": {},
+  "Enunciado": ["Relacione a Coluna 1 à Coluna 2, associando as definições dos comandos sobre laços em linguagens de programação.", "Coluna 1", "1. break.", "2. continue.", "3. loop.", "4. while.", "Coluna 2", "( ) Executa uma instrução ou um bloco de instruções enquanto uma determinada condição for verdadeira.", "( ) Termina a execução de um laço, continuando o programa na instrução imediatamente após o laço.", "( ) Faz com que uma iteração seja terminada, passando automaticamente à próxima iteração do laço.", "( ) Apresenta uma condição de teste verdadeira que nunca termina o laço.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["1 - 2 - 3 - 4.", "4 - 3 - 2 - 1.", "3 - 1 - 4 - 2.", "4 - 1 - 2 - 3.", "2 - 4 - 3 - 1."],
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

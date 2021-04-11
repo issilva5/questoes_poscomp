@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "06",
-  "Enunciado": ["O limite de       √         quando 𝑛 → ∞ é:", "                                 𝑛7 −2"],
-  "Alternativas": ["1", "0", "∞", "2/7", "1/2\n                                                                           3𝑥1 + 2𝑥2 + 5𝑥3   =1\n                                                                           4𝑥1 + 3𝑥2 + 6𝑥3   =2\n"],
-  "Imagens": {},
+  "Enunciado": ["O limite de $$\\sqrt[n]{\\frac{n^{2}+1}{n^{7}-2}}$$ quando $$n\\rightarrow \\infty$$ é:"],
+  "Alternativas": ["1", "0", "$$\\infty$$", "2/7", "1/2"],
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Matemática",
   "Subarea": "Matemática"

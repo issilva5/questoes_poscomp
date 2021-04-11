@@ -1,9 +1,14 @@
 {
   "Ano": "2017",
   "Número": "35",
-  "Enunciado": ["Analise as seguintes assertivas sobre organização primária de arquivos, assinalando", "V, se verdadeiras, ou F, se falsas.", "( ) Em arquivos desordenados (heap), as operações de inserção são bastante eficientes, porque novos", "     registros são acrescentados ao final do arquivo.", "( ) Em arquivos ordenados, a busca por registros baseados na chave de ordenação é bastante", "     eficiente, desde que seja comparação por igualdade de valor.", "( ) Uma técnica para tornar o desempenho de operações de inserção mais eficientes em arquivos", "     ordenados é utilizar um arquivo desordenado temporário, sendo que o arquivo ordenado passa a", "     ser chamado arquivo principal (ou mestre).", "( ) O desempenho da pesquisa baseada em um campo de arquivos desordenados pode ser melhorado", "     através de pesquisa binária.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é"],
-  "Alternativas": ["V – V – F – V.", "V – F – F – F.", "F – F – V – F.", "F – V – F – V.", "V – F – V – F.\n"],
-  "Imagens": {},
+  "Enunciado": ["Analise as seguintes assertivas sobre organização primária de arquivos, assinalando V, se verdadeiras, ou F, se falsas.", 
+    "( ) Em arquivos desordenados (heap), as operações de inserção são bastante eficientes, porque novos registros são acrescentados ao final do arquivo.", 
+    "( ) Em arquivos ordenados, a busca por registros baseados na chave de ordenação é bastante eficiente, desde que seja comparação por igualdade de valor.", 
+    "( ) Uma técnica para tornar o desempenho de operações de inserção mais eficientes em arquivos ordenados é utilizar um arquivo desordenado temporário, sendo que o arquivo ordenado passa a ser chamado arquivo principal (ou mestre).", 
+    "( ) O desempenho da pesquisa baseada em um campo de arquivos desordenados pode ser melhorado através de pesquisa binária.", 
+    "A ordem correta de preenchimento dos parênteses, de cima para baixo, é"],
+  "Alternativas": ["V - V - F - V.", "V - F - F - F.", "F - F - V - F.", "F - V - F - V.", "V - F - V - F."],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

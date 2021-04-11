@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "26",
-  "Enunciado": ["O caminhamento pré-fixado à esquerda para uma Árvore Binária de Pesquisa (ABP)", "é 44, 30, 12, 26, 36, 33, 92, 64, 46, 98.", "O caminhamento pré-fixado à direta para a mesma árvore é:"],
-  "Alternativas": ["26,  12, 33,  36, 30, 46, 64, 98, 92, 44", "44,  92, 98,  64, 46, 30, 36, 33, 12, 26", "12,  26, 30,  33, 36, 44, 46, 64, 92, 98", "98,  46, 64,  92, 33, 36, 26, 12, 30, 44", "98,  92, 64,  46, 44, 36, 33, 30, 26, 12\n"],
-  "Imagens": {},
+  "Enunciado": ["O caminhamento pré-fixado à esquerda para uma Árvore Binária de Pesquisa (ABP) é 44, 30, 12, 26, 36, 33, 92, 64, 46, 98.", "O caminhamento pré-fixado à direta para a mesma árvore é:"],
+  "Alternativas": ["26,  12, 33,  36, 30, 46, 64, 98, 92, 44", "44,  92, 98,  64, 46, 30, 36, 33, 12, 26", "12,  26, 30,  33, 36, 44, 46, 64, 92, 98", "98,  46, 64,  92, 33, 36, 26, 12, 30, 44", "98,  92, 64,  46, 44, 36, 33, 30, 26, 12"],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

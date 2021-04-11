@@ -1,9 +1,10 @@
 {
   "Ano": "2017",
   "Número": "29",
-  "Enunciado": ["Analise as assertivas a seguir sobre compressão de dados:", "  I. A técnica de codificação corrida (do inglês RLE"],
-  "Alternativas": ["Apenas    I.", "Apenas    II.", "Apenas    III.", "Apenas    II e IV.", "Apenas    III e IV.\n"],
-  "Imagens": {},
+  "Enunciado": ["Analise as assertivas a seguir sobre compressão de dados:", 
+    "I. A técnica de codificação corrida (do inglês RLE – run-length encoding) é adequada quando existem longas sequências de bits repetidos, pois utiliza contadores representando sequências alternadas de 0s e de 1s.", "II. A técnica de compressão de Huffman é baseada em códigos de tamanho variável, tal que os códigos de menor comprimento são atribuídos aos caracteres mais frequentes, e os de maior comprimento aos de menor frequência.", "III. Quando o método LZW (Lempel–Ziv–Welch) é utilizado, a mensagem resultante da compressão inclui também uma representação dos códigos utilizados para a compressão.", "IV. Não existe um algoritmo de compressão de dados universal, isto é, que transforme qualquer sequência de bits (bitstream) de entrada em uma outra sequência de bits menor.", "Quais estão INCORRETAS?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas II e IV.", "Apenas III e IV."],
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

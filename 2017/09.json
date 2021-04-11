@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "09",
-  "Enunciado": "Aplicando-se a Lei de Morgan, qual é o complemento da função 𝑓 = (𝑥 + 𝑦̅)(𝑦𝑧 + 𝑥𝑦̅)",
-  "Alternativas": ["𝑓 ̅ = 𝑥̅ + 𝑦𝑧̅", "𝑓 ̅ = 𝑥̅ + 𝑥̅ 𝑧 + 𝑦", "𝑓 ̅ = 𝑥̅ 𝑧̅ + 𝑦", "𝑓 ̅ = 𝑥̅ 𝑦̅ + 𝑦𝑧", "𝑓 ̅ = 𝑥̅ 𝑦̅ + 𝑦̅𝑧\n                                                                                           𝑥𝑒 𝑢 + 𝑦𝑢 = 1\n"],
-  "Imagens": {},
+  "Enunciado": ["Aplicando-se a Lei de Morgan, qual é o complemento da função $$f = (x + \\bar{y})(yz+x\\bar{y})$$"],
+  "Alternativas": ["$$\\bar{f} = \\bar{x} + y\\bar{z}$$", "$$\\bar{f} = \\bar{x} + \\bar{x}z + y$$", "$$\\bar{f} = \\bar{x}\\bar{z} + y$$", "$$\\bar{f} = \\bar{x}\\bar{y} + yz$$", "$$\\bar{f} = \\bar{x}\\bar{y} + \\bar{y}z$$"],
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Matemática",
   "Subarea": "Matemática"

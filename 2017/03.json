@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "03",
-  "Enunciado": ["Em um espaço R3, as retas:         𝑟≡   4  =    −2 =    3    e", "𝑠 ≡ (𝑥, 𝑦, 𝑧) = (1,1, −2) + [(1, −1,2)] :"],
-  "Alternativas": ["São ortogonais.", "Não são ortogonais e são contidas em um plano.", "Não têm pontos em comum.", "São paralelas.", "Não são retas.\n"],
-  "Imagens": {},
+  "Enunciado": ["Em um espaço $$R^{3}$$, as retas: $$r \\equiv \\frac{x+5}{4} = \\frac{y-3}{-2} = \\frac{z+4}{3}$$ e $$s \\equiv (x,y,z) = (1,1,-2) + [(1,-1,2)]$$ :"],
+  "Alternativas": ["São ortogonais.", "Não são ortogonais e são contidas em um plano.", "Não têm pontos em comum.", "São paralelas.", "Não são retas."],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Matemática",
   "Subarea": "Matemática"
