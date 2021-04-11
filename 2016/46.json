@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "46",
-  "Enunciado": ["Em um sistema computacional multiprocessado, onde o sistema operacional realiza", "escalonamento de tarefas do tipo preemptivo, três processos (P1, P2 e P3) compartilham recursos", "(R1, R2 e R3). Os processos P1 e P2 concorrem entre si ao acesso do recurso R1, enquanto P2 e P3", "concorrem entre si ao acesso dos recursos R2 e R3. Os recursos R1 e R3 são preemptíveis, ou seja,", "podem sofrer preempção; R2 é um recurso não preemptível. Todos os três processos usam o mesmo", "mecanismo de exclusão mútua para garantir acesso exclusivo em suas seções críticas. Com base", "nesse cenário, é correto afirmar que:"],
-  "Alternativas": ["Não é possível ocorrer deadlock entre os três processos.", "É possível ocorrer deadlock entre P1 e P2.", "É possível ocorrer deadlock entre P2 e P3.", "É possível ocorrer deadlock entre P1 e P3.", "É possível ocorrer deadlock com uma espera circular entre P1, P2 e P3.\n"],
+  "Enunciado": ["Em um sistema computacional multiprocessado, onde o sistema operacional realiza escalonamento de tarefas do tipo preemptivo, três processos (P1, P2 e P3) compartilham recursos (R1, R2 e R3). Os processos P1 e P2 concorrem entre si ao acesso do recurso R1, enquanto P2 e P3 concorrem entre si ao acesso dos recursos R2 e R3. Os recursos R1 e R3 são preemptíveis, ou seja, podem sofrer preempção; R2 é um recurso não preemptível. Todos os três processos usam o mesmo mecanismo de exclusão mútua para garantir acesso exclusivo em suas seções críticas. Com base nesse cenário, é correto afirmar que:"],
+  "Alternativas": ["Não é possível ocorrer deadlock entre os três processos.", "É possível ocorrer deadlock entre P1 e P2.", "É possível ocorrer deadlock entre P2 e P3.", "É possível ocorrer deadlock entre P1 e P3.", "É possível ocorrer deadlock com uma espera circular entre P1, P2 e P3."],
   "Imagens": {},
   "Resposta": 0,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

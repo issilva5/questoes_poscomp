@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "63",
-  "Enunciado": "Sobre a técnica de tradução dirigida por sintaxe, é correto afirmar que:",
-  "Alternativas": ["Uma definição dirigida por sintaxe é uma gramática livre de contexto acrescida de atributos e\n   regras. Os atributos são associados às produções, e as regras aos símbolos terminais e não\n   terminais da gramática.", "Uma definição dirigida por sintaxe é denominada definição S-atribuída quando nessa estão\n   envolvidos apenas atributos herdados.", "As regras semânticas só são aplicadas após a construção total da árvore sintática pelo parser do\n   compilador.", "Grafos de dependência são utilizados para determinar uma ordem de avaliação para as instâncias\n   dos atributos de uma árvore de derivação.", "Sendo “S” um símbolo da gramática presente em uma árvore de derivação, um atributo sintetizado\n   é computado através dos valores dos atributos dos nós irmãos ou do nó pai de “S”."],
+  "Enunciado": ["Sobre a técnica de tradução dirigida por sintaxe, é correto afirmar que:"],
+  "Alternativas": ["Uma definição dirigida por sintaxe é uma gramática livre de contexto acrescida de atributos e regras. Os atributos são associados às produções, e as regras aos símbolos terminais e não terminais da gramática.", "Uma definição dirigida por sintaxe é denominada definição S-atribuída quando nessa estão envolvidos apenas atributos herdados.", "As regras semânticas só são aplicadas após a construção total da árvore sintática pelo parser do compilador.", "Grafos de dependência são utilizados para determinar uma ordem de avaliação para as instâncias dos atributos de uma árvore de derivação.", "Sendo “S” um símbolo da gramática presente em uma árvore de derivação, um atributo sintetizado é computado através dos valores dos atributos dos nós irmãos ou do nó pai de “S”."],
   "Imagens": {},
   "Resposta": 3,
-  "Componente": "Tecnologia da Computação",
-  "Subarea": "TECNOLOGIA DE COMPUTAçãO"
+  "Componente": "Tecnologias de Computação",
+  "Subarea": "Tecnologias de Computação"
 }

@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "44",
-  "Enunciado": ["A representação em complemento de dois é uma representação binária de números", "com sinal a qual utiliza o bit mais significativo como bit de sinal, o que facilita o teste se um número", "inteiro é positivo ou negativo.", "De acordo com a regra da representação em complemento de dois, a conversão do número -32658", "corresponde ao número:"],
-  "Alternativas": ["1000000001010001.", "1001001001001001.", "1111111100100010.", "1011111100010001.", "1000000001101110.\n"],
+  "Enunciado": ["A representação em complemento de dois é uma representação binária de números com sinal a qual utiliza o bit mais significativo como bit de sinal, o que facilita o teste se um número inteiro é positivo ou negativo.", "De acordo com a regra da representação em complemento de dois, a conversão do número -32658 corresponde ao número:"],
+  "Alternativas": ["1000000001010001.", "1001001001001001.", "1111111100100010.", "1011111100010001.", "1000000001101110."],
   "Imagens": {},
   "Resposta": 4,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "FUNDAMENTOS DA COMPUTAçãO"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Fundamentos da Computação"
 }

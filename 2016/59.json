@@ -1,10 +1,10 @@
 {
   "Ano": "2016",
   "Número": "59",
-  "Enunciado": ["No contexto de processamento de imagens, a equalização de histograma tem por", " objetivo principal:"],
-  "Alternativas": ["Reconhecer os objetos presentes na imagem.", "Extrair as bordas presentes na imagem.", "Melhorar o contraste da imagem.", "Transformar a escala de cores da imagem.", "Eliminar ruídos na imagem.\n Execução: Fundatec                                                                               21\n                                         EXAME POSCOMP – 2016\n"],
+  "Enunciado": ["No contexto de processamento de imagens, a equalização de histograma tem por objetivo principal:"],
+  "Alternativas": ["Reconhecer os objetos presentes na imagem.", "Extrair as bordas presentes na imagem.", "Melhorar o contraste da imagem.", "Transformar a escala de cores da imagem.", "Eliminar ruídos na imagem."],
   "Imagens": {},
   "Resposta": 2,
-  "Componente": "Tecnologia da Computação",
-  "Subarea": "TECNOLOGIA DE COMPUTAçãO"
+  "Componente": "Tecnologias de Computação",
+  "Subarea": "Tecnologias de Computação"
 }
