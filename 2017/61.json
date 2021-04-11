@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "61",
-  "Enunciado": ["Sobre a transformada wavelet para processamento digital de imagens, é correto", "afirmar que:"],
-  "Alternativas": ["É  um algoritmo que produz classificação de objetos na imagem.", "É  uma técnica que permite o processamento da imagem em multirresolução.", "É  uma técnica capaz de extrair frequências da imagem sem a localização temporal das mesmas.", "É  uma técnica que permite a geração de imagens de maior resolução.", "É  um algoritmo capaz de compreender informações granulares em imagens digitais."],
-  "Imagens": {},
+  "Enunciado": ["Sobre a transformada wavelet para processamento digital de imagens, é correto afirmar que:"],
+  "Alternativas": ["É um algoritmo que produz classificação de objetos na imagem.", "É uma técnica que permite o processamento da imagem em multirresolução.", "É uma técnica capaz de extrair frequências da imagem sem a localização temporal das mesmas.", "É uma técnica que permite a geração de imagens de maior resolução.", "É um algoritmo capaz de compreender informações granulares em imagens digitais."],
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"

@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "50",
-  "Enunciado": ["Analise o código a seguir:", "                           …", "                           void thread ( void *ptr ){ while(1); }", "                           int main(){", "                             int i; pthread_t tid[10];", "                             for(i=0;i<10;i++)", "                              pthread_create (&tid[i], NULL, (void *) thread, NULL);", "                            getchar();", "                           }", "Ao executar esse programa, o processo criado possuirá quantos fluxos de execução (threads) no", "instante em que finalizar o laço for(;;)?"],
+  "Enunciado": ["Analise o código a seguir:", "Ao executar esse programa, o processo criado possuirá quantos fluxos de execução (threads) no instante em que finalizar o laço for(;;)?"],
   "Alternativas": ["Um.", "Dois.", "Nove.", "Dez.", "Onze."],
-  "Imagens": {},
+  "Imagens": ["2017/images/img-050-001"],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "67",
-  "Enunciado": ["Analise as seguintes afirmações sobre comunicação entre processos em sistemas", "distribuídos:", "  I. A essência da comunicação persistente é que uma mensagem apresentada para transmissão é", "     armazenada pelo sistema de comunicação pelo tempo que for necessário para entregá-la.", " II. Em comunicação transiente, nenhuma facilidade de armazenamento é oferecida de modo que o", "     receptor deve estar preparado para aceitar a mensagem quando ela for enviada.", "III. Em comunicação síncrona, o remetente tem permissão de continuar imediatamente após a", "     mensagem ter sido apresentada para transmissão, possivelmente antes de ela ter sido enviada.", "IV. Em comunicação assíncrona, o remetente é bloqueado no mínimo até que uma mensagem seja", "     recebida. Alternativamente, o remetente pode ser bloqueado até ocorrer a entrega da mensagem", "     ou, até mesmo, até que o receptor tenha respondido.", "Quais estão corretas?"],
-  "Alternativas": ["Apenas I e II.", "Apenas III e IV.", "Apenas I, II e III.", "Apenas II, III e IV.", "I, II, III e IV.\n"],
-  "Imagens": {},
+  "Enunciado": ["Analise as seguintes afirmações sobre comunicação entre processos em sistemas distribuídos:", "I. A essência da comunicação persistente é que uma mensagem apresentada para transmissão é armazenada pelo sistema de comunicação pelo tempo que for necessário para entregá-la.", "II. Em comunicação transiente, nenhuma facilidade de armazenamento é oferecida de modo que o receptor deve estar preparado para aceitar a mensagem quando ela for enviada.", "III. Em comunicação síncrona, o remetente tem permissão de continuar imediatamente após a mensagem ter sido apresentada para transmissão, possivelmente antes de ela ter sido enviada.", "IV. Em comunicação assíncrona, o remetente é bloqueado no mínimo até que uma mensagem seja recebida. Alternativamente, o remetente pode ser bloqueado até ocorrer a entrega da mensagem ou, até mesmo, até que o receptor tenha respondido.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I e II.", "Apenas III e IV.", "Apenas I, II e III.", "Apenas II, III e IV.", "I, II, III e IV."],
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"

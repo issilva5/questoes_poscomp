@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "54",
-  "Enunciado": ["Em Rede de Computadores, qual entidade indica o processo que receberá o pacote", "de entrada?"],
-  "Alternativas": ["Porta.", "Endereço IP.", "Endereço Ethernet.", "Identificador do processo.", "Endereço URL.\n"],
-  "Imagens": {},
+  "Enunciado": ["Em Rede de Computadores, qual entidade indica o processo que receberá o pacote de entrada?"],
+  "Alternativas": ["Porta.", "Endereço IP.", "Endereço Ethernet.", "Identificador do processo.", "Endereço URL."],
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"

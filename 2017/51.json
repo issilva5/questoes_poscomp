@@ -1,9 +1,9 @@
 {
   "Ano": "2017",
   "Número": "51",
-  "Enunciado": ["Qualquer relação r(R), pertinente ao esquema de relação R(A1, A2, ..., An), é um", "subconjunto do produto cartesiano dos domínios dos atributos que definem R. Em relação às", "características de relações, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) A ordenação das tuplas de uma relação é indiferente, visto que uma relação é definida como um", "     conjunto de tuplas.", "( ) Uma tupla é uma lista ordenada de valores, então há uma posição relativa pré-definida para cada", "     valor de atributo na tupla (por exemplo, o valor “13/02/2000”, pertinente ao atributo “data de", "     nascimento”, é o terceiro valor na lista de valores de uma tupla).", "( ) Os atributos da chave primária são, obrigatoriamente, os primeiros atributos na lista de atributos", "     definida no esquema de relação.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
-  "Alternativas": ["V – F – F.", "F – V – F.", "V – F – V.", "F – F – V.", "V – V – F.\n"],
-  "Imagens": {},
+  "Enunciado": ["Qualquer relação r(R), pertinente ao esquema de relação R(A1, A2, ..., An), é um subconjunto do produto cartesiano dos domínios dos atributos que definem R. Em relação às características de relações, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) A ordenação das tuplas de uma relação é indiferente, visto que uma relação é definida como um conjunto de tuplas.", "( ) Uma tupla é uma lista ordenada de valores, então há uma posição relativa pré-definida para cada valor de atributo na tupla (por exemplo, o valor \"13/02/2000\", pertinente ao atributo \"data de nascimento\", é o terceiro valor na lista de valores de uma tupla).", "( ) Os atributos da chave primária são, obrigatoriamente, os primeiros atributos na lista de atributos definida no esquema de relação.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["V – F – F.", "F – V – F.", "V – F – V.", "F – F – V.", "V – V – F."],
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Tecnologia da Computação",
   "Subarea": "Tecnologia da Computação"
