@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "61",
+  "Numero": "61",
   "Enunciado": ["A quantização de imagens pode ser entendida como um processo de:"],
   "Alternativas": ["Conversão de cada amostra em uma observação discreta.", "Equalização da distribuição de cores.", "Correção da iluminação.", "Discretização dos valores de brilho.", "Mapeamento dos canais da imagem."],
   "Imagens": [],

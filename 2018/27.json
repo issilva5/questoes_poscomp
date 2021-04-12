@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "27",
+  "Numero": "27",
   "Enunciado": ["Considere o seguinte código em Linguagem C:", "Assinale a alternativa que corresponde à saída impressa na tela."],
   "Alternativas": [
     "$$\\begin{matrix}7 & 9 & -1 & 7 & -1 & 9\\\\ 6 & 10 & -1 & 7 & 0 & 9\\end{matrix}$$",

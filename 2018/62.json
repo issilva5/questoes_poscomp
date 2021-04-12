@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "62",
+  "Numero": "62",
   "Enunciado": ["Relacione a Coluna 1 à Coluna 2, associando os diferentes tipos de falha com as suas descrições.", "Coluna 1", "1. Por queda.", "2. Por omissão.", "3. De transição de estado.", "4. Arbitrária.", "Coluna 2", "( ) O servidor não consegue responder a requisições que chegam.", "( ) O servidor se desvia do fluxo de controle correto.", "( ) O servidor produz saídas que nunca deveriam ter produzido, mas não podem ser detectadas como incorretas.", "( ) O servidor para de funcionar, mas estava funcionando corretamente até parar.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["1 – 2 – 3 – 4.", "4 – 1 – 2 – 3.", "3 – 4 – 1 – 2.", "2 – 3 – 4 – 1.", "4 – 2 – 1 – 3."],
   "Imagens": [],

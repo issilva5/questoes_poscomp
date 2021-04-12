@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "29",
+  "Numero": "29",
   "Enunciado": [
     "Um algoritmo de compressão toma como entrada uma sequência de bits (bitstream), e a converte em outro bitstream, representando a entrada comprimida. Analise as assertivas abaixo sobre a técnica de compressão de Huffman:",
     "I. É mais eficiente, para compressão de arquivos texto, do que a técnica de codificação corrida (do inglês RLE - run-length encoding).",

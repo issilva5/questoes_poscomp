@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "08",
+  "Numero": "08",
   "Enunciado": ["O ponto P(3, 45°, 60°) está expresso em coordenadas esféricas. Encontre suas coordenadas cartesianas:", "$$Ax=r.sen(\\theta).cos(\\phi)$$", "$$Ay=r.sen(\theta).sen(\\phi)$$", "$$Az=r.cos(\\theta)$$"],
   "Alternativas": [
     "P\\left(\\frac{3\\sqrt{2}}{4},\\frac{3\\sqrt{6}}{4},\\frac{3\\sqrt{2}}{2} \\right)",

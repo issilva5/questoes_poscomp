@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "50",
+  "Numero": "50",
   "Enunciado": ["Qual o número total de processos criados com a execução do programa a seguir?", "Considere que todas as operações executadas serão realizadas com sucesso."],
   "Alternativas": ["Sete.", "Oito.", "Trinta e dois.", "Trinta e três.", "Sessenta e quatro."],
   "Imagens": ["2018/images/img-50-01"],

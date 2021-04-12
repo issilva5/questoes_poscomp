@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "06",
+  "Numero": "06",
   "Enunciado": ["Determine os valores de $$a$$ e $$b$$ para que a função abaixo seja contínua em todo o seu domínio:", "$$f(x)=\\left\\{\\begin{matrix} -3.sen(x) & se & x<-\\frac{\\pi}{2}\\\\ a.sen(x)+b & se & -\\frac{\\pi}{2}\\leq x \\leq \\frac{\\pi}{2}\\\\ cos(x) & se & x > \\frac{\\pi}{2}\\end{matrix}\\right.$$"],
   "Alternativas": [
     "$$a=\\frac{3}{2};b=\\frac{3}{2}$$", 

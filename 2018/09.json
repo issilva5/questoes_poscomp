@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "09",
+  "Numero": "09",
   "Enunciado": ["Simplifique por Karnaugh a função cuja expressão, em termos canônicos, é $$f(x, y, z) = {\\sum}_{3}m(2,5,6)$$:"],
   "Alternativas": [
     "$$f(x,y,z)=xyz+x\\bar{y}z+\\bar{x}\\bar{y}z$$",

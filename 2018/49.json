@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "49",
+  "Numero": "49",
   "Enunciado": ["Dado um disco com rotação de 2.400 RPM, com 120 cilindros e 6 trilhas por cilindro, cada trilha possui 16 setores e cada setor tem 512 bytes. Considerando que o tempo médio de seek é de 60 ms, o tempo de seek entre cilindros adjacente s é de 10 ms e o tempo de transferência é de 15 ms, quanto tempo será necessário para ler 10 setores?"],
   "Alternativas": ["0,0485 segundos.", "0,0685 segundos.", "0,0885 segundos.", "0,1285 segundos.", "0,1485 segundos."],
   "Imagens": [],

@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "48",
+  "Numero": "48",
   "Enunciado": ["Um computador tem uma cache de dois níveis. Suponha que 80% das referências à informação sejam atendidas pela cache de primeiro nível, 15% pela cache de segundo nível e 5% pela memória principal. Os tempos de acesso são 5 ns, 15 ns e 60 ns, respectivamente. Qual é o tempo médio de acesso do sistema?"],
   "Alternativas": ["09 ns.", "11 ns.", "15 ns.", "21 ns.", "25 ns."],
   "Imagens": [],

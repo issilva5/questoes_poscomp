@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "12",
+  "Numero": "12",
   "Enunciado": ["A proposição $$(p \\leftrightarrow q) \\rightarrow (p \\rightarrow q)$$ é equivalente a:"],
   "Alternativas": [
     "Falso",

@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "15",
+  "Numero": "15",
   "Enunciado": ["Considere as premissas a seguir verdadeiras:", "Premissa  1: Se hoje é sábado, então Heide vai à praia e Luiz vai assistir ao jogo de futebol.", "Premissa  2: Se Heide vai à praia ou Marcos vai trabalhar, então Alessandra faz o churrasco.", "Premissa  3: Hoje, Luiz foi assistir ao jogo de futebol.", "Premissa  4: Hoje, Alessandra não fez o churrasco.", "É correto concluir:"],
   "Alternativas": ["Hoje é sábado e Heide foi à praia.", "Hoje não é sábado e Heide foi à praia.", "Hoje não é sábado e Marcos não foi trabalhar.", "Heide foi à praia ou Marcos foi trabalhar.", "Hoje é sábado e Marcos foi trabalhar."],
   "Imagens": [],

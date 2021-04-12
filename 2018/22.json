@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "22",
+  "Numero": "22",
   "Enunciado": ["Dado o trecho de código", "Assumindo que a instrução c=c+1 é $$O(1)$$, a expressão que melhor define a ordem de complexidade desse trecho é:"],
   "Alternativas": ["$$O(n \\log{n})$$", "$$O(\\log{n})$$", "$$O(n)$$", "$$O(n^2)$$", "$$O(\\sqrt{n})$$"],
   "Imagens": ["2018/images/img-22-01"],

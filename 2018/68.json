@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "68",
+  "Numero": "68",
   "Enunciado": ["A fase de análise sintática de um compilador pode ser implementada através de reconhecedores (parsers) de gramáticas livres de contexto, com estratégias ascendentes (bottom-up) ou descendentes (top-down). Considere a gramática com cinco produções abaixo, sendo que são não terminais os símbolos S e A, sendo o primeiro o símbolo não terminal inicial da gramática, e, os demais, símbolos terminais:"," Analise as seguintes assertivas:", "I. A gramática é reconhecida por um analisador preditivo LL(1), pois as características da gramática não inibem a construção da tabela de reconhecimento.", "II. Esta gramática não é reconhecida por um analisador LR(0), pois existe um conflito do tipo empilha-reduz no estado que contém os seguintes itens LR(0) “S -> bd . a”, e “A → d”.", "III. A gramática é reconhecida por uma analisador SLR(1), pois ele resolve o conflito do tipo empilha-reduz LR(0).", "IV. A gramática é LR(1).", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas II e III.", "Apenas II e IV.", "I, II, III e IV."],
   "Imagens": ["2018/images/img-68-01"],

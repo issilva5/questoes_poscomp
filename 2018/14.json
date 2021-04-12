@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "14",
+  "Numero": "14",
   "Enunciado": ["Seja um código de Hamming sistemático com a seguinte matriz de comprovação tal que $$H = (-P^T|I_r)$$", "$$H=\\begin{pmatrix}1 & 1 & 0 & * & * & * & *\\\\ 0 & 1 & 1 & * & * & * & *\\\\ 1 & 0 & 1 & * & * & * & *\\end{pmatrix}$$", "Transmite-se a palavra código Y=0000000 e, durante a transmissão, se produzem erros nas posições 2, 3, 4 e 5. Que mensagem de usuário descodificaríamos?"],
   "Alternativas": ["X = 0100", "X = 0111", "X = 0011", "X = 0010", "X = 1001"],
   "Imagens": [],

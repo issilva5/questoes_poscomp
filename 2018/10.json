@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "10",
+  "Numero": "10",
   "Enunciado": ["A primitiva de $$\\int \\frac{x}{\\sqrt{x^2 + 1}}$$ é:"],
   "Alternativas": [
     "\\left ( \\sqrt{x^2+1} \\right)^{-1} + C",

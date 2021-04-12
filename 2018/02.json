@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "02",
+  "Numero": "02",
   "Enunciado": ["Calcule as coordenadas de $$1 + t + t^2$$ na base $$(1, t - 1, (t-1)^2)$$, considerando $$E = \\mathbb{R}_2[t]$$, sendo as coordenadas: $$(\\lambda,\\mu,\\eta)$$."],
   "Alternativas": ["$$\\eta=1,\\mu=3,\\lambda=3$$", "$$\\eta=0,\\mu=3,\\lambda=3$$", "$$\\eta=-1,\\mu=1,\\lambda=1$$", "$$\\eta=1,\\mu=2,\\lambda=1$$", "$$\\eta=3,\\mu=3,\\lambda=3$$"],
   "Imagens": [],

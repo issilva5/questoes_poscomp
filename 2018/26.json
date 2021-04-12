@@ -1,6 +1,6 @@
 {
   "Ano": "2018",
-  "Número": "26",
+  "Numero": "26",
   "Enunciado": ["Sobre funções de transformação (hashing), analise as seguintes assertivas:", "I. Se o número de chaves N e o tamanho da tabela M são iguais, então temos uma função de transformação perfeita mínima, isto é, apenas um acesso à tabela é necessário e não há lugares vazios na tabela.", "II. Uma das formas de resolver as colisões é construir uma lista encadeada para cada endereço da tabela, no qual as chaves com o mesmo endereço são encadeadas em uma lista linear.", "III. Uma função transformação linear ocorre quando as chaves são localizadas em um único acesso, não há espaço vazio na tabela e o processamento é realizado na ordem lexicográfica.", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas I e II.", "I, II e III."],
   "Imagens": [],
