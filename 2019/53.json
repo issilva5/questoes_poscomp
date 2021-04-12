@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "53",
+  "Numero": "53",
   "Enunciado": ["Analise as assertivas abaixo sobre testes de regressão e assinale V, se verdadeiras ou F, se falsas.", "( ) Uma suite de testes de regressão bem planejada deve conter dois tipos de casos de teste: aqueles focados nos componentes diretamente relacionados à mudança e aqueles que exercitem funcionalidades já existentes que possam ter sido afetadas pela mudança.", "( ) A execução manual de testes de regressão é inviável.", "( ) Testes de regressão podem estar relacionados tanto a testes funcionais quanto a testes não funcionais.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["F – V – F.", "V – V – V.", "V – F – V.", "F – F – F.", "F – F – V."],
   "Imagens": [],

@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "18",
+  "Numero": "18",
   "Enunciado": ["Encontre a média ($$\\mu$$) e o desvio padrão ($$ \\sigma $$) da distribuição:",
               "$$\\mu = E(X)=\\sum x_i p_i$$",
               "$$ E(X^2)=\\sum x_i^2p_i $$",

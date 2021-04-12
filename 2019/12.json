@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "12",
+  "Numero": "12",
   "Enunciado": ["Considere a seguinte proposição:", 
                 "Em todos os cursos de Computação, existe, pelo menos, uma disciplina de Lógica.", 
                 "A negação da proposição acima é logicamente equivalente à proposição:"],

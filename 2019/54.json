@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "54",
+  "Numero": "54",
   "Enunciado": ["No modelo de referência ISO/OSI, quais são as subcamadas da camada de enlace?"],
   "Alternativas": ["Controle de fluxo e controle de congestionamento.", "Controle de enlace lógico e controle de acesso ao meio.", "Multiplexação e enlace.", "Física e Rede.", "Transporte e apresentação."],
   "Imagens": [],

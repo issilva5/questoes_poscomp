@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "15",
+  "Numero": "15",
   "Enunciado": "A expressão lógica $$\\sim q \\rightarrow  \\sim p$$ é equivalente a:",
   "Alternativas": ["$$\\sim p \\wedge \\sim q$$", 
 					"$$\\sim p \\vee  q$$", 

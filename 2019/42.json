@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "42",
+  "Numero": "42",
   "Enunciado": ["Assinale a alternativa que apresenta a expressão simplificada equivalente ao circuito lógico abaixo:"],
   "Alternativas": ["S = $$\\overline{\rm A}BC$$", "S = $$A\\overline{\rm B}C$$", "S = $$AB\\overline{\rm C}$$", "S = $$\\overline{\rm A}B\\overline{\rm C}$$", "S = $$\\overline{\rm A}$$ $$\\overline{\rm B}$$ $$\\overline{\rm c}$$"],
   "Imagens": ["2019/images/img-42-01"],

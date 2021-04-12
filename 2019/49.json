@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "49",
+  "Numero": "49",
   "Enunciado": ["Em uma máquina de 32 bits, subdividimos o endereço virtual em 4 segmentos da seguinte maneira:", "Uma tabela de páginas de 3 níveis é utilizada, de modo que os primeiros 10 bits são para o primeiro nível e assim por diante. Sendo assim, qual é o tamanho de uma tabela de páginas para um processo que tem 256K de memória iniciando no endereço 0?"],
   "Alternativas": ["6480 bytes.", "4608 bytes.", "3240 bytes.", "2408 bytes.", "1020 bytes."],
   "Imagens": ["2019/images/img-49-01"],

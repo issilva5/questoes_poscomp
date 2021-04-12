@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "09",
+  "Numero": "09",
   "Enunciado": ["Simplifique, com a ajuda dos Mapas de Karnaugh, a função cuja expressão em termos canônicos é: $$ f(x,y,z)=\\sum m(2,3,4,5,6,7) $$"],
   "Alternativas": ["$$ f(X,Y,Z)= X+Y $$", "$$ f(X,Y,Z)= X+Y +Z$$", "$$ f(X,Y,Z)= \\overline{X}+Y$$", "$$ f(X,Y,Z)= XY+Y $$", "$$ f(X,Y,Z)= X+Y +\\overline{Z} $$"],
   "Imagens": [],

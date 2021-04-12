@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "04",
+  "Numero": "04",
   "Enunciado": ["Encontre as coordenadas do centro (C) da circunferência de equação $$t: x^2 + y^2 -3x+5y-14=0$$."],
   "Alternativas": ["$$ C\\left ( \\frac{1}{2}, \\frac{1}{2} \\right )$$", 
                    "$$ C\\left ( \\frac{-1}{3}, \\frac{3}{2} \\right )$$", 

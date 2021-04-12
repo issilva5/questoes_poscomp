@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "27",
+  "Numero": "27",
   "Enunciado": ["Considere o seguinte código em Linguagem C abaixo:", "Assinale a alternativa que corresponde à saída impressa na tela."],
   "Alternativas": ["21 1 0 4", "3 1 -5 -2", "2 0 -4 -1", "9 0 -3 -2", "1 0 9 2"],
   "Imagens": ["2019/images/img-27-01"],

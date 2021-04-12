@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "22",
+  "Numero": "22",
   "Enunciado": ["Considere as seguintes funções:", "$$f(n)=2^n$$", "$$g(n)=n!$$", "$$h(n)=n^{logn}$$", "Assinale a alternativa correta a respeito do comportamento assintótico de f(n), g(n) e h(n)."],
   "Alternativas": ["$$f(n)=O(g(n)); g(n)=O(h(n))$$", 
      "$$ f(n)=\\Omega(g(n)); g(n)=O(h(n))$$",

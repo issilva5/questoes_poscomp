@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "55",
+  "Numero": "55",
   "Enunciado": ["Em relação ao algoritmo ARIES para a recuperação após falha em sistemas de banco de dados, analise as assertivas abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) A aplicação da operação REDO é restrita a transações confirmadas.", "( ) Uma abordagem steal/no-force é usada para as regras que governam quando uma página do cache do banco de dados pode ser gravada no disco.", "( ) As operações UNDO são registradas no log, para evitar a repetição das operações UNDO completadas, se ocorrer uma falha durante o processo de recuperação.", "( ) A Tabela de Transações contém uma entrada para cada página suja no cache, que inclui o identificador da página e o número de sequência de log da atualização mais antiga dessa página.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["F – V –  V – F.", "V – F –  F – V.", "F – V –  F – V.", "V – F –  V – F.", "V – F –  V – V."],
   "Imagens": [],

@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "46",
+  "Numero": "46",
   "Enunciado": ["Um dispositivo de E/S pode acionar o seu software controlador (device driver) para realizar uma tarefa enquanto este esteja realizando o tratamento de outra tarefa do dispositivo. Por exemplo, enquanto o device driver da placa de rede processa um pacote que acabou de chegar, ele é interrompido para tratar a chegada de um novo pacote. Essa característica de um device driver é denominada código:"],
   "Alternativas": ["Assíncrono.", "Assimétrico.", "Elástico.", "Reentrante.", "Recursivo."],
   "Imagens": [],

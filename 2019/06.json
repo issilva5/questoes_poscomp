@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "06",
+  "Numero": "06",
   "Enunciado": ["Para quais valores de a e b, f(x) é contínua em x = 1 e x = 4.",
                "$$ f(x)= \\left\\{\\begin{matrix} x & se~x \\leq 1\\\\ ax+b & se~1<x<4 \\\\  -2x & se~ 4 \\leq x  \\end{matrix}\\right$$"],
   "Alternativas": ["a =  –9 e b = –3", "a =  –3 e b = 4", "a = 1 e b = 1", "a = –1 e b = 2", "a = 2 e b = 3"],

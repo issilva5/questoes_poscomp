@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "41",
+  "Numero": "41",
   "Enunciado": ["Considere L1 e L2 duas linguagens formais sobre o alfabeto $$\\Sigma$$ = {0,1}, descritas como segue:", "L1 = { ww | w $$\\in \\Sigma^*$$ }", "L2 = { $$0^a1^b$$ | a$$>$$0, b$$>$$0, b ímpar }", "Na descrição acima, justaposição significa concatenação de palavras e $$\\Sigma^*$$ denota o conjunto de todas as palavras sobre o alfabeto $$\\Sigma$$.", "Seja A1 o autômato finito sobre alfabeto $$\\Sigma$$ = {0,1} descrito pelo seguinte diagrama de transição de estados:", "Denotemos por ACEITA(A1) o conjunto de palavras aceitas por A1.", "Nesse sentido, considere as seguintes afirmações:", "I. L1 é uma linguagem regular.", "II. L2 é uma linguagem livre de contexto.", "III. ACEITA(A1) = { w | w $$\\in \\Sigma^*$$ e w possui um número ímpar de zeros }.", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas I e III.", "Apenas II e III.", "I, II e III."],
   "Imagens": ["2019/images/img-41-01"],

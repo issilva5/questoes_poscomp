@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "48",
+  "Numero": "48",
   "Enunciado": ["Um cientista da computação precisa avaliar o desempenho de seu computador para calcular o tempo de resposta de um algoritmo. Levando em consideração que todos os setores da trilha 0 são lidos começando do setor 0, então, todos os setores da trilha 1 a partir do setor 0, e assim por diante. O tempo de rotação é de 30 ms, e um seek gasta 20 ms entre cilindros adjacentes e 80 ms para o pior caso. A comutação entre trilhas no mesmo cilindro pode ser feita instantaneamente. Dessa maneira, quanto tempo é gasto para ser lido um disco de 2.400 cilindros, cada um com seis trilhas de 32 setores em segundos?"],
   "Alternativas": ["628,12.", "480,06.", "320,12.", "268,06.", "124,12."],
   "Imagens": [],

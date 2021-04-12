@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "26",
+  "Numero": "26",
   "Enunciado": ["Sobre listas, analise as assertivas abaixo:",
      "I. Objetos podem ser inseridos em uma pilha a qualquer momento, mas apenas o que foi inserido mais recentemente (isto é, o último) pode ser removido a qualquer momento.", 
      "II. Em uma fila, os elementos podem ser inseridos a qualquer momento, mas apenas o elemento que está a mais tempo na fila pode ser removido.", 

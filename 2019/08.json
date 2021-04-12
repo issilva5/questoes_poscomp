@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "08",
+  "Numero": "08",
   "Enunciado": ["Encontre as coordenadas retangulares do ponto (P), cujas coordenadas polares são (3, 120°, 120°, 135°).", 
                 "$$x=r* \\cos\\alpha$$",
                 "$$y=r* \\cos \\beta$$", 

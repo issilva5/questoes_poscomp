@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "14",
+  "Numero": "14",
   "Enunciado": ["Resolva a identidade $$ \\overline{\\overline{C} \\cdot (\\overline{D}+\\overline{E})} $$ , aplicando, se necessário, as leis de álgebra de Boole."],
   "Alternativas": ["$$ \\overline{C} + (D \\cdot E)$$", 
                    "$$ \\overline{C} + (C + E) $$", "$$C + (\\overline{C} \\cdot \\overline{E}) $$", 

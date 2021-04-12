@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "25",
+  "Numero": "25",
   "Enunciado": ["Considere a seguinte função em C:"],
   "Alternativas": ["$$\\theta(n)$$", "$$\\theta(n log n)$$", "$$\\theta(log n)$$", "$$\\theta(n^2)$$", "$$\\theta(n^2log n)$$"],
   "Imagens": ["2019/images/img-25-01"],

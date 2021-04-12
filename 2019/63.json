@@ -1,8 +1,8 @@
 {
   "Ano": "2019",
-  "Número": "63",
+  "Numero": "63",
   "Enunciado": ["Considere o esquema de tradução dirigida pela sintaxe apresentado a seguir, no qual as produções da gramática foram numeradas:", "Assinale a alternativa correta sobre o esquema."],
-  "Alternativas": ["Na   produção 4, T.val e F.val são sintetizados.", "Na   produção 4, $$T_{1}$$.val é herdado.", "Na   produção 5, T.val e F.val são herdados.", "Na   produção 2, E.val é sintetizado e T.val é herdado.", "Na   produção 2, $$E_{1}$$.val é sintetizado e T.val é herdado."],
+  "Alternativas": ["Na produção 4, T.val e F.val são sintetizados.", "Na produção 4, $$T_{1}$$.val é herdado.", "Na produção 5, T.val e F.val são herdados.", "Na produção 2, E.val é sintetizado e T.val é herdado.", "Na produção 2, $$E_{1}$$.val é sintetizado e T.val é herdado."],
   "Imagens": ["2019/images/img-63-01"],
   "Resposta": 0,
   "Componente": "Tecnologia da Computação",

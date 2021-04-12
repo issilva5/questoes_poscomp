@@ -1,6 +1,6 @@
 {
   "Ano": "2019",
-  "Número": "21",
+  "Numero": "21",
   "Enunciado": ["Considere os seguintes algoritmos recursivos que resolvem o mesmo problema em uma entrada de tamanho n:", 
     "Algoritmo 1: Divide o problema em 3 partes de tamanho n/4 cada e gasta um tempo adicional O(1) por chamada.", 
     "Algoritmo 2: Divide o problema em 3 partes de tamanho n/2 cada e gasta um tempo adicional O(n 2) por chamada.", 
