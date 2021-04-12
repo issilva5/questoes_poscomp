@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "18",
+  "Numero": "18",
   "Enunciado": ["Uma variável aleatória está definida pela seguinte função de densidade de probabilidade:", "$$f(x)=\\left\\{\\begin{matrix} kx^{3},& 0 < x < 1\\\\ 0, & \\forall x \\neq 0 < x < 1 \\end{matrix}\\right.$$", "Qual é a probabilidade para que a variável aleatória tenha um valor entre 0,25 e 0,75?"],
   "Alternativas": ["0,76", "0,25", "0,31", "0,80", "0,38"],
   "Imagens": [],

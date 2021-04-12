@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "31",
+  "Numero": "31",
   "Enunciado": ["Quando uma expressão contém duas ocorrências adjacentes de operadores com o mesmo nível de precedência, a questão sobre qual deles é avaliado primeiro responde-se pelas regras de:"],
   "Alternativas": ["Associatividade.", "Expressões condicionais.", "Polimorfismo.", "Condutividade.", "Coerção."],
   "Imagens": [],

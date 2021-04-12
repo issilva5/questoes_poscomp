@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "37",
+  "Numero": "37",
   "Enunciado": ["O grafo da Figura (a) abaixo indica precedência entre atividades. Uma aresta direcionada (u,v) indica que a atividade u tem que ser realizada antes da atividade v. Por exemplo, a atividade 3 (representada pelo vértice 3) somente pode ser iniciada após o término das atividades 0 e 2, já a atividade 9 pode ser realizada em qualquer ordem.", "A Figura (b) acima mostra para o grafo da Figura (a)"],
   "Alternativas": ["os componentes fortemente conectados que representam as atividades mutualmente alcançáveis a partir de cada vértice.", "o caminhamento entre todas as atividades, usando o algoritmo de busca em largura.", "a árvore geradora mínima que representa todas as possibilidades de conexão entre as atividades, usando o menor fluxo possível entre elas.", "o caminhamento entre todas as atividades, usando o algoritmo de busca em profundidade.", "a ordenação topológica que mostra a ordem em que as atividades devem ser processadas."],
   "Imagens": ["2017/images/img-037-001"],

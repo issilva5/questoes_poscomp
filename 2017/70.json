@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "70",
+  "Numero": "70",
   "Enunciado": ["Requisitos não funcionais de software são aqueles que não dizem respeito às funções específicas de software, mas, sim, a propriedades que o sistema deve possuir, ou restrições que deve atender. Existem diferentes tipos de requisitos funcionais. Abaixo estão listados exemplos para diferentes tipos de requisitos não funcionais:", "$$\\cdot$$ ________________: o software deve ser desenvolvido utilizando a linguagem de programação Java versão 7.4.", "$$\\cdot$$ ________________: deve ser possível acessar o sistema a partir dos browsers Chrome, Internet Explorer e Safari.", "$$\\cdot$$ ________________: o sistema deve extrair os tweets da plataforma Tweeter utilizando a API REST disponível para este fim (detalhes de acesso à API em www.tweeter.com/API).", "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do trecho acima."],
   "Alternativas": ["Desempenho – Portabilidade – Padrões", "Eficiência – Padrões – Portabilidade", "Implementação – Interoperabilidade – Portabilidade", "Implementação – Portabilidade – Interoperabilidade", "Eficiência – Padrões – Interoperabilidade"],
   "Imagens": [],

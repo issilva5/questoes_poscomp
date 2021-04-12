@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "63",
+  "Numero": "63",
   "Enunciado": ["Uma representação intermediária do programa fonte pode ser gerada com a transformação da árvore de derivação em um segmento de código. Em relação à etapa de geração de código intermediário do compilador, qual das alternativas está INCORRETA?"],
   "Alternativas": ["Definindo-se uma representação intermediária adequada, um compilador construído pode combinar um front-end para uma linguagem x com um back-end para a linguagem y.", "Árvores de sintaxe e códigos de três endereços são algumas das possibilidades de representação intermediária.", "Linguagens de alto nível, como, por exemplo, a linguagem C, podem ser utilizadas como uma forma de representação intermediária.", "Na geração de código intermediário, são realizadas tarefas como seleção de instruções, alocação e atribuição de registrador e escalonamento de instruções que dependem do conhecimento da máquina-alvo para a qual será gerado o código objeto.", "Uma das vantagens da aplicação da fase de geração de código intermediário é a possibilidade de realização de otimização e a tradução do código para diversas máquinas."],
   "Imagens": [],

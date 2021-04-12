@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "32",
+  "Numero": "32",
   "Enunciado": ["Em relação ao grafo da Figura (a), as Figuras (b) e (c) representam, respectivamente,"],
   "Alternativas": ["matriz de arestas e lista de incidências.", "matriz de adjacências e lista de adjacências.", "matriz de conexões e lista de arestas.", "matriz de incidências e lista de vértices.", "matriz de vértices e lista de conexões."],
   "Imagens": ["2017/images/img-32-01"],

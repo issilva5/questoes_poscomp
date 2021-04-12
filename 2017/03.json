@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "03",
+  "Numero": "03",
   "Enunciado": ["Em um espaço $$R^{3}$$, as retas: $$r \\equiv \\frac{x+5}{4} = \\frac{y-3}{-2} = \\frac{z+4}{3}$$ e $$s \\equiv (x,y,z) = (1,1,-2) + [(1,-1,2)]$$ :"],
   "Alternativas": ["São ortogonais.", "Não são ortogonais e são contidas em um plano.", "Não têm pontos em comum.", "São paralelas.", "Não são retas."],
   "Imagens": [],

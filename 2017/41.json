@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "41",
+  "Numero": "41",
   "Enunciado": ["Considere dois problemas de decisão PA e PB, sendo PA indecidível e PB decidível. Observe também dois problemas de decisão PC e PD, cuja decidibilidade é desconhecida. Suponha que seja possível construir de forma correta as seguintes reduções:", "$$\\cdot$$ de PA para PC.", "$$\\cdot$$ de PD para PA.", "$$\\cdot$$ de PD para PB.", "Com base no cenário descrito, assinale a alternativa correta."],
   "Alternativas": ["Não se pode afirmar nada sobre a decidibilidade dos problemas PC e PD.", "Não se pode afirmar nada sobre a decidibilidade de PC, porém PD é decidível.", "PC é indecidível e PD é decidível.", "PC e PD são ambos indecidíveis.", "PC é indecidível, contudo não se pode afirmar nada sobre a decidibilidade de PD."],
   "Imagens": [],

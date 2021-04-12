@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "08",
+  "Numero": "08",
   "Enunciado": ["Dadas as retas $$r \\equiv 3x + y - 1 = 0$$ e $$s \\equiv 2x + my - 8 = 0$$, qual dos seguintes é um valor de m que faz com que as retas r e s formem um ângulo de 45°?"],
   "Alternativas": ["1", "$$\\sqrt[]{2}$$", "0", "-1", "2"],
   "Imagens": [],

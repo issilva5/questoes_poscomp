@@ -1,6 +1,6 @@
 {
   "Ano": "2017",
-  "Número": "60",
+  "Numero": "60",
   "Enunciado": ["Qual protocolo faz o mapeamento de endereço IP em endereço Ethernet?"],
   "Alternativas": ["IEEE 802.11", "DNS", "TCP", "IP", "ARP"],
   "Imagens": [],
