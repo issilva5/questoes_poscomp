@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "19",
+  "Numero": "19",
   "Enunciado": ["Quantas cadeias compostas de 16 bits possuem os 5 bits à esquerda com 00000 e os 4 últimos à direita com 1010, isto é, são da forma 00000_ _ _ _ _ _ _1010?"],
   "Alternativas": ["256", "128", "91", "64", "14"],
   "Imagens": [],

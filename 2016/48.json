@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "48",
+  "Numero": "48",
   "Enunciado": ["Analise as seguintes definições de pipeline de instruções simples, superescalar e multithreading simultâneo:", "  I. Pipeline instruções simples: instruções individuais que são executadas através de um pipeline de estágios, de maneira que, enquanto uma instrução está sendo executada em um estágio, outra instrução está sendo executada em outro estágio do pipeline.", " II. Superescalar: um pipeline é construído por meio da replicação de recursos de execução, o que permite a execução paralela de instruções em pipelines paralelos.", "III. Multithreading simultâneo (SMT): bancos de registros são replicados para que múltiplas threads possam compartilhar o uso dos recursos de pipelines.", " Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas III.", "Apenas I e II.", "Apenas II e III.", "I, II e III."],
   "Imagens": [],

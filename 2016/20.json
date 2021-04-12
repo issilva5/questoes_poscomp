@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "20",
+  "Numero": "20",
   "Enunciado": ["Uma empresa de desenvolvimento de aplicativos para celular pretende quantificar a relação entre a idade de usuários e o número de downloads de aplicativos durante 30 dias. Assim, escolheu 10 clientes de sua empresa e obteve os dados da tabela abaixo. Qual alternativa representa a equação da Reta de Regressão, y=ax+b, para os dados coletados, onde $$\\bar{x}$$ e $$\\bar{y}$$ são as médias dos valores de x e y, e $$a=\\frac{\\sum xy -n\\bar{x}\\bar{y}}{\\sum x^{2}-n(\\bar{x})^{2}}$$ e $$b=\\bar{y}-a\\bar{x}$$?"],
   "Alternativas": ["y = 26.7762x − 0.2454", "y = −0.2454x + 26.7762", "y = −2.454x + 26.7762", "y = −24.54x + 26.7762", "y = 24.54x + 267.762"],
   "Imagens": ["2016/images/img-20-01"],

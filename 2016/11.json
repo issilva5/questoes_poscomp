@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "11",
+  "Numero": "11",
   "Enunciado": ["Considere a seguinte proposição Z: p->(q->r)", "A negação da proposição Z é logicamente equivalente à proposição:"],
   "Alternativas": ["(p ∧ q) ∧ (~r)", "(p ∨ q) ∧ (~r)", "(~p) ∧ (~q) ∧ r", "(~p) ∧ ((~q) ∨ r)", "(~p) ∨ ((~q) ∨ r)"],
   "Imagens": [],

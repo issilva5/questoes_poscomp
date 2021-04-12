@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "42",
+  "Numero": "42",
   "Enunciado": ["Determine o tipo de máquina de estados finitos da figura abaixo:"],
   "Alternativas": ["Mealy síncrona.", "Mealy assíncrona.", "Moore.", "Turing que sempre para.", "Turing."],
   "Imagens": ["2016/images/img-42-01"],

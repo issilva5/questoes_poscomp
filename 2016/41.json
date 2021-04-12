@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "41",
+  "Numero": "41",
   "Enunciado": ["Considere a linguagem $$L=\\left \\{ ww|w \\,\\epsilon \\left \\{ a,b \\right \\}^{*}  \\right \\}$$, sobre a construção e a eficiência de algoritmos para aceitar L sobre uma máquina de Turing padrão e assinale a alternativa correta."],
   "Alternativas": ["Contar o número de símbolos. Se a contagem é feita em unário, a operação tem custo O(n). Em seguida, escrever a primeira metade em outra fita. Essa também é uma operação com custo O(n). Finalmente, a comparação pode ser feita em O(n) movimentos.", "Encontrar o meio da cadeia e voltar para fazer o mathc (casamento) dos símbolos. Ambas as partes são feitas em $O(n^{2})$ movimentos.", "Adivinhar o meio da cadeia não deterministicamente em um movimento. A correspondência leva $$O(n^{2})$$ movimentos.", "Advinhar o meio da cadeia e proceder como em (a). O custo total é O(n) movimentos.", "Iniciar em uma das extremidades da cadeia e contar até o meio. O custo é $$O(n^{2})$$ movimentos."],
   "Imagens": [],

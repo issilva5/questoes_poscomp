@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "60",
+  "Numero": "60",
   "Enunciado": ["Em relação às características do protocolo IP, analise as afirmativas abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) O protocolo IP garante a entrega de mensagens.", "( ) O endereçamento IP é hierárquico.", "( ) O protocolo IP garante que não há duplicação de pacotes.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["F – V – F.", "F – F – V.", "V – F – V.", "V – V – F.", "V – F – F."],
   "Imagens": [],

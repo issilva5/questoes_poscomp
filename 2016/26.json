@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "26",
+  "Numero": "26",
   "Enunciado": ["Uma árvore balanceada T que armazena n chaves é uma árvore binária de pesquisa na qual"],
   "Alternativas": ["a diferença entre as alturas de suas subárvores permanece constante em todo o caso, após inserções ou remoções de chaves.", "as operações de inserção e remoção de chaves em nodos internos v de T seguem um padrão linear de tempo de execução.", "a propriedade da altura/balanceamento é determinada pela extensão do caminho mais curto entre um nodo interno v até o nodo raiz de T.", "a variação da altura dos nodos filhos de cada nodo interno v de T é de, no máximo, uma unidade.", "o tempo de execução para todas as operações fundamentais sobre cada nodo interno v de T se mantém constante."],
   "Imagens": [],

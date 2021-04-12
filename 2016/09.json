@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "09",
+  "Numero": "09",
   "Enunciado": ["A respeito das propriedades da relação definida por $$R\\subseteq A\\times A$$, para $$A={x\\in N \\text{ tal que } 1\\leq x\\leq 6}$$, descrita pela matriz de incidência da relação mostrada abaixo, é correto afirmar que essa relação é:"],
   "Alternativas": ["Somente reflexiva.", "Somente simétrica.", "Somente transitiva.", "Reflexiva e simétrica, mas não é transitiva.", "Reflexiva e transitiva, mas não é simétrica."],
   "Imagens": ["2016/images/img-09-01"],

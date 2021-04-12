@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "06",
+  "Numero": "06",
   "Enunciado": ["Um dos métodos iterativos para determinar as raízes de uma função é o Método de Newton-Raphson, descrito pela equação abaixo. Portanto, para determinar as raízes da função $$y =f(x)=x^{3}-sen(x)$$, temos a descrição da expressão algébrica na alternativa:"],
   "Alternativas": ["$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}-cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}+cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(x_{n}^{2}-cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}-sen(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(6x_{n}^{3}-cos(x_{n}))}$$"],
   "Imagens": ["2016/images/img-06-01"],

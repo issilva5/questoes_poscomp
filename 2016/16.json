@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "16",
+  "Numero": "16",
   "Enunciado": ["Considerando as identidades de conjuntos, se justifica a simplificação entre as seguintes sentenças", "1. $$(A\\cap B')\\cup (C'\\cap A)$$", "2. $$(A\\cap B')\\cup (A\\cap C')$$", "3. $$A\\cap (B'\\cup C')$$", "4. $$A\\cap (B\\cap C)'$$", "pelo uso, respectivamente, das propriedades:"],
   "Alternativas": ["Associativa, comutativa e distributiva.", "Associativa, distributiva e Lei de De Morgan.", "Associativa, Lei de De Morgan e distributiva.", "Comutativa, distributiva e Lei de De Morgan.", "Comutativa, distributiva e associativa."],
   "Imagens": [],

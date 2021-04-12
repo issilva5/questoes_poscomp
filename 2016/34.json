@@ -1,6 +1,6 @@
 {
   "Ano": "2016",
-  "Número": "34",
+  "Numero": "34",
   "Enunciado": ["O VFS (Virtual File System) é o mecanismo que permite que chamadas de sistemas genéricas possam ser executadas independentemente do sistema de arquivos usado ou do meio físico. Em relação aos objetos primários do VFS, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) Superbloco é utilizado para armazenar informações sobre um sistema de arquivos específico.", "( ) Inode representa um arquivo específico. Cada arquivo é representado por um inode no Sistema de Arquivos.", "( ) Dentry representa uma entrada de diretório. O objeto Dentry não corresponde a qualquer estrutura de dados armazenada em disco.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["F – F – F.", "F – F – V.", "F – V – V.", "V – V – V.", "V – V – F."],
   "Imagens": [],
