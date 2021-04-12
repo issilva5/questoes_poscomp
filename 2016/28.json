@@ -3,7 +3,7 @@
   "Número": "28",
   "Enunciado": ["Assinale a alternativa que apresenta o nome de uma linguagem de tipagem dinâmica."],
   "Alternativas": ["Java.", "C.", "Python.", "Pascal.", "C#."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 2,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

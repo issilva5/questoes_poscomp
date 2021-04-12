@@ -1,7 +1,7 @@
 {
   "Ano": "2016",
   "Número": "07",
-  "Enunciado": "A equação que representa a forma da cônica na imagem abaixo é:",
+  "Enunciado": ["A equação que representa a forma da cônica na imagem abaixo é:"],
   "Alternativas": ["$$x^{2}=4y+4$$", "$$\\frac{x^{2}}{25}+\\frac{y^{2}}{16}=1$$", "$$\\frac{x^{2}}{25}-\\frac{y^{2}}{16}=1$$", "$$\\frac{x^{2}}{16}+\\frac{y^{2}}{25}=1$$", "$$\\frac{x^{2}}{16}-\\frac{y^{2}}{25}=1$$"],
   "Imagens": ["2016/images/img-07-01"],
   "Resposta": 2,

@@ -3,7 +3,7 @@
   "Número": "54",
   "Enunciado": ["Qual o tempo de propagação de um pacote de comprimento L, através de um enlace de distância d, velocidade de propagação s e taxa de transmissão de R bps?"],
   "Alternativas": ["$$L^{*}d/(R^{*}s)$$.", "$$L/R$$.", "$$d/(s^{*}R)$$.", "$$s/d$$.", "$$d/s$$."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Tecnologias de Computação",
   "Subarea": "Tecnologias de Computação"

@@ -3,7 +3,7 @@
   "Número": "67",
   "Enunciado": ["Em relação a transações e controle de concorrência, analise as afirmações abaixo e assinale V, se verdadeiras, ou F, se falsas.", "( ) Três estratégias alternativas são possíveis na programação da execução de uma operação em uma transação: (1) executá-la imediatamente, (2) retardá-la ou (3) cancelá-la.", "( ) O controle de concorrência pessimista permite que as transações prossigam, sem qualquer forma de verificação, até que sejam concluídas.", "( ) A validação backward ocorre devido ao cancelamento repetido de uma transação que não consegue ser validada no controle de concorrência.", "( ) O travamento de duas fases restrito usa as estratégias de executar imediatamente e retardar uma transação, usando o cancelamento somente quando ocorre um impasse.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
   "Alternativas": ["V – F – F – V.", "V – V – F – F.", "V – F – V – F.", "F – V – F – V.", "F – F – V – V."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Tecnologias de Computação",
   "Subarea": "Tecnologias de Computação"
