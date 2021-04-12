@@ -3,7 +3,7 @@
   "Número": "53",
   "Enunciado": ["A Empresa XYZ trabalha com reuso de software. Em um projeto de software, denominado PROJETO A, a Empresa XYZ irá implementar um componente para verificar se a leitura de uma determinada resposta está dentro da escala Likert. A referida escala classifica algo em um intervalo fechado de 1 a 5. Esse componente será utilizado em todos os softwares, sempre para validar as respostas das questões que utilizem a referida escala. Dentro desse contexto, podemos dizer que a atividade de teste é de fundamental importância. A célula de teste da Empresa XYZ utilizou o critério de análise de valor limite para efetuar os testes desse componente. A célula de teste fracionou o critério em três classes. A partir da definição das classes, os dados para efetuar os testes foram gerados. Abaixo, é possível encontrar cinco conjuntos de dados de testes. Selecione o conjunto de dados que expressa a utilização do critério de análise de valor limite, critério esse estabelecido pela célula de teste da Empreza XYZ."],
   "Alternativas": ["Dados de entrada da classe 1: 0 e 1. Dados de entrada da classe 2: 2 e 4. Dados de entrada da classe 3: 5 e 6.", "Dados de entrada da classe 1: 0 e -1. Dados de entrada da classe 2: 2 e 4 Dados de entrada da classe 3: 5 e -6.", "Dados de entrada da classe 1: 0. Dados de entrada da classe 2: 2 e 4. Dados de entrada da classe 3: 5 e 6.", "Dados de entrada da classe 1: 0. Dados de entrada da classe 2: 3 e 4. Dados de entrada da classe 3: 6.", "Dados de entrada da classe 1: 0. Dados de entrada da classe 2: 2 e 4. Dados de entrada da classe 3: 7."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 0,
   "Componente": "Tecnologias de Computação",
   "Subarea": "Tecnologias de Computação"

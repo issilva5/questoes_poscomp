@@ -3,7 +3,7 @@
   "Número": "35",
   "Enunciado": ["Quanto às propriedades de cada tipo de índice, ao comparar número de entradas de índice e densidade, é correto afirmar que:"],
   "Alternativas": ["O tipo de índice primário possui número de blocos no arquivo de dados e é denso.", "O tipo de índice agrupamento possui número de valores de campo de índice distintos e é denso.", "O tipo de índice secundário (chave) possui número de registros no arquivo de dados e não é denso.", "O tipo de índice secundário (não chave) possui número de valores de campo de índice distintos, no caso de manter as próprias entradas de índice em um tamanho fixo e ter uma única entrada para cada valor de campo de índice, mas criar um nível de indireção extra para lidar com múltiplos ponteiros, e, assim, esse é um índice denso.", "O tipo de índice secundário (não chave) possui número de registros, no caso de incluir entradas de índice duplicadas com um mesmo valor K(i) – um para cada valor, e, assim, é um índice denso."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

@@ -3,7 +3,7 @@
   "Número": "15",
   "Enunciado": ["Considere a seguinte proposição: Todas as métricas de avaliação foram positivas.", "A negação da proposição acima é logicamente equivalente à afirmação:"],
   "Alternativas": ["Alguma métrica de avaliação foi negativa.", "Nenhuma métrica de avaliação foi positiva.", "Todas as métricas de avaliação foram negativas.", "Alguma métrica de avaliação foi negativa ou zero.", "Todas as métricas de avaliação foram negativas ou zero."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 3,
   "Componente": "Matemática",
   "Subarea": "Matemática"

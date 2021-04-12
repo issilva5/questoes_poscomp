@@ -3,7 +3,7 @@
   "Número": "45",
   "Enunciado": ["Algoritmos de substituição de página são importantes em sistemas operacionais que usam a técnica de memória virtual. Em geral, escolhe-se um algoritmo de substituição de página que resulte em menor taxa de falta de página (page fault). Contudo, alguns algoritmos de substituição de página apresentam a anomalia de Belady (Belady’s anomaly). O que caracteriza essa anomalia é o fato de o número de faltas de página aumentar na medida em que o"],
   "Alternativas": ["tempo de execução aumenta.", "número de páginas alocadas aumenta.", "número de páginas não alocadas aumenta.", "tempo de retenção de páginas alocadas aumenta.", "número de vezes que as páginas alocadas são acessadas."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 1,
   "Componente": "Fundamentos da Computação",
   "Subarea": "Fundamentos da Computação"

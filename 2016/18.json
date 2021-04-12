@@ -3,7 +3,7 @@
   "Número": "18",
   "Enunciado": ["Um equipamento eletrônico tem dois componentes de armazenamento, A e B, que são independentes. Trabalha-se com a probabilidade de falha no componente A de 20% e falha no componente B de 15%. A probabilidade de ocorrer falha, simultaneamente, nos dois componentes, é de:"],
   "Alternativas": ["35%.", "30%.", "27%.", "12%.", "3%."],
-  "Imagens": {},
+  "Imagens": [],
   "Resposta": 4,
   "Componente": "Matemática",
   "Subarea": "Matemática"
