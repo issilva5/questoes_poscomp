@@ -5,6 +5,6 @@
   "Alternativas": ["$$ f(X,Y,Z)= X+Y $$", "$$ f(X,Y,Z)= X+Y +Z$$", "$$ f(X,Y,Z)= \\overline{X}+Y$$", "$$ f(X,Y,Z)= XY+Y $$", "$$ f(X,Y,Z)= X+Y +\\overline{Z} $$"],
   "Imagens": [],
   "Resposta": 0,
-  "Componente": "Tecnologia da Computação",
+  "Componente": "Matemática",
   "Subarea": "Matemática Discreta"
 }

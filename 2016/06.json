@@ -5,6 +5,6 @@
   "Alternativas": ["$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}-cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}+cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(x_{n}^{2}-cos(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(3x_{n}^{2}-sen(x_{n}))}$$", "$$x_{n+1} =x_{n}-\\frac{(x_{n}^{3}-sen(x_{n}))}{(6x_{n}^{3}-cos(x_{n}))}$$"],
   "Imagens": ["2016/images/img-06-01"],
   "Resposta": 0,
-  "Componente": "Tecnologias de Computação",
-  "Subarea": "Tecnologias de Computação"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }

@@ -5,6 +5,6 @@
   "Alternativas": ["$$r:\\begin{cases}x=2t\\\\ y=-6+3t, t\\in R\\\\ z=1+4t \\end{cases}$$ e $$s:\\begin{cases}x=5+t\\\\ y=2-3t, t\\in R\\\\ z=7-2t \\end{cases}$$", "$$r:\\begin{cases}x=2+2t\\\\ y=3t, t\\in R\\\\ z=5+4t \\end{cases}$$ e $$s:\\begin{cases}x=1+t\\\\ y=1-3t, t\\in R\\\\ z=-2t \\end{cases}$$", "$$r:\\begin{cases}x=8t\\\\ y=-6+12t, t\\in R\\\\ z=1+16t \\end{cases}$$ e $$s:\\begin{cases}x=10+t\\\\ y=4-3t, t\\in R\\\\ z=14-2t \\end{cases}$$", "$$r:\\begin{cases}x=1+2t\\\\ y=5+3t, t\\in R\\\\ z=-6+4t \\end{cases}$$ e $$s:\\begin{cases}x=5+t\\\\ y=11-3t, t\\in R\\\\ z=2-2t \\end{cases}$$", "$$r:\\begin{cases}x=1+2t\\\\ y=5+3t, t\\in R\\\\ z=-6+4t \\end{cases}$$ e $$s:\\begin{cases}x=2-2t\\\\ y=3+6t, t\\in R\\\\ z=1+4t \\end{cases}$$"],
   "Imagens": [],
   "Resposta": 3,
-  "Componente": "Tecnologias de Computação",
-  "Subarea": "Tecnologias de Computação"
+  "Componente": "Matemática",
+  "Subarea": "Matemática"
 }
