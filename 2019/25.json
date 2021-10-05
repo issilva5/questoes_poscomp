@@ -5,6 +5,6 @@
   "Alternativas": ["$$\\theta(n)$$", "$$\\theta(n log n)$$", "$$\\theta(log n)$$", "$$\\theta(n^2)$$", "$$\\theta(n^2log n)$$"],
   "Imagens": ["2019/images/img-25-01"],
   "Resposta": 1,
-  "Componente": "Fundamentos de Computação",
+  "Componente": "Fundamentos da Computação",
   "Subarea": "Análise de Algoritmos"
 }

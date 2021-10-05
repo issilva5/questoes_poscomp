@@ -5,6 +5,6 @@
   "Alternativas": ["Realça os detalhes da imagem, produzindo um efeito de sharpering (aumento da nitidez).", "Realça as propriedades geométricas da imagem a partir de máscaras pré-definidas.", "Suaviza as frequências dentro de um intervalo pré-determinado de valores.", "Suaviza a imagem atenuando as altas frequências, que correspondem às transições abruptas.", "Realça e suaviza de forma simultânea os componentes da imagem."],
   "Imagens": [],
   "Resposta": 3,
-  "Componente": "Tecnologias de Computação",
-  "Subarea": "Tecnologias de Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

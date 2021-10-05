@@ -5,6 +5,6 @@
   "Alternativas": ["Existe uma inconsistência entre os diagramas de classe e sequência.", "O objeto: Interface não poderia estar presente no diagrama de sequência, pois ele não possui uma classe correspondente.", "Os diagramas estão consistentes.", "As trocas de mensagens, apontadas no diagrama de sequência, possuem os métodos correspondentes no diagrama de classes.", "O objeto candidato não pode ser “estereotipado” como ator."],
   "Imagens": ["2016/images/img-70-01", "2016/images/img-70-02", "2016/images/img-70-03"],
   "Resposta": 0,
-  "Componente": "Tecnologias de Computação",
-  "Subarea": "Tecnologias de Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Tecnologia da Computação"
 }

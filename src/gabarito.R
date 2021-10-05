@@ -20,7 +20,7 @@ leGabarito <- function(path, ano) {
       .[-1, ] %>% mutate(Subarea = Componente,
                          Componente = case_when(
                            Questão <= 20 ~ 'Matemática',
-                           Questão <= 50 ~ 'Fundamentos de Computação',
+                           Questão <= 50 ~ 'Fundamentos da Computação',
                            TRUE ~ 'Tecnologia da Computação'
                          ))
     
@@ -36,7 +36,7 @@ leGabarito <- function(path, ano) {
       mutate(Questão = as.integer(Questão),
              Componente = case_when(
                Questão <= 20 ~ 'Matemática',
-               Questão <= 50 ~ 'Fundamentos de Computação',
+               Questão <= 50 ~ 'Fundamentos da Computação',
                TRUE ~ 'Tecnologia da Computação'
              ),
              Subarea = Componente)
