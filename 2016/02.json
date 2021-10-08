@@ -1,7 +1,7 @@
 {
   "Ano": "2016",
   "Numero": "02",
-  "Enunciado": ["Seja a transformação linear $$$T:\\mathbb{R}^{2}\\rightarrow\\mathbb{R}^{2}$$ descrita por $$T(x_{1}, x_{2})=\\begin{bmatrix}1 & 3\\\\-3 & 0.5\\end{bmatrix}\\times\\begin{bmatrix}x_{1}\\\\x_{2}\\end{bmatrix}$$, a alternativa que apresenta corretamente a lei da transformação linear e a imagem de $v$ = (−3,4) é:"],
+  "Enunciado": ["Seja a transformação linear $$T:\\mathbb{R}^{2}\\rightarrow\\mathbb{R}^{2}$$ descrita por $$T(x_{1}, x_{2})=\\begin{bmatrix}1 & 3\\\\-3 & 0.5\\end{bmatrix}\\times\\begin{bmatrix}x_{1}\\\\x_{2}\\end{bmatrix}$$, a alternativa que apresenta corretamente a lei da transformação linear e a imagem de $v$ = (−3,4) é:"],
   "Alternativas": ["$$T(x_{1}, x_{2})=(x_{1} + 3x_{2}, -3x_{1} + 0.5x_{2})$$ assim, $$T(v)$$ = (9,11)", "$$T(x_{1}, x_{2})=(x_{1} - 3x_{2}, 3x_{1} + 0.5x_{2})$$ assim, $$T(v)$$ = (21, −1)", "$$T(x_{1}, x_{2})=(x_{1} + 3x_{2}, 3x_{1} + 0.5x_{2})$$ assim, $$T(v)$$ = (9, −7)", "$$T(x_{1}, x_{2})=(x_{1} + 0.5x_{2}, -3x_{1} + 3x_{2})$$ assim, $$T(v)$$ = (−1,21)", "$$T(x_{1}, x_{2})=(-x_{1} + 3x_{2}, -3x_{1} - 0.5x_{2})$$ assim, $$T(v)$$ = (21,11)"],
   "Imagens": [],
   "Resposta": 0,

@@ -3,7 +3,7 @@
   "Numero": "21",
   "Enunciado": ["Dadas as seguintes relações de recorrência:", "I. $$T(n) = 2T\\left(\\frac{n}{2} \\right ) + O(n)$$", "II. $$T(n) = 8T\\left(\\frac{n}{2} \\right ) + O(n^2)$$", "III. $$T(n) = T\\left(\\frac{n}{2} \\right ) + O(1)$$", "As relações de recorrência I, II, e III pertencem, nessa ordem, às classes de complexidade:"],
   "Alternativas": [
-    "$$\\Theta(n^2)$$, $$\\Theta(n^3), e $$\\Theta(n)$$",
+    "$$\\Theta(n^2)$$, $$\\Theta(n^3)$$, e $$\\Theta(n)$$",
     "$$\\Theta(n)$$, $$\\Theta(n^2)$$, e $$\\Theta(n^3)$$",
     "$$\\Theta(n \\log{n})$$, $$\\Theta(n^3)$$, e $$\\Theta(\\log{n})$$",
     "$$\\Theta(\\log{n})$$, $$\\Theta(n \\log{n})$$, e $$\\Theta(n^3)$$",

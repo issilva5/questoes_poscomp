@@ -1,7 +1,7 @@
 {
   "Ano": "2016",
   "Numero": "01",
-  "Enunciado": ["Uma empresa de logística e transporte rodoviário tem três tipos de caminhões (tipo", "1, tipo 2 e tipo 3), sendo que cada caminhão tem capacidade para transportar equipamentos com 3 diferentes dimensões, conforme o número de unidades correspondente, de acordo com o que está descrito na tabela abaixo. A quantidade de caminhões carregados com a sua capacidade máxima que deve ser usada para transportar, respectivamente, 23 equipamentos com a dimensão A, 18 equipamentos com a dimensão B e 20 equipamentos com a dimensão C é:"],
+  "Enunciado": ["Uma empresa de logística e transporte rodoviário tem três tipos de caminhões (tipo 1, tipo 2 e tipo 3), sendo que cada caminhão tem capacidade para transportar equipamentos com 3 diferentes dimensões, conforme o número de unidades correspondente, de acordo com o que está descrito na tabela abaixo. A quantidade de caminhões carregados com a sua capacidade máxima que deve ser usada para transportar, respectivamente, 23 equipamentos com a dimensão A, 18 equipamentos com a dimensão B e 20 equipamentos com a dimensão C é:"],
   "Alternativas": ["4 caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.", "5 caminhões do tipo 1; 6 caminhões do tipo 2 e 6 caminhões do tipo 3.", "3 caminhões do tipo 1; 7 caminhões do tipo 2 e 5 caminhões do tipo 3.", "1 caminhão do tipo 1; 5 caminhões do tipo 2 e 8 caminhões do tipo 3.", "5 caminhões do tipo 1; 7 caminhões do tipo 2 e 4 caminhões do tipo 3."],
   "Imagens": ["2016/images/img-01-01"],
   "Resposta": 4,
