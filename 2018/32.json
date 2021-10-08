@@ -5,6 +5,6 @@
   "Alternativas": ["Um hipergrafo é um grafo direcionado em que cada aresta conecta dois vértices apenas.", "Um grafo ponderado é um grafo não direcionado no qual todos os pares de vértices são adjacentes entre si.", "Uma floresta é um grafo não direcionado acíclico e conectado.", "Uma árvore livre é um grafo não direcionado acíclico, podendo ou não ser conectado.", "Um grafo direcionado é fortemente conectado se cada dois vértices quaisquer forem alcançáveis a partir um do outro."],
   "Imagens": [],
   "Resposta": 4,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "Fundamentos de Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

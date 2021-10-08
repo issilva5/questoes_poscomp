@@ -5,6 +5,6 @@
   "Alternativas": ["$$O(n \\log{n})$$", "$$O(\\log{n})$$", "$$O(n)$$", "$$O(n^2)$$", "$$O(\\sqrt{n})$$"],
   "Imagens": ["2018/images/img-22-01"],
   "Resposta": 0,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "Fundamentos de Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

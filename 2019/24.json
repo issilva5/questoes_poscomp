@@ -5,6 +5,6 @@
   "Alternativas": ["Uma prova de indução matemática.", "Duas ou mais chamadas a procedimentos externos.", "Uma ou mais chamadas a si mesmo.", "Somente chamadas externas.", "Uma ou mais chamadas a procedimentos internos."],
   "Imagens": [],
   "Resposta": 2,
-  "Componente": "Fundamentos de Computação",
+  "Componente": "Fundamentos da Computação",
   "Subarea": "Algoritmos E Estrutura de Dados"
 }

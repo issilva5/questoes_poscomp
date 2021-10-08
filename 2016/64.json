@@ -5,6 +5,6 @@
   "Alternativas": ["síncrona – bloqueado – assíncrona – não bloqueante – em paralelo", "síncrona – liberado – assíncrona – bloqueado – em sequência", "assíncrona – liberado – síncrona – não bloqueante – em paralelo", "síncrona – não bloqueante – assíncrona – bloqueado – em paralelo", "assíncrona – bloqueado – síncrona – não bloqueante – em sequência"],
   "Imagens": [],
   "Resposta": 0,
-  "Componente": "Tecnologias de Computação",
-  "Subarea": "Tecnologias de Computação"
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

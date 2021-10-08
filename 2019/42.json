@@ -5,6 +5,6 @@
   "Alternativas": ["S = $$\\overline{\rm A}BC$$", "S = $$A\\overline{\rm B}C$$", "S = $$AB\\overline{\rm C}$$", "S = $$\\overline{\rm A}B\\overline{\rm C}$$", "S = $$\\overline{\rm A}$$ $$\\overline{\rm B}$$ $$\\overline{\rm c}$$"],
   "Imagens": ["2019/images/img-42-01"],
   "Resposta": 0,
-  "Componente": "Fundamentos de Computação",
+  "Componente": "Fundamentos da Computação",
   "Subarea": "Circuitos Digitais"
 }

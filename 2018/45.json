@@ -5,6 +5,6 @@
   "Alternativas": ["Não preempção de recursos; ao menos três destas condições presentes ao mesmo tempo.", "Não preempção de recursos; todas estas condições presentes ao mesmo tempo.", "Preempção de recursos; ao menos três destas condições presentes ao mesmo tempo.", "Preempção de recursos; todas estas condições presentes ao mesmo tempo.", "Combinação de preempção e não preempção de recursos; todas estas condições presentes ao mesmo tempo."],
   "Imagens": [],
   "Resposta": 1,
-  "Componente": "Fundamentos de Computação",
-  "Subarea": "Fundamentos de Computação"
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

@@ -123,6 +123,6 @@ O gabarito deve indicar o índice do array que contém a alternativa correta. Ca
 
 ### Componente e subárea
 
-O componente deve ser: Matemática, Fundamentos da Computação ou Tecnologias de Computação. A grafia deve ser a que aqui foi dita.
+O componente deve ser: Matemática, Fundamentos da Computação ou Tecnologia da Computação. A grafia deve ser a que aqui foi dita.
 
 A partir da prova de 2019, no gabarito passou estar incluso a subárea a qual a questão pertence, para estes casos deve ser mantido o conteúdo extraído do gabarito. Nos demais, anos este campo deve ser igual ao componente.

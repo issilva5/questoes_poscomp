@@ -5,6 +5,6 @@
   "Alternativas": ["𝑆 = $$A\\cdot B\\oplus C$$", "𝑆 = $$A\\oplus B\\oplus C$$", "𝑆 = $$\\overline{\\rm A}\\oplus B\\oplus C$$", "𝑆 = $$A\\oplus\\overline{\\rm B\\oplus C}$$", "𝑆 = $$\\overline{\\rm A\\oplus B\\oplus C}$$"],
   "Imagens": [],
   "Resposta": 1,
-  "Componente": "Fundamentos de Computação",
+  "Componente": "Fundamentos da Computação",
   "Subarea": "Circuitos Digitais"
 }

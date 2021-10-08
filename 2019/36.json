@@ -5,6 +5,6 @@
   "Alternativas": ["Caminho mais curto com destino único.", "Caminho gerador mínimo de origem única.", "Caminho mais curto com origem única.", "Caminho mais curto entre todos os pares de vértices.", "Caminho gerador mínimo de origem múltipla."],
   "Imagens": [],
   "Resposta": 2,
-  "Componente": "Fundamentos de Computação",
+  "Componente": "Fundamentos da Computação",
   "Subarea": "Teoria dos Grafos"
 }
