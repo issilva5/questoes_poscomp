@@ -3,7 +3,7 @@
   "Numero": "43",
   "Enunciado": ["Analise as assertivas a seguir sobre a figura abaixo:", "I. A figura representa o símbolo lógico de um multiplexador 4:1.", "II. Um multiplexador 8:1 pode ser composto por 2 multiplexadores 4:1 e um multiplexador 2:1.", "III. A saída Y do multiplexador representado na figura recebe A0 quando S0=0 e S1=1.", "IV. O multiplexador representado pela figura pode ser implementado com 4 portas lógicas AND NEGADA (NAND) de 3 entradas, 1 porta lógica AND NEGADA (NAND) de 4 entradas e 2 inversores.", "V. O multiplexador representado pela figura pode implementar qualquer função booleana de 2 entradas: S0 e S1.", "Quais estão corretas?"],
   "Alternativas": ["Apenas I e II.", "Apenas I e III.", "Apenas III e IV.", "Apenas II, IV e V.", "Apenas I, II, IV e V."],
-  "Imagens": ["2017/images/img-043-001"],
+  "Imagens": ["2017/images/img-43-01"],
   "Resposta": 4,
   "Componente": "Fundamentos da Computação",
   "Subarea": ""

@@ -3,14 +3,14 @@
   "Numero": "10",
   "Enunciado": ["A primitiva de $$\\int \\frac{x}{\\sqrt{x^2 + 1}}$$ é:"],
   "Alternativas": [
-    "\\left ( \\sqrt{x^2+1} \\right)^{-1} + C",
-    "\\sqrt{x^2+1} + C",
-    "x^2 + 1 + C",
-    "x^2 + C",
-    "C"
+    "$$\\left ( \\sqrt{x^2+1} \\right)^{-1} + C$$",
+    "$$\\sqrt{x^2+1} + C$$",
+    "$$x^2 + 1 + C$$",
+    "$$x^2 + C$$",
+    "$$C$$"
   ],
   "Imagens": [],
   "Resposta": 1,
   "Componente": "Matemática",
-  "Subarea": "Matemática"
+  "Subarea": ""
 }

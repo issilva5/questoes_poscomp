@@ -1,7 +1,7 @@
 {
   "Ano": "2019",
   "Numero": "39",
-  "Enunciado": ["Seja M uma máquina de Turing sobre alfabeto $$\\Sigma$$. Denotamos por ACEITA(M) o conjunto de palavras aceitas por M. Uma linguagem L $$\\subseteq \\Sigma^*$$ é denominada Turing-reconhecível quando existe uma Máquina de Turing M tal que L = ACEITA(M). Usaremos TR(L) para denotar que a linguagem L é Turing-reconhecível. Nesse sentido, analise as seguintes afirmações sobre duas linguagens L1 e L2 sobre o alfabeto $$\\Sigma$$:", "I. Se TR(L1) e TR(L2), então TR(L1 $$\\cup%% L2).", "II. Se TR(L1), então TR($$\\Sigma^*$$ \\ L1).", "III. Se TR(L1) e TR(L2), então TR(L1 $$\\cap%% L2).", "Quais estão corretas?"],
+  "Enunciado": ["Seja M uma máquina de Turing sobre alfabeto $$\\Sigma$$. Denotamos por ACEITA(M) o conjunto de palavras aceitas por M. Uma linguagem L $$\\subseteq \\Sigma^*$$ é denominada Turing-reconhecível quando existe uma Máquina de Turing M tal que L = ACEITA(M). Usaremos TR(L) para denotar que a linguagem L é Turing-reconhecível. Nesse sentido, analise as seguintes afirmações sobre duas linguagens L1 e L2 sobre o alfabeto $$\\Sigma$$:", "I. Se TR(L1) e TR(L2), então TR(L1 $$\\cup$$ L2).", "II. Se TR(L1), então TR($$\\Sigma^*$$ \\ L1).", "III. Se TR(L1) e TR(L2), então TR(L1 $$\\cap$$ L2).", "Quais estão corretas?"],
   "Alternativas": ["Apenas I.", "Apenas II.", "Apenas I e III.", "Apenas II e III.", "I, II e III."],
   "Imagens": [],
   "Resposta": 2,
