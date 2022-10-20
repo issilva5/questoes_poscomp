@@ -1,11 +1,10 @@
 {
-  "N": "57",
-  "Enun": "Considerando um sistema de coordenadas no espaço, em uma orientação\npreviamente definida, e sabendo que são conhecidos os vetores (ortogonais entre si) correspondentes\naos eixos X e Y, qual é o nome da operação que é capaz de produzir o vetor correspondente ao eixo\nZ desse sistema",
-  "A": "Produto escalar.",
-  "B": "Produto vetorial.",
-  "C": "Normalização.",
-  "D": "Translação.",
-  "E": "Projeção.",
-  "Resposta": "B",
-  "Componente": "Computação Gráfica"
+  "Ano": "2019",
+  "Numero": "57",
+  "Enunciado": ["Considerando um sistema de coordenadas no espaço, em uma orientação previamente definida, e sabendo que são conhecidos os vetores (ortogonais entre si) correspondentes aos eixos X e Y, qual é o nome da operação que é capaz de produzir o vetor correspondente ao eixo Z desse sistema $$-$$ isto é, perpendicular aos outros dois?"],
+  "Alternativas": ["Produto escalar.", "Produto vetorial.", "Normalização.", "Translação.", "Projeção."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Computação Gráfica"
 }

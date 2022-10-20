@@ -1,11 +1,14 @@
 {
-  "N": "30",
-  "Enun": "Considere as afirmações abaixo sobre comandos em linguagens de programação:\n  I. Uma declaração de variável associa um nome a um valor que, geralmente, não pode ser alterado\n     durante a execução do programa.\n II. Expressões aritméticas são expressões cujos resultados são valores numéricos, inteiros ou\n     fracionários.\nIII. Expressões lógicas são aquelas que têm como resultado um dos dois valores, verdadeiro ou falso.\nQuais estão corretas?",
-  "A": "Apenas I.",
-  "B": "Apenas II.",
-  "C": "Apenas III.",
-  "D": "Apenas II e III.",
-  "E": "I, II e III.",
-  "Resposta": "D",
-  "Componente": "Técnicas de Programação"
+  "Ano": "2019",
+  "Numero": "30",
+  "Enunciado": ["Considere as afirmações abaixo sobre comandos em linguagens de programação:", 
+    "I. Uma declaração de variável associa um nome a um valor que, geralmente, não pode ser alterado durante a execução do programa.", 
+    "II. Expressões aritméticas são expressões cujos resultados são valores numéricos, inteiros ou fracionários.", 
+    "III. Expressões lógicas são aquelas que têm como resultado um dos dois valores, verdadeiro ou falso.", 
+    "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas II.", "Apenas III.", "Apenas II e III.", "I, II e III."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Técnicas de Programação"
 }

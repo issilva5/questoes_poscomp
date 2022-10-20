@@ -1,11 +1,10 @@
 {
-  "N": "55",
-  "Enun": "A paginação de sobra (shadow paging) é uma técnica útil na recuperação após\nfalhas em sistemas de bancos de dados. Sobre essa técnica, assinale a alternativa INCORRETA.",
-  "A": "O uso de logs e checkpoints são dispensáveis no contexto multiusuário com transações\n    concorrentes.",
-  "B": "Quando uma página é atualizada, essa página muda de local no disco, se não ocorrer falha na\n    execução da transação.",
-  "C": "No início de uma transação, o diretório cujas entradas apontam para as páginas de dados mais\n    recentes no disco (diretório atual) é copiado para um diretório de sombra.",
-  "D": "Durante a execução da transação, o diretório de sombra não é modificado.",
-  "E": "Na ocorrência de falha, o estado de banco de dados antes da execução da transação está\n    disponível por meio do diretório de sombra.",
-  "Resposta": "A",
-  "Componente": "Tecnologia da Computação"
+  "Ano": "2018",
+  "Numero": "55",
+  "Enunciado": ["A paginação de sobra (shadow paging) é uma técnica útil na recuperação após falhas em sistemas de bancos de dados. Sobre essa técnica, assinale a alternativa INCORRETA."],
+  "Alternativas": ["O uso de logs e checkpoints são dispensáveis no contexto multiusuário com transações concorrentes.", "Quando uma página é atualizada, essa página muda de local no disco, se não ocorrer falha na execução da transação.", "No início de uma transação, o diretório cujas entradas apontam para as páginas de dados mais disco (diretório atual) é copiado para um diretório de sombra.", "Durante a execução da transação, o diretório de sombra não é modificado.", "Na ocorrência de falha, o estado de banco de dados antes da execução da transação está disponível por meio do diretório de sombra."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

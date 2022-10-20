@@ -1,11 +1,10 @@
 {
-  "N": "61",
-  "Enun": "No contexto de processamento de imagens, um filtro do tipo passa-baixa produz o\nseguinte resultado:",
-  "A": "Realça os detalhes da imagem, produzindo um efeito de sharpering (aumento da nitidez).",
-  "B": "Realça as propriedades geométricas da imagem a partir de máscaras pré-definidas.",
-  "C": "Suaviza as frequências dentro de um intervalo pré-determinado de valores.",
-  "D": "Suaviza a imagem atenuando as altas frequências, que correspondem às transições abruptas.",
-  "E": "Realça e suaviza de forma simultânea os componentes da imagem.",
-  "Resposta": "D",
-  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+  "Ano": "2016",
+  "Numero": "61",
+  "Enunciado": ["No contexto de processamento de imagens, um filtro do tipo passa-baixa produz o seguinte resultado:"],
+  "Alternativas": ["Realça os detalhes da imagem, produzindo um efeito de sharpering (aumento da nitidez).", "Realça as propriedades geométricas da imagem a partir de máscaras pré-definidas.", "Suaviza as frequências dentro de um intervalo pré-determinado de valores.", "Suaviza a imagem atenuando as altas frequências, que correspondem às transições abruptas.", "Realça e suaviza de forma simultânea os componentes da imagem."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

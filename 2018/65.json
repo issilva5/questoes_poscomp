@@ -1,11 +1,10 @@
 {
-  "N": "65",
-  "Enun": "Qual protocolo que converte nome em string ASCII em endereço de rede?",
-  "A": "Stringle.",
-  "B": "DNS.",
-  "C": "ARP.",
-  "D": "IP.",
-  "E": "TCP.",
-  "Resposta": "B",
-  "Componente": "Tecnologia da Computação"
+  "Ano": "2018",
+  "Numero": "65",
+  "Enunciado": ["Qual protocolo que converte nome em string ASCII em endereço de rede?"],
+  "Alternativas": ["Stringle.", "DNS.", "ARP.", "IP.", "TCP."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

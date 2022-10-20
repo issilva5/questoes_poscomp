@@ -1,11 +1,10 @@
 {
-  "N": "09",
-  "Enun": "A respeito das propriedades da relação definida por RAxA, para A={x  N tal que\n1 x 6}, descrita pela matriz de incidência da relação\n              1 0  0    0  0  0\n              0 1  1    0  0  1\n              0 1  1    0  0  1         𝑎𝑖𝑗 = 0, 𝑠𝑒 (𝑖, 𝑗) ∉ 𝑅\n        𝐴=                       para {\n              0 0  0    1  0  0         𝑎𝑖𝑗 = 1, 𝑠𝑒 (𝑖, 𝑗) ∈ 𝑅\n              0 1  1    0  1  1\n             [0 0  0    0  0  1]\né correto afirmar que essa relação é:",
-  "A": "Somente reflexiva.",
-  "B": "Somente simétrica.",
-  "C": "Somente transitiva.",
-  "D": "Reflexiva e simétrica, mas não é transitiva.",
-  "E": "Reflexiva e transitiva, mas não é simétrica.",
-  "Resposta": "E",
-  "Componente": "MATEMáTICA"
+  "Ano": "2016",
+  "Numero": "09",
+  "Enunciado": ["A respeito das propriedades da relação definida por $$R\\subseteq A\\times A$$, para $$A={x\\in N \\text{ tal que } 1\\leq x\\leq 6}$$, descrita pela matriz de incidência da relação mostrada abaixo, é correto afirmar que essa relação é:"],
+  "Alternativas": ["Somente reflexiva.", "Somente simétrica.", "Somente transitiva.", "Reflexiva e simétrica, mas não é transitiva.", "Reflexiva e transitiva, mas não é simétrica."],
+  "Imagens": ["2016/images/img-09-01"],
+  "Resposta": 4,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

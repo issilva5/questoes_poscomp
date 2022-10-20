@@ -1,11 +1,10 @@
 {
-  "N": "62",
-  "Enun": "Uma falha por omissão ocorre quando um processo",
-  "A": "não responde a requisições que chegam.",
-  "B": "simplesmente para prematuramente.",
-  "C": "responde muito cedo a uma requisição.",
-  "D": "responde a uma requisição que chega de modo errado.",
-  "E": "responde muito tarde a uma requisição.",
-  "Resposta": "A",
-  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+  "Ano": "2016",
+  "Numero": "62",
+  "Enunciado": ["Uma falha por omissão ocorre quando um processo"],
+  "Alternativas": ["não responde a requisições que chegam.", "simplesmente para prematuramente.", "responde muito cedo a uma requisição.", "responde a uma requisição que chega de modo errado.", "responde muito tarde a uma requisição."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

@@ -1,11 +1,10 @@
 {
-  "N": "25",
-  "Enun": "Em relação ao projeto de algoritmos, relacione a Coluna 1 à Coluna 2.\nColuna 1\n1. Tentativa e Erro.\n2. Divisão e Conquista.\n3. Guloso.\n4. Aproximado.\n5. Heurística.\nColuna 2\n( ) O algoritmo decompõe o processo em um número finito de subtarefas parciais que devem ser\n     exploradas exaustivamente.\n( ) O algoritmo divide o problema a ser resolvido em partes menores, encontra soluções para as\n     partes e então combina as soluções obtidas em uma solução global.\n( ) O algoritmo constrói por etapas uma solução ótima. Em cada passo, após selecionar um elemento\n     da entrada (o melhor), decide se ele é viável (caso em que virá a fazer parte da solução) ou não.\n     Após uma sequência de decisões, uma solução para o problema é alcançada.\n( ) O algoritmo gera soluções cujo resultado encontra-se dentro de um limite para a razão entre a\n     solução ótima e a produzida pelo algoritmo.\n( ) O algoritmo pode produzir um bom resultado, ou até mesmo obter uma solução ótima, mas pode\n     também não produzir solução nenhuma ou uma solução distante da solução ótima.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
-  "A": "1  – 2 – 3 –  4 – 5.",
-  "B": "2  – 3 – 4 –  5 – 1.",
-  "C": "3  – 4 – 5 –  1 – 2.",
-  "D": "4  – 5 – 1 –  2 – 3.",
-  "E": "5  – 1 – 2 –  3 – 4.",
-  "Resposta": "A",
-  "Componente": "FUNDAMENTOS DA COMPUTAçãO"
+  "Ano": "2016",
+  "Numero": "25",
+  "Enunciado": ["Em relação ao projeto de algoritmos, relacione a Coluna 1 à Coluna 2.", "Coluna 1", "1. Tentativa e Erro.", "2. Divisão e Conquista.", "3. Guloso.", "4. Aproximado.", "5. Heurística.", "Coluna 2", "( ) O algoritmo decompõe o processo em um número finito de subtarefas parciais que devem ser exploradas exaustivamente.", "( ) O algoritmo divide o problema a ser resolvido em partes menores, encontra soluções para as partes e então combina as soluções obtidas em uma solução global.", "( ) O algoritmo constrói por etapas uma solução ótima. Em cada passo, após selecionar um elemento da entrada (o melhor), decide se ele é viável (caso em que virá a fazer parte da solução) ou não. Após uma sequência de decisões, uma solução para o problema é alcançada.", "( ) O algoritmo gera soluções cujo resultado encontra-se dentro de um limite para a razão entre a solução ótima e a produzida pelo algoritmo.", "( ) O algoritmo pode produzir um bom resultado, ou até mesmo obter uma solução ótima, mas pode também não produzir solução nenhuma ou uma solução distante da solução ótima.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["1  – 2 – 3 –  4 – 5.", "2  – 3 – 4 –  5 – 1.", "3  – 4 – 5 –  1 – 2.", "4  – 5 – 1 –  2 – 3.", "5  – 1 – 2 –  3 – 4."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

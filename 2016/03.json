@@ -1,11 +1,10 @@
 {
-  "N": "03",
-  "Enun": "Os pontos A(2,3,4), B(1,5,6) e C(4,2,3) são os vértices de um triângulo de área:",
-  "A": "√3 𝑐𝑚2",
-  "B": "2√3 𝑐𝑚2\n   3 √2",
-  "C": "     𝑐𝑚2\n     2",
-  "D": "6√3 𝑐𝑚2",
-  "E": "3√3 𝑐𝑚2",
-  "Resposta": "C",
-  "Componente": "MATEMáTICA"
+  "Ano": "2016",
+  "Numero": "03",
+  "Enunciado": ["Os pontos A(2,3,4), B(1,5,6) e C(4,2,3) são os vértices de um triângulo de área:"],
+  "Alternativas": ["$$\\sqrt{3} cm^{2}$$", "$$2\\sqrt{3} cm^{2}$$", "$$\\frac{3\\sqrt{2}}{2} cm^{2}$$", "$$6\\sqrt{3} cm^{2}$$", "$$6\\sqrt{3} cm^{2}$$", "$$3\\sqrt{3} cm^{2}$$"],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

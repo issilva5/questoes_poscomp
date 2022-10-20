@@ -1,11 +1,10 @@
 {
-  "N": "38",
-  "Enun": "O programa deve ser feito de forma descendente, com a decomposição do problema\ninicial em módulos, de modo a dividir as ações complexas em uma sequência de ações mais simples.\nEssa técnica de programação é chamada de programação:",
-  "A": "Abstrata.",
-  "B": "Interna.",
-  "C": "Declarativa.",
-  "D": "Sequencial.",
-  "E": "Modular.",
-  "Resposta": "E",
-  "Componente": "Técnicas de Programação"
+  "Ano": "2019",
+  "Numero": "38",
+  "Enunciado": ["O programa deve ser feito de forma descendente, com a decomposição do problema inicial em módulos, de modo a dividir as ações complexas em uma sequência de ações mais simples. Essa técnica de programação é chamada de programação:"],
+  "Alternativas": ["Abstrata.", "Interna.", "Declarativa.", "Sequencial.", "Modular."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Técnicas de Programação"
 }

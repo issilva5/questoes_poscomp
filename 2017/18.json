@@ -1,11 +1,10 @@
 {
-  "N": "18",
-  "Enun": "Uma variável aleatória está definida pela seguinte função de densidade de\nprobabilidade:\n                                            𝑘𝑥 3 ,       0<𝑥<1\n                                   𝑓(𝑥) = {\n                                            0,     ∀𝑥 ≠ 0 < 𝑥 < 1\nQual é a probabilidade para que a variável aleatória tenha um valor entre 0,25 e 0,75?",
-  "A": "0,76",
-  "B": "0,25",
-  "C": "0,31",
-  "D": "0,80",
-  "E": "0,38",
-  "Resposta": "C",
-  "Componente": "Matemática"
+  "Ano": "2017",
+  "Numero": "18",
+  "Enunciado": ["Uma variável aleatória está definida pela seguinte função de densidade de probabilidade:", "$$f(x)=\\left\\{\\begin{matrix} kx^{3},& 0 < x < 1\\\\ 0, & \\forall x \\neq 0 < x < 1 \\end{matrix}\\right.$$", "Qual é a probabilidade para que a variável aleatória tenha um valor entre 0,25 e 0,75?"],
+  "Alternativas": ["0,76", "0,25", "0,31", "0,80", "0,38"],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

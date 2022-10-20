@@ -1,11 +1,10 @@
 {
-  "N": "23",
-  "Enun": "Selecione o menor item do vetor e, a seguir, troque-o com o item que está na\nprimeira posição do vetor. Repita essas duas operações com os n",
-  "A": "Por seleção.",
-  "B": "Por inserção.",
-  "C": "Shellsort.",
-  "D": "Quicksort.",
-  "E": "Heapsort.",
-  "Resposta": "A",
-  "Componente": "Fundamentos de Computação"
+  "Ano": "2018",
+  "Numero": "23",
+  "Enunciado": ["Selecione o menor item do vetor e, a seguir, troque-o com o item que está na primeira posição do vetor. Repita essas duas operações com os $$n-1$$ itens restantes, depois com os $$n-2$$ itens, até que reste apenas um elemento. Qual é o método de ordenação descrito?"],
+  "Alternativas": ["Por seleção.", "Por inserção.", "Shellsort.", "Quicksort.", "Heapsort."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

@@ -1,11 +1,10 @@
 {
-  "N": "67",
-  "Enun": "Analise as seguintes afirmações sobre comunicação entre processos em sistemas\ndistribuídos:\n  I. A essência da comunicação persistente é que uma mensagem apresentada para transmissão é\n     armazenada pelo sistema de comunicação pelo tempo que for necessário para entregá-la.\n II. Em comunicação transiente, nenhuma facilidade de armazenamento é oferecida de modo que o\n     receptor deve estar preparado para aceitar a mensagem quando ela for enviada.\nIII. Em comunicação síncrona, o remetente tem permissão de continuar imediatamente após a\n     mensagem ter sido apresentada para transmissão, possivelmente antes de ela ter sido enviada.\nIV. Em comunicação assíncrona, o remetente é bloqueado no mínimo até que uma mensagem seja\n     recebida. Alternativamente, o remetente pode ser bloqueado até ocorrer a entrega da mensagem\n     ou, até mesmo, até que o receptor tenha respondido.\nQuais estão corretas?",
-  "A": "Apenas I e II.",
-  "B": "Apenas III e IV.",
-  "C": "Apenas I, II e III.",
-  "D": "Apenas II, III e IV.",
-  "E": "I, II, III e IV.",
-  "Resposta": "A",
-  "Componente": "Tecnologia da Computação"
+  "Ano": "2017",
+  "Numero": "67",
+  "Enunciado": ["Analise as seguintes afirmações sobre comunicação entre processos em sistemas distribuídos:", "I. A essência da comunicação persistente é que uma mensagem apresentada para transmissão é armazenada pelo sistema de comunicação pelo tempo que for necessário para entregá-la.", "II. Em comunicação transiente, nenhuma facilidade de armazenamento é oferecida de modo que o receptor deve estar preparado para aceitar a mensagem quando ela for enviada.", "III. Em comunicação síncrona, o remetente tem permissão de continuar imediatamente após a mensagem ter sido apresentada para transmissão, possivelmente antes de ela ter sido enviada.", "IV. Em comunicação assíncrona, o remetente é bloqueado no mínimo até que uma mensagem seja recebida. Alternativamente, o remetente pode ser bloqueado até ocorrer a entrega da mensagem ou, até mesmo, até que o receptor tenha respondido.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I e II.", "Apenas III e IV.", "Apenas I, II e III.", "Apenas II, III e IV.", "I, II, III e IV."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

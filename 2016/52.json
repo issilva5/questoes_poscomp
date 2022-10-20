@@ -1,11 +1,10 @@
 {
-  "N": "52",
-  "Enun": "Considere um banco de dados para apoiar a correção das provas do POSCOMP. Sabe-\n se que há as relações CANDIDATO, QUESTAO e RESPOSTA. O atributo X da relação QUESTAO é uma\n chave estrangeira. Com base apenas nessas informações, analise as assertivas abaixo sobre a\n definição de restrições para essa chave estrangeira:\n  I. Pode ter valores repetidos nas tuplas de QUESTAO.\n II. Pode ter valor nulo em algumas das tuplas de QUESTAO.\nIII. Pode referenciar, ao mesmo tempo, as relações CANDIDATO e RESPOSTA.\nIV.  Pode referenciar outra chave estrangeira.\n  V. Pode ter valor não nulo distinto de todos os valores presentes na chave primária da relação que\n     referencia.\n Quais estão corretas?\n A) Apenas  I e II.\n B) Apenas  I e III.\n C) Apenas  II e V.\n D) Apenas  III e IV.\n E) Apenas  IV e V.\n Execução: Fundatec                                                                               19\n                                         EXAME POSCOMP",
-  "A": null,
-  "B": null,
-  "C": null,
-  "D": null,
-  "E": null,
-  "Resposta": "A",
-  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+  "Ano": "2016",
+  "Numero": "52",
+  "Enunciado": ["Considere um banco de dados para apoiar a correção das provas do POSCOMP. Sabe-se que há as relações CANDIDATO, QUESTAO e RESPOSTA. O atributo X da relação QUESTAO é uma chave estrangeira. Com base apenas nessas informações, analise as assertivas abaixo sobre a definição de restrições para essa chave estrangeira:", "I. Pode ter valores repetidos nas tuplas de QUESTAO.", "II. Pode ter valor nulo em algumas das tuplas de QUESTAO.", "III. Pode referenciar, ao mesmo tempo, as relações CANDIDATO e RESPOSTA.", "IV. Pode referenciar outra chave estrangeira.", "V. Pode ter valor não nulo distinto de todos os valores presentes na chave primária da relação que referencia.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I e II.", "Apenas I e III.", "Apenas II e V.", "Apenas III e IV.", "Apenas IV e V."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

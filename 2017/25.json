@@ -1,11 +1,10 @@
 {
-  "N": "25",
-  "Enun": "A análise de algoritmos que estabelece um limite superior para o tempo de execução\nde qualquer entrada é denominada análise",
-  "A": "do  melhor caso.",
-  "B": "do  caso médio.",
-  "C": "do  pior caso.",
-  "D": "da  ordem de crescimento.",
-  "E": "do  tamanho da entrada.",
-  "Resposta": "C",
-  "Componente": "Fundamentos da Computação"
+  "Ano": "2017",
+  "Numero": "25",
+  "Enunciado": ["A análise de algoritmos que estabelece um limite superior para o tempo de execução de qualquer entrada é denominada análise"],
+  "Alternativas": ["do  melhor caso.", "do  caso médio.", "do  pior caso.", "da  ordem de crescimento.", "do  tamanho da entrada."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

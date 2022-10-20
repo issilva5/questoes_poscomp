@@ -1,11 +1,10 @@
 {
-  "N": "13",
-  "Enun": "Quantas senhas de no mínimo 4 caracteres e no máximo 6 caracteres podem ser\nconstruídas quando é permitido usar as 5 vogais minúsculas do alfabeto e 10 algarismos, sendo que\no primeiro caractere da senha é, obrigatoriamente, uma vogal e que podemos repetir caracteres?",
-  "A": "687.656.",
-  "B": "813.375.",
-  "C": "3.796.875.",
-  "D": "4.066.875.",
-  "E": "11.390.625.",
-  "Resposta": "D",
-  "Componente": "MATEMáTICA"
+  "Ano": "2016",
+  "Numero": "13",
+  "Enunciado": ["Quantas senhas de no mínimo 4 caracteres e no máximo 6 caracteres podem ser construídas quando é permitido usar as 5 vogais minúsculas do alfabeto e 10 algarismos, sendo que o primeiro caractere da senha é, obrigatoriamente, uma vogal e que podemos repetir caracteres?"],
+  "Alternativas": ["687.656.", "813.375.", "3.796.875.", "4.066.875.", "11.390.625."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

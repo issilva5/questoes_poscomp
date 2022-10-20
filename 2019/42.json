@@ -1,11 +1,10 @@
 {
-  "N": "42",
-  "Enun": "Assinale a alternativa que apresenta a expressão simplificada equivalente ao circuito\nlógico abaixo:",
-  "A": "S = A B C",
-  "B": "S = A B C",
-  "C": "S = A B C",
-  "D": "S = A B C",
-  "E": "S = A B C",
-  "Resposta": "A",
-  "Componente": "Circuitos Digitais"
+  "Ano": "2019",
+  "Numero": "42",
+  "Enunciado": ["Assinale a alternativa que apresenta a expressão simplificada equivalente ao circuito lógico abaixo:"],
+  "Alternativas": ["S = $$\\overline{\rm A}BC$$", "S = $$A\\overline{\rm B}C$$", "S = $$AB\\overline{\rm C}$$", "S = $$\\overline{\rm A}B\\overline{\rm C}$$", "S = $$\\overline{\rm A}$$ $$\\overline{\rm B}$$ $$\\overline{\rm c}$$"],
+  "Imagens": ["2019/images/img-42-01"],
+  "Resposta": 0,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Circuitos Digitais"
 }

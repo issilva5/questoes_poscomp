@@ -1,11 +1,10 @@
 {
-  "N": "10",
-  "Enun": "A função        𝑔(𝑥) = 𝑥³ − 6𝑥 2 + 9𝑥 − 2 tem um máximo local estrito no ponto:",
-  "A": "𝐴(0, −2)",
-  "B": "𝐴(3, −2)",
-  "C": "𝐴(1,2)",
-  "D": "𝐴(2,0)",
-  "E": "𝐴(4,2)",
-  "Resposta": "C",
-  "Componente": "Calculo Diferencial E Integral"
+  "Ano": "2019",
+  "Numero": "10",
+  "Enunciado": ["A função $$g(x) = x^3-6x^2 +9x-2 $$ tem um máximo local estrito no ponto:"],
+  "Alternativas": ["A(0, −2)", "A(3, −2)", "A(1,2)", "A(2,0)", "A(4,2)"],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Matemática",
+  "Subarea": "Cálculo Diferencial e Integral"
 }

@@ -1,11 +1,10 @@
 {
-  "N": "01",
-  "Enun": "Para quais valores de a, b, c, d, e, f a matriz 𝐽 = (              1  0) é diagonalizável?\n                                                                         𝑏   0\n                                                                         𝑐   0  𝑓  0",
-  "A": "Não pode ser diagonalizável.",
-  "B": "Apenas para números inteiros.",
-  "C": "Somente para números positivos.",
-  "D": "Para quaisquer valores.",
-  "E": "Somente para valores nulos.",
-  "Resposta": "D",
-  "Componente": "Matemática"
+  "Ano": "2018",
+  "Numero": "01",
+  "Enunciado": ["Para quais valores de $$a$$, $$b$$, $$c$$, $$d$$, $$e$$, $$f$$ a matriz J = $$\\begin{pmatrix} 3 & 0 & 0 & 0\\\\ a & 2 & d & e \\\\ b & 0 & 1 & 0\\\\ c & 0 & f & 0\\end{pmatrix}$$ é diagonalizável?"],
+  "Alternativas": ["Não pode ser diagonalizável.", "Apenas para números inteiros.", "Somente para números positivos.", "Para quaisquer valores.", "Somente para valores nulos."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

@@ -1,11 +1,10 @@
 {
-  "N": "61",
-  "Enun": "A quantização de imagens pode ser entendida como um processo de:",
-  "A": "Conversão de cada amostra em uma observação discreta.",
-  "B": "Equalização da distribuição de cores.",
-  "C": "Correção da iluminação.",
-  "D": "Discretização dos valores de brilho.",
-  "E": "Mapeamento dos canais da imagem.",
-  "Resposta": "A",
-  "Componente": "Tecnologia da Computação"
+  "Ano": "2018",
+  "Numero": "61",
+  "Enunciado": ["A quantização de imagens pode ser entendida como um processo de:"],
+  "Alternativas": ["Conversão de cada amostra em uma observação discreta.", "Equalização da distribuição de cores.", "Correção da iluminação.", "Discretização dos valores de brilho.", "Mapeamento dos canais da imagem."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

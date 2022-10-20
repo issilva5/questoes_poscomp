@@ -1,11 +1,10 @@
 {
-  "N": "03",
-  "Enun": "O vetor diretor de uma reta r é 𝑣⃗ = (−1,2) e passa pelo ponto P(-5, -5). A outra\nreta s tem pendente m=-2 e passa pelo ponto N(0, 5). Em relação à disposição das retas, elas:",
-  "A": "São perpendiculares.",
-  "B": "São paralelas.",
-  "C": "Se cruzam.",
-  "D": "São tangentes.",
-  "E": "Não são retas.",
-  "Resposta": "B",
-  "Componente": "Matemática"
+  "Ano": "2018",
+  "Numero": "03",
+  "Enunciado": ["O vetor diretor de uma reta $$r$$ é $$\\vec{v} = (-1,2)$$ e passa pelo ponto P(-5, -5). A outra reta $$s$$ tem pendente m=-2 e passa pelo ponto N(0, 5). Em relação à disposição das retas, elas:"],
+  "Alternativas": ["São perpendiculares.", "São paralelas.", "Se cruzam.", "São tangentes.", "Não são retas."],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

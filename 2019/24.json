@@ -1,11 +1,10 @@
 {
-  "N": "24",
-  "Enun": "Um procedimento recursivo é aquele que contém em sua descrição:",
-  "A": "Uma prova de indução matemática.",
-  "B": "Duas ou mais chamadas a procedimentos externos.",
-  "C": "Uma ou mais chamadas a si mesmo.",
-  "D": "Somente chamadas externas.",
-  "E": "Uma ou mais chamadas a procedimentos internos.",
-  "Resposta": "C",
-  "Componente": "Algoritmos E Estrutura de Dados"
+  "Ano": "2019",
+  "Numero": "24",
+  "Enunciado": ["Um procedimento recursivo é aquele que contém em sua descrição:"],
+  "Alternativas": ["Uma prova de indução matemática.", "Duas ou mais chamadas a procedimentos externos.", "Uma ou mais chamadas a si mesmo.", "Somente chamadas externas.", "Uma ou mais chamadas a procedimentos internos."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Algoritmos e Estrutura de Dados"
 }

@@ -1,11 +1,10 @@
 {
-  "N": "58",
-  "Enun": "Como se denomina uma fonte de luz que esteja a uma distância infinita de uma cena,\ngerando uma iluminação similar à da luz do Sol?",
-  "A": "Pontual.",
-  "B": "Ambiente.",
-  "C": "Direcional.",
-  "D": "Spot.",
-  "E": "Difusa.",
-  "Resposta": "C",
-  "Componente": "Computação Gráfica"
+  "Ano": "2019",
+  "Numero": "58",
+  "Enunciado": ["Como se denomina uma fonte de luz que esteja a uma distância infinita de uma cena, gerando uma iluminação similar à da luz do Sol?"],
+  "Alternativas": ["Pontual.", "Ambiente.", "Direcional.", "Spot.", "Difusa."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Computação Gráfica"
 }

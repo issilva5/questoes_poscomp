@@ -1,11 +1,10 @@
 {
-  "N": "44",
-  "Enun": "Considere um computador no qual o interpretador do nível 0 (hardware\ninterpretando o microcódigo) gasta 20 nanosegundos (20x10-9 segundos) por microinstrução, e o\ninterpretador do nível 1 (microcódigo interpretando a linguagem de máquina convencional)\nnecessita de 25 microinstruções para interpretar uma instrução de máquina convencional. Um\nprograma teste, já em linguagem de máquina convencional, leva 50 segundos para executar.\na) Quanto tempo levará o programa teste para executar se o tempo para executar uma\n   microinstrução for aumentado para 30 nanosegundos?\nb) Quanto tempo levará o programa teste para executar se uma instrução de máquina convencional\n   necessitar de somente 15 microinstruções para ser interpretada?",
-  "A": "a) T = 60  segundos  e b) 15 segundos.",
-  "B": "a) T = 65  segundos  e b) 20 segundos.",
-  "C": "a) T = 70  segundos  e b) 25 segundos.",
-  "D": "a) T = 75  segundos  e b) 30 segundos.",
-  "E": "a) T = 80  segundos  e b) 35 segundos.",
-  "Resposta": "D",
-  "Componente": "Fundamentos de Computação"
+  "Ano": "2018",
+  "Numero": "44",
+  "Enunciado": ["Considere um computador no qual o interpretador do nível 0 (hardware interpretando o microcódigo) gasta 20 nanosegundos $$(20 \\times 10^{-9})$$ por microinstrução, e o interpretador do nível 1 (microcódigo interpretando a linguagem de máquina convencional) necessita de 25 microinstruções para interpretar uma instrução de máquina convencional. Um programa teste, já em linguagem de máquina convencional, leva 50 segundos para executar.", "a) Quanto tempo levará o programa teste para executar se o tempo para executar uma microinstrução for aumentado para 30 nanosegundos?", "b) Quanto tempo levará o programa teste para executar se uma instrução de máquina convencional necessitar de somente 15 microinstruções para ser interpretada?"],
+  "Alternativas": ["a) T = 60  segundos  e b) 15 segundos.", "a) T = 65  segundos  e b) 20 segundos.", "a) T = 70  segundos  e b) 25 segundos.", "a) T = 75  segundos  e b) 30 segundos.", "a) T = 80  segundos  e b) 35 segundos."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

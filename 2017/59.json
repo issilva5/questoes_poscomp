@@ -1,11 +1,10 @@
 {
-  "N": "59",
-  "Enun": "São técnicas de processamento digital todas as opções abaixo, EXCETO:",
-  "A": "Processamento morfológico.",
-  "B": "Amostragem e quantização.",
-  "C": "Segmentação.",
-  "D": "Têmpera simulada.",
-  "E": "Limiarização.",
-  "Resposta": "D",
-  "Componente": "Tecnologia da Computação"
+  "Ano": "2017",
+  "Numero": "59",
+  "Enunciado": ["São técnicas de processamento digital todas as opções abaixo, EXCETO:"],
+  "Alternativas": ["Processamento morfológico.", "Amostragem e quantização.", "Segmentação.", "Têmpera simulada.", "Limiarização."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

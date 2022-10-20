@@ -1,11 +1,10 @@
 {
-  "N": "34",
-  "Enun": "Arquivo direto, também denominado arquivo hash, é uma forma de organização de\narquivo baseada em hashing sobre um campo chave (o campo hash). Assinale a alternativa\nINCORRETA, dentre as afirmações abaixo, sobre arquivos hash.",
-  "A": "O espaço do endereço-alvo da função hash são buckets, isto é, blocos de disco (ou grupos\n   consecutivos de blocos de disco), cada qual mantendo múltiplos registros.",
-  "B": "O problema de colisão é resolvido utilizando buckets em áreas de overflow.",
-  "C": "Arquivos hash possibilitam acesso muito rápido a pesquisas baseadas na igualdade de valor do\n   campo hash.",
-  "D": "O hashing extensível possui um diretório com profundida global d, que corresponde aos d dígitos\n   mais significativos de um valor de hash. Já cada bucket possui profundidade local d’ possivelmente\n   distinta dos demais buckets, tal que d<=d’.",
-  "E": "Uma grande vantagem do hashing extensível é que o desempenho do arquivo não degrada\n   conforme o arquivo cresce, em oposição ao hashing estático.",
-  "Resposta": "D",
-  "Componente": "Fundamentos da Computação"
+  "Ano": "2017",
+  "Numero": "34",
+  "Enunciado": ["Arquivo direto, também denominado arquivo hash, é uma forma de organização de arquivo baseada em hashing sobre um campo chave (o campo hash). Assinale a alternativa INCORRETA, dentre as afirmações abaixo, sobre arquivos hash."],
+  "Alternativas": ["O espaço do endereço-alvo da função hash são buckets, isto é, blocos de disco (ou grupos consecutivos de blocos de disco), cada qual mantendo múltiplos registros.", "O problema de colisão é resolvido utilizando buckets em áreas de overflow.", "Arquivos hash possibilitam acesso muito rápido a pesquisas baseadas na igualdade de valor do campo hash.", "O hashing extensível possui um diretório com profundida global d, que corresponde aos d dígitos mais significativos de um valor de hash. Já cada bucket possui profundidade local d’ possivelmente distinta dos demais buckets, tal que d<=d’.", "Uma grande vantagem do hashing extensível é que o desempenho do arquivo não degrada conforme o arquivo cresce, em oposição ao hashing estático."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

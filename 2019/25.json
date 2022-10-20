@@ -1,11 +1,10 @@
 {
-  "N": "25",
-  "Enun": "Considere a seguinte função em C:\nvoid funcao(int n){\n  int i,j;\n  for (i=1; i<=n; i++)\n     for(j=1; j<log(i); j++)\n       printf(“%d”,i+j)\n}\nA complexidade dessa função é:",
-  "A": "𝛩(𝑛)",
-  "B": "𝛩(𝑛 𝑙𝑜𝑔 𝑛)",
-  "C": "𝛩(𝑙𝑜𝑔 𝑛)",
-  "D": "𝛩(𝑛2 )",
-  "E": "𝛩(𝑛2 𝑙𝑜𝑔 𝑛)",
-  "Resposta": "B",
-  "Componente": "Análise de Algoritmos"
+  "Ano": "2019",
+  "Numero": "25",
+  "Enunciado": ["Considere a seguinte função em C:"],
+  "Alternativas": ["$$\\theta(n)$$", "$$\\theta(n log n)$$", "$$\\theta(log n)$$", "$$\\theta(n^2)$$", "$$\\theta(n^2log n)$$"],
+  "Imagens": ["2019/images/img-25-01"],
+  "Resposta": 1,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Análise de Algoritmos"
 }

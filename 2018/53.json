@@ -1,11 +1,10 @@
 {
-  "N": "53",
-  "Enun": "Em relação à gestão de riscos no gerenciamento de projetos de software, analise as\nafirmações abaixo, assinalando V, se verdadeiras, ou F, se falsas.\n( ) Para identificar os riscos mais significativos em um projeto, a análise de riscos deve associar a\n     cada risco uma medida representando sua probabilidade de ocorrência, e uma avaliação de seu\n     impacto.\n( ) Existem diferentes estratégias para gerenciar riscos identificados. Um plano de contingência visa\n     reduzir a probabilidade de ocorrência de um risco, e minimizar o seu impacto.\n( ) A gerência de riscos é um processo contínuo, pois, à medida que o projeto avança, os riscos\n     gerenciados e as respectivas estratégias de gerência associadas podem se alterar.\nA ordem correta de preenchimento dos parênteses, de cima para baixo, é:",
-  "A": "V – F – V.",
-  "B": "V – F – F.",
-  "C": "F – V – F.",
-  "D": "F – F – V.",
-  "E": "V – V – V.",
-  "Resposta": "A",
-  "Componente": "Tecnologia da Computação"
+  "Ano": "2018",
+  "Numero": "53",
+  "Enunciado": ["Em relação à gestão de riscos no gerenciamento de projetos de software, analise as afirmações abaixo, assinalando V, se verdadeiras, ou F, se falsas.", "( ) Para identificar os riscos mais significativos em um projeto, a análise de riscos deve associar a cada risco uma medida representando sua probabilidade de ocorrência, e uma avaliação de seu impacto.", "( ) Existem diferentes estratégias para gerenciar riscos identificados. Um plano de contingência visa reduzir a probabilidade de ocorrência de um risco, e minimizar o seu impacto.", "( ) A gerência de riscos é um processo contínuo, pois, à medida que o projeto avança, os riscos gerenciados e as respectivas estratégias de gerência associadas podem se alterar.", "A ordem correta de preenchimento dos parênteses, de cima para baixo, é:"],
+  "Alternativas": ["V – F – V.", "V – F – F.", "F – V – F.", "F – F – V.", "V – V – V."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

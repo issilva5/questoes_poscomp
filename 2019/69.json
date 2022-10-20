@@ -1,11 +1,10 @@
 {
-  "N": "69",
-  "Enun": "Sobre a regra de Bayes, é correto afirmar que:",
-  "A": "Trata-se de uma ampliação do conceito de busca probabilística.",
-  "B": "Refere-se a uma regra lógico-indutiva.",
-  "C": "Utiliza a probabilidade de um evento a partir do conhecimento a priori.",
-  "D": "Associa-se à probabilidade de que não deve estar relacionada ao evento.",
-  "E": "Descreve a precisão de eventos medindo a proporção dos resultados.",
-  "Resposta": "C",
-  "Componente": "Inteligência Artificial"
+  "Ano": "2019",
+  "Numero": "69",
+  "Enunciado": ["Sobre a regra de Bayes, é correto afirmar que:"],
+  "Alternativas": ["Trata-se de uma ampliação do conceito de busca probabilística.", "Refere-se a uma regra lógico-indutiva.", "Utiliza a probabilidade de um evento a partir do conhecimento a priori.", "Associa-se à probabilidade de que não deve estar relacionada ao evento.", "Descreve a precisão de eventos medindo a proporção dos resultados."],
+  "Imagens": [],
+  "Resposta": 2,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": "Inteligência Artificial"
 }

@@ -1,11 +1,10 @@
 {
-  "N": "19",
-  "Enun": "Dois presentes distintos serão entregues a dois turistas de um grupo com 35 turistas.\nDe quantos modos diferentes pode ocorrer a entrega desses presentes?",
-  "A": "595",
-  "B": "834",
-  "C": "982",
-  "D": "1.106",
-  "E": "1.190",
-  "Resposta": "E",
-  "Componente": "Matemática"
+  "Ano": "2017",
+  "Numero": "19",
+  "Enunciado": ["Dois presentes distintos serão entregues a dois turistas de um grupo com 35 turistas. De quantos modos diferentes pode ocorrer a entrega desses presentes?"],
+  "Alternativas": ["595", "834", "982", "1.106", "1.190"],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

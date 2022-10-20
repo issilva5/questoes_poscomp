@@ -1,11 +1,10 @@
 {
-  "N": "04",
-  "Enun": "Em relação às figuras geométricas planas, a circunferência possui excentricidade:",
-  "A": "e =   0",
-  "B": "e =   1",
-  "C": "e <   1",
-  "D": "e >   1",
-  "E": "e =   √2\n                                                        |𝑥−2|",
-  "Resposta": "A",
-  "Componente": "Matemática"
+  "Ano": "2017",
+  "Numero": "04",
+  "Enunciado": ["Em relação às figuras geométricas planas, a circunferência possui excentricidade:"],
+  "Alternativas": ["e = 0", "e = 1", "e < 1", "e > 1", "e = $$\\sqrt[]{2}$$"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

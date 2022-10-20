@@ -1,11 +1,17 @@
 {
-  "N": "08",
-  "Enun": "Encontre as coordenadas retangulares do ponto (P), cujas coordenadas polares\nsão (3, 120°, 120°, 135°).\n                                             𝑥 = 𝑟 ∗ 𝑐𝑜𝑠 𝛼\n                                             𝑦 = 𝑟 ∗ 𝑐𝑜𝑠 𝛽\n                                             𝑧 = 𝑟 ∗ 𝑐𝑜𝑠 𝛾\n       −3 −3 −3√2",
-  "A": "𝑃 (    ,   ,     )\n        2   2    2\n       1 1 √2",
-  "B": "𝑃 (   , , )\n       2 2 2\n       −1 −1",
-  "C": "𝑃 (    ,   , √2)\n        2   2\n       3 3 1",
-  "D": "𝑃 (   , , )\n       2 2 2\n       −1 −3 √2",
-  "E": "𝑃( 2 ,     , )            2 2",
-  "Resposta": "A",
-  "Componente": "Geometria Analítica"
+  "Ano": "2019",
+  "Numero": "08",
+  "Enunciado": ["Encontre as coordenadas retangulares do ponto (P), cujas coordenadas polares são (3, 120°, 120°, 135°).", 
+                "$$x=r* \\cos\\alpha$$",
+                "$$y=r* \\cos \\beta$$", 
+                "$$z=r* \\cos \\gamma $$"],
+  "Alternativas": ["$$ \\left ( \\frac{-3}{2},\\frac{-3}{2},\\frac{-3\\sqrt{2}}{2} \\right ) $$", 
+                   "$$ \\left ( \\frac{1}{2},\\frac{1}{2},\\frac{\\sqrt{2}}{2} \\right ) $$",
+                   "$$ \\left ( \\frac{-1}{2},\\frac{-1}{2},\\sqrt{2} \\right ) $$", 
+                   "$$ \\left ( \\frac{3}{2},\\frac{3}{2},\\frac{1}{2} \\right ) $$", 
+                   "$$ \\left ( \\frac{-1}{2},\\frac{-3}{2},\\frac{\\sqrt{2}}{2} \\right ) $$"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Geometria Analítica"
 }

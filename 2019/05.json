@@ -1,11 +1,10 @@
 {
-  "N": "05",
-  "Enun": "Calcule o    𝑙𝑖𝑚           :\n                          𝑥→2 6𝑥²−3𝑥³",
-  "A": "–2",
-  "B": "∞",
-  "C": "0",
-  "D": "1",
-  "E": "–1",
-  "Resposta": "E",
-  "Componente": "Calculo Diferencial E Integral"
+  "Ano": "2019",
+  "Numero": "05",
+  "Enunciado": ["Calcule o $$\\lim_{x\\to 2} \\frac{x^3-8}{6x^2-3x^3}$$"],
+  "Alternativas": ["–2", "$$\\infty $$", "0", "1", "–1"],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Matemática",
+  "Subarea": "Cálculo Diferencial e Integral"
 }

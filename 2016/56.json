@@ -1,11 +1,10 @@
 {
-  "N": "56",
-  "Enun": "Os cinco valores fundamentais da metodologia XP são?\n A) Comunicação, simplicidade, feedback, coragem e respeito.\n B) Ética, capacitação, transparência, união e fidelização.\n C) Comunicação, ética, feedback, tecnologia e resultados.\n D) Liberdade, igualdade, ética, respeito e fraternidade.\n E) Comunicação, ética, união, resultados e liberdade.\n ",
-  "A": null,
-  "B": null,
-  "C": null,
-  "D": null,
-  "E": null,
-  "Resposta": "A",
-  "Componente": "TECNOLOGIA DE COMPUTAçãO"
+  "Ano": "2016",
+  "Numero": "56",
+  "Enunciado": ["Os cinco valores fundamentais da metodologia XP são?"],
+  "Alternativas": ["Comunicação, simplicidade, feedback, coragem e respeito.", "Ética, capacitação, transparência, união e fidelização.", "Comunicação, ética, feedback, tecnologia e resultados.", "Liberdade, igualdade, ética, respeito e fraternidade.", "Comunicação, ética, união, resultados e liberdade."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

@@ -1,11 +1,10 @@
 {
-  "N": "33",
-  "Enun": "Assinale a alternativa que contém uma estrutura de controle que permite que a\nexecução de um trecho de programa dependa do fato de uma condição ser verdadeira, isto é,\nvinculada à execução de um ou mais comandos ao resultado obtido na avaliação de uma expressão\nlógica (também denominada condicional).",
-  "A": "Seleção simples.",
-  "B": "Seleção dupla.",
-  "C": "Comando composto.",
-  "D": "Múltipla escolha.",
-  "E": "Seleção aninhada.",
-  "Resposta": "A",
-  "Componente": "Técnicas de Programação"
+  "Ano": "2019",
+  "Numero": "33",
+  "Enunciado": ["Assinale a alternativa que contém uma estrutura de controle que permite que a execução de um trecho de programa dependa do fato de uma condição ser verdadeira, isto é, vinculada à execução de um ou mais comandos ao resultado obtido na avaliação de uma expressão lógica (também denominada condicional)."],
+  "Alternativas": ["Seleção simples.", "Seleção dupla.", "Comando composto.", "Múltipla escolha.", "Seleção aninhada."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Técnicas de Programação"
 }

@@ -1,11 +1,10 @@
 {
-  "N": "45",
-  "Enun": "Considere o programa abaixo escrito em linguagem C. No instante da execução da\nlinha 5, ter-se-á uma hierarquia composta de quantos processos e threads, respectivamente?\n1        main(){\n2        int i;\n3        for(i=0;i<3;i++)\n4                 fork();\n5        while(1);\n6        }",
-  "A": "1  e 0.",
-  "B": "3  e 0.",
-  "C": "4  e 1.",
-  "D": "7  e 7.",
-  "E": "8  e  8.",
-  "Resposta": "E",
-  "Componente": "Sistemas Operacionais"
+  "Ano": "2019",
+  "Numero": "45",
+  "Enunciado": ["Considere o programa abaixo escrito em linguagem C. No instante da execução da linha 5, ter-se-á uma hierarquia composta de quantos processos e threads, respectivamente?"],
+  "Alternativas": ["1 e 0.", "3 e 0.", "4 e 1.", "7 e 7.", "8 e 8."],
+  "Imagens": ["2019/images/img-45-01"],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Sistemas Operacionais"
 }

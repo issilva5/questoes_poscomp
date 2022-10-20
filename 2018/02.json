@@ -1,11 +1,10 @@
 {
-  "N": "02",
-  "Enun": "Calcule as coordenadas de 1 + 𝑡 + 𝑡 2 na base (1, 𝑡 − 1, (𝑡 − 1)2 ), considerando 𝑬 =\nℝ𝟐 [𝒕], sendo as coordenadas: (𝜆, 𝜇, 𝜂).",
-  "A": "𝜂  = 1, 𝜇 = 3, 𝜆 = 3",
-  "B": "𝜂  = 0, 𝜇 = 3, 𝜆 = 3",
-  "C": "𝜂  = −1, 𝜇 = 1, 𝜆 = 1",
-  "D": "𝜂  = 1, 𝜇 = 2, 𝜆 = 1",
-  "E": "𝜂  = 3, 𝜇 = 3, 𝜆 = 3",
-  "Resposta": "A",
-  "Componente": "Matemática"
+  "Ano": "2018",
+  "Numero": "02",
+  "Enunciado": ["Calcule as coordenadas de $$1 + t + t^2$$ na base $$(1, t - 1, (t-1)^2)$$, considerando $$E = \\mathbb{R}_2[t]$$, sendo as coordenadas: $$(\\lambda,\\mu,\\eta)$$."],
+  "Alternativas": ["$$\\eta=1,\\mu=3,\\lambda=3$$", "$$\\eta=0,\\mu=3,\\lambda=3$$", "$$\\eta=-1,\\mu=1,\\lambda=1$$", "$$\\eta=1,\\mu=2,\\lambda=1$$", "$$\\eta=3,\\mu=3,\\lambda=3$$"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

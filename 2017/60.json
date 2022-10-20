@@ -1,11 +1,10 @@
 {
-  "N": "60",
-  "Enun": "Qual protocolo faz o mapeamento de endereço IP em endereço Ethernet?",
-  "A": "IEEE 802.11",
-  "B": "DNS",
-  "C": "TCP",
-  "D": "IP",
-  "E": "ARP",
-  "Resposta": "E",
-  "Componente": "Tecnologia da Computação"
+  "Ano": "2017",
+  "Numero": "60",
+  "Enunciado": ["Qual protocolo faz o mapeamento de endereço IP em endereço Ethernet?"],
+  "Alternativas": ["IEEE 802.11", "DNS", "TCP", "IP", "ARP"],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Tecnologia da Computação",
+  "Subarea": ""
 }

@@ -1,11 +1,10 @@
 {
-  "N": "05",
-  "Enun": "Os valores críticos da função                                         são:",
-  "A": "x=0, x=4 e x=10.",
-  "B": "x=4 e x=10.",
-  "C": "x=0, x=-4 e x=10.",
-  "D": "x=0, x=-4 e x=-10.",
-  "E": "x=0, x=4 e x=-10.",
-  "Resposta": "A",
-  "Componente": "MATEMáTICA"
+  "Ano": "2016",
+  "Numero": "05",
+  "Enunciado": ["Os valores críticos da função $$y = f(x)=\\frac{x^{4}}{4}-\\frac{14x^{3}}{3}+20x^{2}+5$$ são:"],
+  "Alternativas": ["x=0, x=4 e x=10.", "x=4 e x=10.", "x=0, x=-4 e x=10.", "x=0, x=-4 e x=-10.", "x=0, x=4 e x=-10."],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

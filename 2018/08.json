@@ -1,11 +1,16 @@
 {
-  "N": "08",
-  "Enun": "O ponto P(3, 45°, 60°) está expresso em coordenadas esféricas. Encontre suas\ncoordenadas cartesianas:\nAx = r . sen(𝜃).cos(𝜑)\nAy= r.sen(𝜃).sen(𝜑)\nAz = r.cos(𝜃)\n       3√2 3√6 3√2",
-  "A": "𝑃 (    ,       ,     )\n        4     4       2\n       3√6 3√2 3√2",
-  "B": "𝑃 (      ,       ,      )\n        4       4       4\n       3√2 3√2 3√2",
-  "C": "𝑃 (      ,       ,      )\n        2       4       2\n       3√2 3√2 3√2",
-  "D": "𝑃 (      ,       ,      )\n        4       2       2\n       3√2 3√6 3√6",
-  "E": "𝑃 (      ,       ,      )\n        4       4       4",
-  "Resposta": "A",
-  "Componente": "Matemática"
+  "Ano": "2018",
+  "Numero": "08",
+  "Enunciado": ["O ponto P(3, 45°, 60°) está expresso em coordenadas esféricas. Encontre suas coordenadas cartesianas:", "$$Ax=r.sen(\\theta).cos(\\phi)$$", "$$Ay=r.sen(\theta).sen(\\phi)$$", "$$Az=r.cos(\\theta)$$"],
+  "Alternativas": [
+    "$$P\\left(\\frac{3\\sqrt{2}}{4},\\frac{3\\sqrt{6}}{4},\\frac{3\\sqrt{2}}{2} \\right)$$",
+    "$$P\\left(\\frac{3\\sqrt{6}}{4},\\frac{3\\sqrt{2}}{4},\\frac{3\\sqrt{2}}{4} \\right)$$",
+    "$$P\\left(\\frac{3\\sqrt{2}}{2},\\frac{3\\sqrt{2}}{4},\\frac{3\\sqrt{2}}{2} \\right)$$",
+    "$$P\\left(\\frac{3\\sqrt{2}}{4},\\frac{3\\sqrt{2}}{2},\\frac{3\\sqrt{2}}{2} \\right)$$",
+    "$$P\\left(\\frac{3\\sqrt{2}}{4},\\frac{3\\sqrt{6}}{4},\\frac{3\\sqrt{6}}{4} \\right)$$"
+  ],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

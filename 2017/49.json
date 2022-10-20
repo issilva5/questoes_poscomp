@@ -1,11 +1,10 @@
 {
-  "N": "49",
-  "Enun": "Considere o seguinte trecho de programa em linguagem Assembly do MIPS:\nEm hexadecimal, os valores da palavra1 e palavra2 são, respectivamente:",
-  "A": "0x10010002   e 0x10010002",
-  "B": "0x10010000   e 0x10010004",
-  "C": "0x10010002   e 0x10010006",
-  "D": "0x10010000   e 0x10010008",
-  "E": "0x10010002   e 0x10010010",
-  "Resposta": "B",
-  "Componente": "Fundamentos da Computação"
+  "Ano": "2017",
+  "Numero": "49",
+  "Enunciado": ["Considere o seguinte trecho de programa em linguagem Assembly do MIPS:", "Em hexadecimal, os valores da palavra1 e palavra2 são, respectivamente:"],
+  "Alternativas": ["0x10010002 e 0x10010002", "0x10010000 e 0x10010004", "0x10010002 e 0x10010006", "0x10010000 e 0x10010008", "0x10010002 e 0x10010010"],
+  "Imagens": ["2017/images/img-49-01"],
+  "Resposta": 1,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": ""
 }

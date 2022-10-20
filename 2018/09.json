@@ -1,11 +1,16 @@
 {
-  "N": "09",
-  "Enun": "Simplifique por Karnaugh a função cuja expressão, em termos canônicos, é\n𝑓(𝑥, 𝑦, 𝑧) = ∑3 𝑚(2,5,6):",
-  "A": "𝑓(𝑥, 𝑦, 𝑧)       = 𝑥𝑦𝑧 + 𝑥𝑦̅𝑧 + 𝑥̅ 𝑦̅𝑧",
-  "B": "𝑓(𝑥, 𝑦, 𝑧)       = 𝑥𝑦̅𝑧 + 𝑥̅ 𝑦𝑧̅ + 𝑥𝑦𝑧̅",
-  "C": "𝑓(𝑥, 𝑦, 𝑧)       = 𝑥𝑦̅𝑧̅ + 𝑥𝑦𝑧 + 𝑥̅ 𝑦̅𝑧",
-  "D": "𝑓(𝑥, 𝑦, 𝑧)       = 𝑥𝑦𝑧 + 𝑥𝑦𝑧̅ + 𝑥̅ 𝑦𝑧",
-  "E": "𝑓(𝑥, 𝑦, 𝑧)       = 𝑥𝑦𝑧 + 𝑥𝑦𝑧 + 𝑥̅ 𝑦𝑧\n                                             𝑥",
-  "Resposta": "B",
-  "Componente": "Matemática"
+  "Ano": "2018",
+  "Numero": "09",
+  "Enunciado": ["Simplifique por Karnaugh a função cuja expressão, em termos canônicos, é $$f(x, y, z) = {\\sum}_{3}m(2,5,6)$$:"],
+  "Alternativas": [
+    "$$f(x,y,z)=xyz+x\\bar{y}z+\\bar{x}\\bar{y}z$$",
+    "$$f(x,y,z)=x\\bar{y}z+\\bar{x}y\\bar{z}+xy\\bar{z}$$",
+    "$$f(x,y,z)=x\\bar{y}z+xyz+\\bar{x}\\bar{y}z$$",
+    "$$f(x,y,z)=xyz+xy\\bar{z}+\\bar{x}yz$$",
+    "$$f(x,y,z)=xyz+xyz+\\bar{x}yz$$"
+  ],
+  "Imagens": [],
+  "Resposta": 1,
+  "Componente": "Matemática",
+  "Subarea": ""
 }

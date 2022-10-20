@@ -1,11 +1,10 @@
 {
-  "N": "40",
-  "Enun": "Considere as seguintes afirmações sobre classes de problemas:\n  I. O problema de decisão CAM, descrito a seguir, pertence à classe de complexidade P.\n    CAM (caminho em grafo)\n    Entrada: uma tripla (G,a,b) em que\n G é um grafo\n a e b são nodos de G\nPergunta: Existe caminho em G iniciando em a e terminando em b?\n II. Um problema X pertence à classe de problemas NP-completos quando satisfaz às seguintes\n     condições:\n X pertence à classe NP, e\n todo problema Y da classe NP pode ser reduzido em tempo polinomial a X.\nIII. Se um problema de decisão X pertence à classe P, então o complemento do problema X (problema\n     com as mesmas instâncias que X, porém com as respectivas respostas invertidas) pertence à\n     classe NP.\nQuais estão corretas?",
-  "A": "Apenas I.",
-  "B": "Apenas III.",
-  "C": "Apenas I e II.",
-  "D": "Apenas II e III.",
-  "E": "I, II e III.",
-  "Resposta": "E",
-  "Componente": "Linguagens Formais, Autômatos E Computabilidade"
+  "Ano": "2019",
+  "Numero": "40",
+  "Enunciado": ["Considere as seguintes afirmações sobre classes de problemas:", "I. O problema de decisão CAM, descrito a seguir, pertence à classe de complexidade P.", "CAM (caminho em grafo)", "Entrada: uma tripla (G,a,b) em que", "$$\\bullet$$ G é um grafo", "$$\\bullet$$ a e b são nodos de G", "Pergunta: Existe caminho em G iniciando em a e terminando em b?", "II. Um problema X pertence à classe de problemas NP-completos quando satisfaz às seguintes condições:", "$$\\bullet$$ X pertence à classe NP, e", "$$\\bullet$$ todo problema Y da classe NP pode ser reduzido em tempo polinomial a X.", "III. Se um problema de decisão X pertence à classe P, então o complemento do problema X (problema com as mesmas instâncias que X, porém com as respectivas respostas invertidas) pertence à classe NP.", "Quais estão corretas?"],
+  "Alternativas": ["Apenas I.", "Apenas III.", "Apenas I e II.", "Apenas II e III.", "I, II e III."],
+  "Imagens": [],
+  "Resposta": 4,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Linguagens Formais, Autômatos e Computabilidade"
 }

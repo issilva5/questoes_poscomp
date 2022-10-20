@@ -1,11 +1,10 @@
 {
-  "N": "09",
-  "Enun": "Simplifique, com a ajuda dos Mapas de Karnaugh, a função cuja expressão em termos\ncanônicos é: 𝑓(𝑥, 𝑦, 𝑧) = ∑ 𝑚(2,3,4,5,6,7)",
-  "A": "𝑓(𝑋, 𝑌, 𝑍) = 𝑋 + 𝑌",
-  "B": "𝑓(𝑋, 𝑌, 𝑍) = 𝑋 + 𝑌 + 𝑍",
-  "C": "𝑓(𝑋, 𝑌, 𝑍) = 𝑋 + 𝑌",
-  "D": "𝑓(𝑋, 𝑌, 𝑍) = 𝑋𝑌 + 𝑌",
-  "E": "𝑓(𝑋, 𝑌, 𝑍) = 𝑋 + 𝑌 + Z",
-  "Resposta": "A",
-  "Componente": "Matemática Discreta"
+  "Ano": "2019",
+  "Numero": "09",
+  "Enunciado": ["Simplifique, com a ajuda dos Mapas de Karnaugh, a função cuja expressão em termos canônicos é: $$ f(x,y,z)=\\sum m(2,3,4,5,6,7) $$"],
+  "Alternativas": ["$$ f(X,Y,Z)= X+Y $$", "$$ f(X,Y,Z)= X+Y +Z$$", "$$ f(X,Y,Z)= \\overline{X}+Y$$", "$$ f(X,Y,Z)= XY+Y $$", "$$ f(X,Y,Z)= X+Y +\\overline{Z} $$"],
+  "Imagens": [],
+  "Resposta": 0,
+  "Componente": "Matemática",
+  "Subarea": "Matemática Discreta"
 }

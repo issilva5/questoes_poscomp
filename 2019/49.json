@@ -1,11 +1,10 @@
 {
-  "N": "49",
-  "Enun": "Em uma máquina de 32 bits, subdividimos o endereço virtual em 4 segmentos da\nseguinte maneira:\nUma tabela de páginas de 3 níveis é utilizada, de modo que os primeiros 10 bits são para o primeiro\nnível e assim por diante. Sendo assim, qual é o tamanho de uma tabela de páginas para um processo\nque tem 256K de memória iniciando no endereço 0?",
-  "A": "6480   bytes.",
-  "B": "4608   bytes.",
-  "C": "3240   bytes.",
-  "D": "2408   bytes.",
-  "E": "1020   bytes.",
-  "Resposta": "B",
-  "Componente": "Arquitetura E Organização de Computadores"
+  "Ano": "2019",
+  "Numero": "49",
+  "Enunciado": ["Em uma máquina de 32 bits, subdividimos o endereço virtual em 4 segmentos da seguinte maneira:", "Uma tabela de páginas de 3 níveis é utilizada, de modo que os primeiros 10 bits são para o primeiro nível e assim por diante. Sendo assim, qual é o tamanho de uma tabela de páginas para um processo que tem 256K de memória iniciando no endereço 0?"],
+  "Alternativas": ["6480 bytes.", "4608 bytes.", "3240 bytes.", "2408 bytes.", "1020 bytes."],
+  "Imagens": ["2019/images/img-49-01"],
+  "Resposta": 1,
+  "Componente": "Fundamentos da Computação",
+  "Subarea": "Arquitetura e Organização de Computadores"
 }

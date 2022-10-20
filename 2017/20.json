@@ -1,11 +1,10 @@
 {
-  "N": "20",
-  "Enun": "Deseja-se preparar um recipiente com 100g de um produto extremamente caro,\nsendo necessário minimizar o erro na hora da pesagem. Para isso, se dispõe de uma balança que\npossui erro de medição, σ, dependente da quantidade pesada (μ), da forma σ = 0,1μ. Com qual dos\nseguintes métodos se obtém maior precisão na pesagem?",
-  "A": "Pesando  as 100g de uma vez.",
-  "B": "Pesando  10 recipientes de 100g, realizando a média e escolhendo um recipiente aleatório.",
-  "C": "Pesando  5 porções de 20g e depois juntando-as.",
-  "D": "Pesando  10 porções de 10g e depois juntando-as.",
-  "E": "Pesando  2 porções de 50g e depois juntando-as.",
-  "Resposta": "D",
-  "Componente": "Matemática"
+  "Ano": "2017",
+  "Numero": "20",
+  "Enunciado": ["Deseja-se preparar um recipiente com 100g de um produto extremamente caro, sendo necessário minimizar o erro na hora da pesagem. Para isso, se dispõe de uma balança que possui erro de medição, $$\\sigma$$, dependente da quantidade pesada ($$\\mu$$), da forma $$\\sigma = 0,1 \\mu$$. Com qual dos seguintes métodos se obtém maior precisão na pesagem?"],
+  "Alternativas": ["Pesando  as 100g de uma vez.", "Pesando  10 recipientes de 100g, realizando a média e escolhendo um recipiente aleatório.", "Pesando  5 porções de 20g e depois juntando-as.", "Pesando  10 porções de 10g e depois juntando-as.", "Pesando  2 porções de 50g e depois juntando-as."],
+  "Imagens": [],
+  "Resposta": 3,
+  "Componente": "Matemática",
+  "Subarea": ""
 }
